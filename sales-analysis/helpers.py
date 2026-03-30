@@ -1,5 +1,6 @@
 # helpers.py
 
+# Functions
 def calculate_total(quantity, price):
     """Calculate total for a single item"""
     return quantity * price
