@@ -12,6 +12,7 @@ if os.path.exists(file_path):
     df = pd.read_excel(file_path, sheet_name="active")
     loan = df.to_dict(orient="records")
     is_found = True
+
     try:
         df1 = pd.read_excel(file_path, sheet_name="finished")
         finished_loan = df1.to_dict(orient="records")
@@ -63,11 +64,13 @@ def view_loan(name):
                 is_found = True
                 for key, value in new_loan_data[i].items():
                     print(f"{key}: {value}")
+
     for i in range(len(loan)):
         if name.lower() == loan[i]["name"]:
             is_found = True
             for key, value in loan[i].items():
                 print(f"{key}: {value}")
+
     if not is_found:
         print(f"No active loan for {name} found!")
 
@@ -125,10 +128,12 @@ def main():
             name = input("Please enter loan name: ").strip()
             amount = input("Please enter amount to loan: ").strip()
             duration = input("Please enter duration of loan (months): ").strip()
+
             while not amount.isdigit() and not duration.isdigit():
                 print("Please enter a valid number!")
                 amount = input("Please enter amount to loan: ").strip()
                 duration = input("Please enter duration of loan (months): ").strip()
+
             if name and amount and duration:
                 new_loan(name, int(amount), int(duration))
                 input("\nPress enter to continue...")
@@ -146,9 +151,11 @@ def main():
         elif ch == "3":
             name = input("Please enter loan name: ").strip()
             amount = input("Please enter amount to pay: ").strip()
+
             while not amount.isdigit():
                 print("Please enter a valid number!")
                 amount = input("Please enter amount to pay: ").strip()
+
             if name and amount:
                 payment(name, int(amount))
                 input("\nPress enter to continue...")
@@ -166,6 +173,7 @@ def main():
                 df_final_fin_loan = pd.concat(
                     [df_old_fin_loan, df_new_fin_loan], ignore_index=True
                 )
+
                 with pd.ExcelWriter("loan.xlsx", engine="xlsxwriter") as writer:
                     df_final_loan.to_excel(writer, sheet_name="active", index=False)
                     df_final_fin_loan.to_excel(

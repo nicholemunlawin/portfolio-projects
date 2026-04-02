@@ -89,4 +89,7 @@ target/
 # Virtual environment
 .venv/
 
+# Excel file
+loan.xlsx
 *.xlsx
+*.xls
