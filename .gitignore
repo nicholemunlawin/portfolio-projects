@@ -93,3 +93,6 @@ target/
 loan.xlsx
 *.xlsx
 *.xls
+
+# workspace
+*.code-workspace
