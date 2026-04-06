@@ -16,13 +16,14 @@ if os.path.exists(file_path):
     try:
         df1 = pd.read_excel(file_path, sheet_name="finished")
         finished_loan = df1.to_dict(orient="records")
-    except:
+    except FileNotFoundError:
         finished_loan = []
 
 else:
     loan = []
     finished_loan = []
 
+# Blank list for new data updates
 new_loan_data = []
 new_finished_loan = []
 
@@ -36,9 +37,11 @@ def new_loan(name, amount, duration):
     loan_dict["amount"] = amount
     loan_dict["duration"] = duration
     loan_dict["start_date"] = date.today()
+
+    # Adds total duration of loan (months) to the start date of loan application
     loan_dict["end_date"] = date.today() + relativedelta(months=duration)
 
-    # Loan total computation
+    # Loan total computation (amount + total interest)
     loan_dict["total_credit"] = amount + (amount * interest_rate * duration)
 
     # Loan computation for monthly payment
@@ -129,11 +132,13 @@ def main():
             amount = input("Please enter amount to loan: ").strip()
             duration = input("Please enter duration of loan (months): ").strip()
 
+            # Loop for checking a valid number input
             while not amount.isdigit() and not duration.isdigit():
                 print("Please enter a valid number!")
                 amount = input("Please enter amount to loan: ").strip()
                 duration = input("Please enter duration of loan (months): ").strip()
 
+            # Run if data input is complete
             if name and amount and duration:
                 new_loan(name, int(amount), int(duration))
                 input("\nPress enter to continue...")
@@ -152,33 +157,42 @@ def main():
             name = input("Please enter loan name: ").strip()
             amount = input("Please enter amount to pay: ").strip()
 
+            # Loop for checking a valid number input
             while not amount.isdigit():
                 print("Please enter a valid number!")
                 amount = input("Please enter amount to pay: ").strip()
 
+            # Run if data input is complete
             if name and amount:
                 payment(name, int(amount))
                 input("\nPress enter to continue...")
 
+        # Program exit and saves updates to Excel file
         elif ch == "4":
             print("Thank you for using my app! Goodbye!")
 
-            # Saves transactions made by user to a record in Excel file format
+            # If existing Excel file found update file
             if is_found:
+                # Updates active loan
                 df_new_loan = pd.DataFrame(new_loan_data)
                 df_old = pd.DataFrame(loan)
                 df_final_loan = pd.concat([df_old, df_new_loan], ignore_index=True)
+
+                # Updates finished loan
                 df_new_fin_loan = pd.DataFrame(new_finished_loan)
                 df_old_fin_loan = pd.DataFrame(finished_loan)
                 df_final_fin_loan = pd.concat(
                     [df_old_fin_loan, df_new_fin_loan], ignore_index=True
                 )
 
+                # Saves updates
                 with pd.ExcelWriter("loan.xlsx", engine="xlsxwriter") as writer:
                     df_final_loan.to_excel(writer, sheet_name="active", index=False)
                     df_final_fin_loan.to_excel(
                         writer, sheet_name="finished", index=False
                     )
+
+            # If no existing Excel file found create new file
             else:
                 df = pd.DataFrame(loan)
                 df1 = pd.DataFrame(finished_loan)
@@ -186,6 +200,7 @@ def main():
                     df.to_excel(writer, sheet_name="active", index=False)
                     df1.to_excel(writer, sheet_name="finished", index=False)
             break
+
         else:
             print("Invalid input!")
             input("\nPress enter to continue...")
