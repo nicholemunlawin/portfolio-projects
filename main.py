@@ -48,7 +48,7 @@ class ExpenseTracker:
             reader = csv.DictReader(file)
             for row in reader:
                 print(
-                    f"{row['Date']:<20} | {row['Category']:<15} | ${row['Amount']:<9} | {row['Description']}"
+                    f"{row['Date']:<20} | {row['Category']:<15} | ₱{row['Amount']:<9} | {row['Description']}"
                 )
         print("=" * 60)
 
@@ -60,7 +60,7 @@ class ExpenseTracker:
                 reader = csv.DictReader(file)
                 for row in reader:
                     total += float(row["Amount"])
-            print(f"\n[💰] Total Expenses to date: ${total:.2f}")
+            print(f"\n[💰] Total Expenses to date: ₱{total:.2f}")
         except (FileNotFoundError, ValueError):
             print("\n[!] No valid data to calculate total.")
 
