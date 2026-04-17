@@ -3,6 +3,7 @@ const navLinks = Array.from(document.querySelectorAll('.nav a'));
 const sections = navLinks
     .map(link => document.querySelector(link.getAttribute('href')))
     .filter(Boolean);
+const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 // Keep the navigation underline aligned with the section currently in view.
 function setActiveNav() {
@@ -27,31 +28,30 @@ function setActiveNav() {
     });
 }
 
-// Re-trigger reveal animations whenever elements leave and re-enter the viewport.
+// Reveal elements once as they enter the viewport, and skip motion-heavy effects when reduced motion is preferred.
 const revealElements = Array.from(document.querySelectorAll('.reveal'));
+let revealObserver = null;
 
-const revealObserver = new IntersectionObserver((entries) => {
+if (prefersReducedMotion) {
+    revealElements.forEach(el => el.classList.add('visible'));
+} else {
+    revealObserver = new IntersectionObserver((entries, observer) => {
     entries.forEach(entry => {
-    if (entry.isIntersecting) {
-        entry.target.classList.remove('visible');
-        requestAnimationFrame(() => {
-        requestAnimationFrame(() => {
-            entry.target.classList.add('visible');
-        });
-        });
-    } else {
-        entry.target.classList.remove('visible');
-    }
+        if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        observer.unobserve(entry.target);
+        }
     });
-}, {
+    }, {
     threshold: 0.18,
     rootMargin: '0px 0px -8% 0px'
-});
+    });
 
-revealElements.forEach(el => {
+    revealElements.forEach(el => {
     el.classList.remove('visible');
     revealObserver.observe(el);
-});
+    });
+}
 
 // Throttle scroll-driven UI updates with requestAnimationFrame.
 let ticking = false;
@@ -70,16 +70,8 @@ window.addEventListener('resize', setActiveNav);
 // Animate any elements already visible when the page initially loads.
 window.addEventListener('load', () => {
     setActiveNav();
-    setTimeout(() => {
-    revealElements.forEach((el) => {
-        const rect = el.getBoundingClientRect();
-        if (rect.top < window.innerHeight * 0.92 && rect.bottom > 0) {
-        el.classList.remove('visible');
-        requestAnimationFrame(() => {
-            requestAnimationFrame(() => el.classList.add('visible'));
-        });
-        }
-    });
-    }, 80);
+    if (prefersReducedMotion) {
+    revealElements.forEach(el => el.classList.add('visible'));
+    }
 });
 setActiveNav();
