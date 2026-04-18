@@ -46,7 +46,3 @@ python main.py
 - Search history is stored locally and can be cleared from the GUI.
 - If the history file becomes invalid, the app backs it up and starts with a clean history file.
 - Pronunciation audio and source links can be opened from the app when available in the API response.
-
-## GitHub Upload
-
-This repository is ready to upload as-is. The main application entry point is `main.py`.
