@@ -2,14 +2,14 @@
 
 Compact Excel dashboard project using sample retail-style data across transactions, customers, and products.
 
-![Small Dummy Data Dashboard](<Small Dummy Data (Dashboard) Capture.png>)
+![Small Dummy Data Dashboard](small-dummy-data-dashboard-capture.png)
 
 ## Files
 
 | File | Purpose |
 |---|---|
 | `Small Dummy Data (Dashboard).xlsx` | Main Excel workbook containing the dashboard, analysis, transactions, customers, products, and supporting summaries. |
-| `Small Dummy Data (Dashboard) Capture.png` | Dashboard preview image for GitHub. |
+| `small-dummy-data-dashboard-capture.png` | Dashboard preview image for GitHub. |
 | `DATA_DICTIONARY.md` | Sheet catalog and key field descriptions. |
 | `.gitignore` | Excludes local Excel lock files, OS files, editor folders, and generated exports. |
 | `.gitattributes` | Marks workbook and image assets as binary files. |
