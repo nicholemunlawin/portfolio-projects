@@ -36,9 +36,9 @@ Each project is kept in its own folder, and the original Git history is preserve
 
 | Project | Description | Technologies |
 |---|---|---|
-| [HR Analytics Dashboard](<Excel Projects/hr-analytics-dashboard>) | Synthetic HR analytics dashboard covering attrition, workforce metrics, salary, tenure, engagement, and employee demographics. | Excel, Dashboard, Pivot Tables, Charts |
-| [Retail Sales Dashboard](<Excel Projects/retail-sales-dashboard>) | Synthetic retail sales and customer experience dashboard covering sales, profit, returns, regions, categories, channels, and ratings. | Excel, Dashboard, Pivot Tables, Charts |
-| [Small Dummy Data Dashboard](<Excel Projects/small-dummy-data-dashboard>) | Synthetic retail-style sample dashboard with transactions, customers, products, satisfaction, returns, and profitability analysis. | Excel, Dashboard, Pivot Tables, Charts |
+| [HR Analytics Dashboard](excel-projects/hr-analytics-dashboard) | Synthetic HR analytics dashboard covering attrition, workforce metrics, salary, tenure, engagement, and employee demographics. | Excel, Dashboard, Pivot Tables, Charts |
+| [Retail Sales Dashboard](excel-projects/retail-sales-dashboard) | Synthetic retail sales and customer experience dashboard covering sales, profit, returns, regions, categories, channels, and ratings. | Excel, Dashboard, Pivot Tables, Charts |
+| [Small Dummy Data Dashboard](excel-projects/small-dummy-data-dashboard) | Synthetic retail-style sample dashboard with transactions, customers, products, satisfaction, returns, and profitability analysis. | Excel, Dashboard, Pivot Tables, Charts |
 
 ## Web Projects
 
