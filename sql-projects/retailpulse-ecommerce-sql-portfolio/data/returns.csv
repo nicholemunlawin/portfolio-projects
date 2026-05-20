@@ -1,0 +1,3400 @@
+return_id,order_id,customer_id,return_reason,return_status,refund_amount,return_date
+1,2,7603,Not as described,received,306.38,2025-08-17
+2,21,9875,Not as described,refunded,433.86,2025-04-29
+3,25,1240,Too large,requested,470.03,2023-08-05
+4,26,347,Too large,refunded,193.32,2024-03-22
+5,43,7007,Changed mind,refunded,531.20,2023-04-16
+6,54,2229,Wrong item,refunded,303.49,2025-04-22
+7,116,2056,Arrived late,received,186.66,2024-06-27
+8,132,767,Wrong item,refunded,1892.88,2023-10-02
+9,137,3550,Arrived late,refunded,611.26,2024-07-24
+10,154,2831,Not as described,rejected,265.73,2023-02-16
+11,166,7681,Changed mind,approved,269.77,2024-02-10
+12,168,5022,Not as described,received,255.49,2025-03-09
+13,203,6327,Too large,refunded,299.48,2024-07-02
+14,243,1971,Damaged,refunded,537.37,2024-08-10
+15,247,7388,Arrived late,rejected,2132.29,2024-10-27
+16,258,6230,Arrived late,refunded,344.40,2023-02-26
+17,284,4361,Changed mind,received,947.88,2024-04-26
+18,288,4495,Wrong item,refunded,1757.72,2023-04-14
+19,290,5423,Changed mind,refunded,123.92,2023-11-14
+20,311,3193,Arrived late,requested,175.87,2024-12-12
+21,334,4580,Too large,refunded,255.47,2025-03-17
+22,336,9214,Changed mind,received,234.46,2025-09-30
+23,363,7948,Changed mind,received,17.94,2025-01-11
+24,377,3836,Changed mind,refunded,790.09,2024-05-10
+25,379,8781,Damaged,received,189.58,2024-05-29
+26,387,9417,Damaged,received,1230.85,2024-07-05
+27,420,1154,Wrong item,received,447.49,2023-04-28
+28,425,5551,Changed mind,received,42.84,2025-05-27
+29,432,5790,Damaged,received,4150.99,2024-05-29
+30,449,2050,Too small,refunded,2392.80,2025-02-28
+31,453,3656,Changed mind,approved,1371.75,2024-01-15
+32,456,8614,Wrong item,rejected,1639.70,2024-06-14
+33,479,8047,Too large,refunded,1658.26,2024-06-24
+34,485,3752,Damaged,refunded,207.18,2024-07-05
+35,498,78,Changed mind,received,252.48,2023-10-17
+36,511,9357,Too small,refunded,1339.64,2025-05-16
+37,517,4258,Not as described,requested,170.48,2024-09-16
+38,522,1529,Too large,approved,334.84,2024-06-16
+39,533,3878,Too large,refunded,64.36,2024-10-03
+40,587,5191,Arrived late,received,190.26,2023-07-14
+41,595,7883,Damaged,refunded,126.07,2023-06-17
+42,606,8334,Wrong item,approved,35.59,2024-07-02
+43,609,3118,Not as described,received,755.21,2023-03-04
+44,615,1126,Not as described,refunded,381.53,2025-01-30
+45,622,2492,Too large,refunded,212.08,2025-12-20
+46,630,2381,Not as described,approved,624.13,2023-09-19
+47,631,4276,Damaged,requested,441.42,2024-01-16
+48,640,6564,Too small,approved,335.53,2024-04-15
+49,642,2140,Too large,refunded,525.01,2023-04-02
+50,674,7440,Wrong item,received,91.91,2024-12-21
+51,682,6147,Wrong item,received,692.38,2025-11-24
+52,695,1668,Damaged,received,57.64,2025-10-20
+53,737,4942,Wrong item,approved,1135.25,2026-01-25
+54,738,2068,Wrong item,refunded,58.82,2025-04-14
+55,741,897,Arrived late,approved,206.53,2025-11-12
+56,772,5491,Wrong item,refunded,115.31,2023-12-20
+57,776,964,Changed mind,approved,556.78,2026-03-06
+58,778,1177,Arrived late,requested,229.37,2025-08-06
+59,804,936,Arrived late,received,187.95,2023-04-07
+60,834,1228,Damaged,rejected,1625.31,2025-04-26
+61,841,3533,Too small,requested,1124.84,2025-08-21
+62,864,6164,Too small,refunded,88.29,2023-10-16
+63,869,1057,Not as described,approved,739.63,2025-01-10
+64,872,1540,Not as described,refunded,282.62,2026-01-02
+65,881,8203,Too small,refunded,152.91,2025-03-21
+66,940,38,Damaged,rejected,154.38,2024-12-26
+67,960,1866,Too small,rejected,604.75,2023-12-22
+68,977,4971,Not as described,refunded,56.05,2025-09-30
+69,999,8140,Damaged,received,192.28,2024-12-23
+70,1000,6045,Arrived late,rejected,304.87,2023-09-08
+71,1011,6603,Arrived late,approved,1513.86,2024-06-24
+72,1020,6704,Not as described,approved,84.15,2024-01-11
+73,1024,3591,Wrong item,requested,723.84,2023-04-18
+74,1038,7601,Damaged,received,194.86,2025-11-21
+75,1071,6122,Arrived late,refunded,7.94,2025-08-30
+76,1072,6720,Too small,approved,412.96,2025-09-21
+77,1076,1222,Damaged,refunded,48.73,2025-08-13
+78,1082,9022,Wrong item,refunded,22.40,2024-01-19
+79,1089,4541,Changed mind,refunded,280.22,2024-08-14
+80,1117,935,Changed mind,approved,157.05,2025-01-09
+81,1135,8796,Damaged,requested,221.00,2023-12-22
+82,1180,7310,Too large,received,125.32,2023-04-12
+83,1245,5435,Too small,approved,750.53,2025-08-03
+84,1259,518,Too small,refunded,1341.48,2024-10-31
+85,1267,5701,Changed mind,rejected,535.45,2024-06-16
+86,1277,1101,Too large,requested,138.71,2024-06-11
+87,1282,4755,Not as described,refunded,532.28,2024-08-17
+88,1295,226,Wrong item,refunded,191.99,2023-04-24
+89,1316,7461,Wrong item,requested,58.82,2024-12-16
+90,1330,715,Changed mind,received,273.76,2026-01-11
+91,1334,7944,Changed mind,refunded,593.73,2023-04-20
+92,1335,2556,Arrived late,refunded,187.89,2023-08-13
+93,1347,2579,Arrived late,refunded,213.55,2023-07-29
+94,1350,9888,Too large,rejected,1318.82,2023-12-16
+95,1359,6579,Arrived late,refunded,808.66,2025-01-30
+96,1361,2818,Wrong item,requested,950.96,2025-07-06
+97,1371,7730,Arrived late,refunded,58.71,2023-06-21
+98,1400,393,Too large,received,601.17,2023-12-11
+99,1416,1925,Too large,requested,884.83,2023-08-06
+100,1418,7659,Damaged,refunded,847.58,2023-10-28
+101,1428,6875,Not as described,approved,706.96,2025-10-03
+102,1433,4737,Wrong item,refunded,960.96,2024-07-09
+103,1435,8266,Changed mind,requested,90.04,2025-01-25
+104,1440,7774,Too large,requested,531.40,2024-02-19
+105,1451,2171,Too large,received,230.39,2023-08-04
+106,1477,2737,Not as described,received,326.62,2024-01-30
+107,1494,3521,Too small,received,125.58,2025-02-01
+108,1505,3974,Changed mind,refunded,392.72,2023-06-21
+109,1515,3827,Wrong item,refunded,385.20,2025-02-19
+110,1531,7704,Too small,approved,593.79,2024-12-19
+111,1548,1216,Damaged,refunded,637.55,2024-04-13
+112,1565,2596,Changed mind,refunded,612.78,2023-08-19
+113,1567,2507,Wrong item,refunded,159.46,2023-05-27
+114,1601,3483,Changed mind,received,1798.67,2023-11-22
+115,1680,2366,Too large,rejected,202.40,2025-08-30
+116,1718,6378,Changed mind,refunded,32.24,2023-11-10
+117,1719,9002,Wrong item,requested,387.52,2024-10-06
+118,1749,2441,Too large,received,990.16,2023-02-21
+119,1768,6433,Too large,requested,810.28,2023-04-21
+120,1782,9214,Too small,rejected,484.71,2025-08-24
+121,1798,4343,Wrong item,received,474.84,2026-01-04
+122,1816,6196,Changed mind,refunded,189.34,2023-05-28
+123,1828,2490,Not as described,received,247.37,2023-11-20
+124,1841,2259,Changed mind,refunded,564.61,2025-08-02
+125,1871,4826,Not as described,refunded,922.77,2023-04-12
+126,1872,4552,Too small,received,533.84,2023-11-05
+127,1913,8938,Arrived late,rejected,96.98,2023-12-23
+128,1919,1044,Too small,received,343.65,2024-04-22
+129,1926,3281,Too small,received,1280.03,2024-08-10
+130,1939,9182,Damaged,received,667.55,2023-11-15
+131,1940,7434,Wrong item,refunded,184.86,2024-06-10
+132,1950,6964,Too small,received,89.41,2024-11-19
+133,1957,2495,Changed mind,rejected,394.43,2025-01-21
+134,1978,1600,Wrong item,received,319.05,2023-06-22
+135,1989,4362,Arrived late,refunded,61.07,2024-05-15
+136,1991,2519,Damaged,received,308.16,2023-09-22
+137,1997,4679,Wrong item,refunded,863.68,2024-12-01
+138,2008,9424,Too small,requested,1387.15,2025-03-09
+139,2013,4743,Too small,approved,97.81,2024-12-29
+140,2028,6217,Wrong item,refunded,675.79,2024-01-06
+141,2048,8727,Arrived late,rejected,691.10,2025-02-04
+142,2115,6285,Too small,received,263.11,2025-05-03
+143,2131,3183,Too large,requested,77.14,2023-04-04
+144,2154,8822,Not as described,refunded,33.17,2025-05-14
+145,2155,3881,Not as described,received,918.06,2024-01-30
+146,2158,5094,Too small,refunded,2809.20,2024-02-16
+147,2190,7072,Arrived late,refunded,1567.76,2026-02-09
+148,2212,7902,Too small,refunded,512.99,2024-12-27
+149,2214,5217,Wrong item,received,93.73,2025-06-08
+150,2215,3463,Damaged,refunded,680.38,2024-09-03
+151,2228,2301,Wrong item,approved,83.15,2026-02-01
+152,2251,6004,Arrived late,approved,292.09,2024-03-01
+153,2255,5997,Wrong item,refunded,812.82,2025-08-24
+154,2276,8450,Not as described,refunded,414.57,2025-05-02
+155,2284,1335,Damaged,refunded,210.23,2025-11-08
+156,2302,9572,Changed mind,refunded,484.28,2024-07-12
+157,2305,1552,Wrong item,approved,599.97,2025-01-24
+158,2312,3755,Too large,received,146.08,2025-08-22
+159,2318,2020,Not as described,refunded,283.69,2024-07-29
+160,2323,1263,Damaged,rejected,319.53,2023-04-07
+161,2329,2691,Damaged,refunded,897.95,2023-12-07
+162,2349,4943,Wrong item,refunded,337.06,2023-07-20
+163,2369,5586,Too small,refunded,569.38,2025-10-21
+164,2420,8933,Damaged,requested,197.90,2026-01-23
+165,2445,1989,Not as described,received,93.11,2025-03-24
+166,2454,3323,Damaged,refunded,212.44,2024-11-12
+167,2480,2239,Wrong item,received,24.61,2025-05-09
+168,2488,6310,Damaged,refunded,1053.72,2025-01-12
+169,2509,2175,Too small,received,796.91,2025-09-14
+170,2513,9611,Too small,refunded,721.78,2024-10-10
+171,2517,8547,Wrong item,received,63.15,2025-08-03
+172,2534,715,Damaged,rejected,193.11,2023-12-10
+173,2541,9328,Damaged,refunded,57.39,2024-08-31
+174,2544,9613,Too small,refunded,2030.96,2025-01-11
+175,2552,7656,Changed mind,refunded,7.49,2024-03-12
+176,2560,9915,Damaged,approved,231.84,2024-04-29
+177,2566,7163,Damaged,received,1245.80,2023-05-22
+178,2573,1087,Arrived late,approved,1945.55,2024-08-05
+179,2577,2228,Too small,requested,556.07,2025-04-09
+180,2580,4341,Changed mind,rejected,146.96,2023-09-26
+181,2583,6118,Wrong item,rejected,865.59,2024-01-08
+182,2590,2626,Changed mind,received,418.82,2025-03-23
+183,2599,7447,Arrived late,received,2080.88,2024-08-05
+184,2605,7607,Wrong item,refunded,715.09,2025-03-25
+185,2628,2834,Wrong item,received,814.64,2025-10-28
+186,2651,8691,Too small,requested,223.90,2025-07-12
+187,2653,5687,Damaged,received,300.80,2024-02-18
+188,2680,5424,Too small,requested,2426.31,2024-03-30
+189,2684,7793,Too small,refunded,111.33,2023-02-12
+190,2706,9849,Changed mind,approved,569.57,2023-11-27
+191,2712,9933,Not as described,approved,1042.46,2025-01-09
+192,2720,9114,Damaged,received,57.61,2024-11-16
+193,2754,227,Not as described,received,94.31,2024-01-25
+194,2771,5903,Wrong item,refunded,407.00,2023-10-02
+195,2773,4074,Wrong item,refunded,968.56,2024-02-15
+196,2794,5139,Too small,received,248.92,2025-09-16
+197,2815,83,Too small,received,1196.72,2024-09-14
+198,2830,4858,Damaged,received,315.66,2025-04-22
+199,2858,1192,Too small,approved,500.45,2025-09-06
+200,2895,2256,Changed mind,rejected,776.11,2023-11-26
+201,2936,5052,Wrong item,refunded,352.01,2023-06-19
+202,2940,4358,Not as described,refunded,1652.31,2023-04-18
+203,2974,3887,Too large,approved,363.75,2023-10-29
+204,2984,9256,Damaged,refunded,133.98,2024-11-29
+205,3010,797,Damaged,refunded,190.09,2025-09-06
+206,3019,4938,Too large,refunded,552.22,2024-02-26
+207,3020,2341,Wrong item,approved,606.19,2023-07-21
+208,3026,8428,Damaged,approved,9.99,2024-03-12
+209,3030,7529,Not as described,received,736.23,2023-02-12
+210,3031,6981,Changed mind,refunded,83.60,2024-02-08
+211,3035,7926,Wrong item,received,1139.95,2025-04-15
+212,3036,3502,Arrived late,refunded,909.61,2024-05-08
+213,3052,3886,Too small,approved,176.32,2024-06-09
+214,3060,1543,Changed mind,received,255.35,2025-05-12
+215,3078,7991,Damaged,refunded,2993.28,2023-10-08
+216,3114,2761,Too large,refunded,165.00,2023-12-26
+217,3126,6275,Too small,approved,120.83,2024-08-21
+218,3133,7066,Changed mind,approved,1230.32,2024-02-07
+219,3143,7928,Changed mind,refunded,303.04,2025-01-12
+220,3157,3578,Too small,refunded,89.75,2025-10-28
+221,3164,1275,Wrong item,refunded,156.97,2025-03-18
+222,3167,9088,Wrong item,approved,815.12,2023-10-06
+223,3181,6779,Damaged,refunded,193.93,2023-10-12
+224,3185,4370,Damaged,refunded,979.10,2025-01-04
+225,3189,5913,Damaged,received,485.84,2023-08-04
+226,3194,9840,Not as described,refunded,885.65,2023-08-03
+227,3195,9520,Changed mind,requested,652.11,2025-04-08
+228,3231,167,Too large,refunded,1219.79,2023-11-01
+229,3234,2603,Wrong item,received,36.46,2024-01-31
+230,3244,4847,Damaged,refunded,56.03,2025-12-06
+231,3299,4084,Too large,approved,108.22,2023-10-13
+232,3323,9891,Wrong item,refunded,1322.69,2025-02-15
+233,3327,2242,Arrived late,requested,2037.46,2025-03-22
+234,3336,9488,Damaged,requested,466.69,2025-10-27
+235,3343,8311,Too small,rejected,231.13,2025-07-08
+236,3352,8709,Wrong item,refunded,76.77,2023-08-14
+237,3360,8640,Too small,refunded,238.77,2024-10-19
+238,3369,9600,Damaged,rejected,800.80,2023-05-04
+239,3380,8718,Too small,received,593.07,2025-03-29
+240,3390,4462,Not as described,refunded,92.71,2024-05-02
+241,3400,4623,Not as described,received,276.76,2023-11-11
+242,3412,4692,Not as described,requested,477.21,2023-08-18
+243,3414,5564,Too small,refunded,1079.08,2023-06-27
+244,3433,3361,Arrived late,received,77.42,2023-04-02
+245,3464,8025,Damaged,refunded,557.89,2024-07-26
+246,3482,3016,Damaged,received,275.62,2025-06-27
+247,3512,5361,Damaged,refunded,230.32,2025-12-09
+248,3517,7441,Damaged,refunded,12.56,2026-01-07
+249,3535,6368,Arrived late,received,1585.26,2024-08-17
+250,3547,9027,Damaged,approved,639.23,2024-08-26
+251,3579,202,Arrived late,refunded,236.89,2025-06-05
+252,3582,9866,Damaged,refunded,188.73,2025-09-08
+253,3583,5057,Too small,rejected,370.71,2025-12-09
+254,3590,4816,Changed mind,requested,311.97,2025-02-10
+255,3600,5845,Arrived late,refunded,62.29,2025-09-06
+256,3607,9310,Too large,refunded,156.38,2025-04-11
+257,3615,8441,Damaged,approved,742.03,2023-07-31
+258,3616,7943,Wrong item,approved,1173.48,2024-06-07
+259,3679,8379,Too small,received,23.22,2024-09-02
+260,3697,8320,Arrived late,rejected,74.67,2024-08-09
+261,3702,3051,Too large,refunded,521.03,2024-06-06
+262,3707,6330,Damaged,rejected,775.83,2025-01-14
+263,3709,8791,Too small,refunded,53.87,2023-03-04
+264,3713,1594,Not as described,refunded,319.20,2024-01-06
+265,3720,1472,Too large,refunded,235.11,2025-05-07
+266,3726,8809,Changed mind,refunded,523.61,2025-10-31
+267,3728,7266,Too small,refunded,236.88,2023-10-11
+268,3749,2213,Too large,received,191.68,2023-10-23
+269,3764,9229,Wrong item,requested,601.29,2025-09-12
+270,3765,3930,Damaged,refunded,664.52,2023-05-26
+271,3771,957,Too large,approved,595.23,2025-10-08
+272,3772,523,Too large,refunded,692.13,2023-08-11
+273,3781,8020,Changed mind,received,81.96,2025-05-19
+274,3784,4436,Not as described,rejected,73.04,2024-09-12
+275,3787,1809,Not as described,requested,374.88,2025-09-28
+276,3790,371,Not as described,received,481.38,2024-01-26
+277,3796,4255,Damaged,received,123.61,2025-07-31
+278,3802,2977,Too large,refunded,348.58,2023-06-25
+279,3807,3034,Too large,refunded,182.20,2023-04-26
+280,3816,3287,Too large,approved,36.09,2023-09-08
+281,3837,8888,Damaged,refunded,939.95,2025-10-08
+282,3839,2856,Wrong item,refunded,826.40,2024-07-27
+283,3856,9550,Too small,approved,934.72,2024-10-14
+284,3866,4196,Not as described,approved,609.91,2024-09-21
+285,3873,8086,Arrived late,approved,1084.09,2025-07-10
+286,3877,7641,Damaged,received,139.04,2023-08-08
+287,3889,4270,Arrived late,approved,380.29,2023-03-27
+288,3898,5379,Not as described,refunded,399.46,2023-05-29
+289,3920,4926,Too small,approved,614.24,2024-07-02
+290,3935,456,Changed mind,approved,276.43,2024-11-25
+291,3955,9016,Too small,rejected,924.42,2025-03-26
+292,3966,7548,Changed mind,received,254.52,2025-06-20
+293,3967,6917,Wrong item,refunded,102.36,2025-10-22
+294,3968,4819,Arrived late,requested,190.77,2025-05-20
+295,3976,1369,Arrived late,refunded,2130.64,2023-03-29
+296,3990,7594,Not as described,refunded,1860.56,2025-03-31
+297,4015,6443,Not as described,rejected,293.87,2024-07-09
+298,4033,4602,Too small,refunded,853.31,2023-10-31
+299,4064,5352,Not as described,requested,30.48,2025-05-04
+300,4072,1380,Wrong item,received,902.95,2024-06-06
+301,4073,9665,Wrong item,approved,4037.12,2023-09-21
+302,4079,2985,Changed mind,requested,212.26,2025-01-08
+303,4084,7350,Arrived late,received,259.14,2025-08-03
+304,4110,8780,Damaged,received,166.11,2023-03-22
+305,4114,5866,Changed mind,received,186.80,2025-07-22
+306,4139,4563,Too small,refunded,314.88,2025-08-26
+307,4161,5297,Damaged,received,1690.14,2024-06-26
+308,4168,5820,Too small,refunded,266.20,2024-07-17
+309,4172,7734,Too large,refunded,582.78,2023-03-02
+310,4179,8247,Arrived late,rejected,227.52,2025-08-31
+311,4182,2085,Not as described,refunded,1433.12,2024-02-15
+312,4252,8129,Too small,approved,837.31,2025-01-29
+313,4280,2695,Damaged,received,365.75,2024-12-16
+314,4289,926,Not as described,received,245.33,2025-12-21
+315,4307,7331,Arrived late,received,332.89,2024-04-23
+316,4310,2823,Damaged,refunded,1111.04,2025-02-19
+317,4313,6935,Changed mind,approved,953.54,2024-01-24
+318,4331,3514,Wrong item,rejected,39.51,2023-10-11
+319,4333,6326,Not as described,refunded,263.08,2023-05-15
+320,4351,3447,Too small,refunded,513.02,2023-02-22
+321,4361,9323,Not as described,refunded,148.79,2023-06-08
+322,4363,8638,Changed mind,requested,433.03,2025-09-29
+323,4388,4010,Arrived late,rejected,153.32,2023-08-05
+324,4395,7437,Changed mind,received,442.75,2024-03-24
+325,4403,9648,Wrong item,refunded,361.49,2025-12-14
+326,4437,2830,Wrong item,refunded,94.58,2024-08-28
+327,4497,6949,Too large,refunded,1428.76,2023-07-14
+328,4505,7614,Damaged,refunded,878.45,2025-03-21
+329,4568,7741,Changed mind,refunded,680.27,2025-07-28
+330,4597,8760,Not as described,approved,261.82,2025-03-06
+331,4622,4581,Too large,refunded,495.24,2025-09-12
+332,4630,9251,Too large,refunded,835.53,2023-04-29
+333,4635,2047,Too large,refunded,61.10,2024-11-19
+334,4640,204,Not as described,refunded,413.92,2023-04-14
+335,4645,8409,Not as described,approved,551.36,2024-06-21
+336,4650,7279,Wrong item,refunded,1266.31,2023-07-13
+337,4659,133,Damaged,refunded,797.94,2025-06-03
+338,4682,4315,Arrived late,received,58.70,2025-02-28
+339,4695,4844,Too small,approved,563.42,2024-01-04
+340,4705,3552,Too small,received,2125.98,2023-11-16
+341,4753,8540,Too small,approved,701.41,2024-10-18
+342,4756,3003,Changed mind,refunded,122.16,2024-04-12
+343,4768,5369,Too small,requested,379.71,2024-02-29
+344,4790,5783,Arrived late,approved,286.39,2025-09-07
+345,4794,2838,Arrived late,refunded,500.78,2025-07-05
+346,4798,5030,Too large,refunded,2164.35,2024-08-14
+347,4869,471,Too small,refunded,17.67,2023-08-27
+348,4870,4214,Changed mind,approved,977.28,2023-06-18
+349,4872,9886,Not as described,refunded,1511.77,2025-10-21
+350,4877,7430,Damaged,refunded,595.09,2023-09-10
+351,4891,7317,Changed mind,received,57.97,2023-09-02
+352,4917,49,Not as described,approved,447.62,2023-05-23
+353,4920,7679,Too small,received,884.43,2024-08-29
+354,4976,8539,Too large,refunded,301.40,2023-02-06
+355,4988,3802,Too small,rejected,164.39,2025-03-14
+356,4995,3879,Too small,refunded,132.89,2023-10-12
+357,5001,4555,Not as described,refunded,89.55,2025-05-08
+358,5004,3302,Not as described,received,1274.55,2024-04-26
+359,5016,6095,Too small,refunded,641.19,2024-12-04
+360,5050,9223,Too large,approved,465.64,2023-09-25
+361,5065,2744,Arrived late,refunded,720.70,2026-01-08
+362,5092,4150,Not as described,received,490.64,2025-06-02
+363,5095,9324,Changed mind,received,1096.83,2025-11-07
+364,5105,5401,Not as described,requested,61.19,2025-11-25
+365,5111,1871,Too small,refunded,363.76,2026-01-04
+366,5116,7673,Arrived late,approved,95.74,2025-04-13
+367,5130,7435,Too large,approved,823.38,2023-06-03
+368,5135,3145,Wrong item,refunded,127.81,2025-12-27
+369,5141,5200,Damaged,refunded,232.51,2023-10-07
+370,5144,7385,Too small,refunded,114.14,2023-06-11
+371,5173,796,Changed mind,refunded,170.05,2023-07-20
+372,5214,2555,Wrong item,refunded,840.56,2024-06-22
+373,5218,7497,Too large,refunded,1065.10,2025-11-08
+374,5228,88,Changed mind,refunded,399.36,2025-08-29
+375,5243,64,Changed mind,approved,846.99,2023-07-13
+376,5268,7151,Too small,refunded,192.36,2025-06-10
+377,5281,3844,Not as described,refunded,758.58,2025-04-20
+378,5284,4750,Changed mind,rejected,1063.09,2024-07-18
+379,5289,868,Wrong item,refunded,261.63,2025-09-29
+380,5347,5388,Wrong item,received,230.01,2023-03-06
+381,5380,1420,Damaged,refunded,154.14,2023-11-25
+382,5388,6680,Too small,received,222.09,2023-01-30
+383,5398,2337,Changed mind,approved,872.86,2025-04-26
+384,5404,6454,Not as described,refunded,365.65,2024-07-19
+385,5406,4378,Not as described,refunded,124.99,2025-05-25
+386,5409,9358,Too small,rejected,211.21,2025-08-11
+387,5443,8961,Too small,received,97.45,2025-06-02
+388,5467,9002,Arrived late,rejected,63.83,2025-09-26
+389,5476,7110,Too large,refunded,382.92,2024-03-09
+390,5490,7563,Arrived late,refunded,545.21,2023-04-09
+391,5491,9777,Too small,refunded,66.61,2023-05-05
+392,5506,5641,Damaged,rejected,1766.43,2025-12-20
+393,5508,4079,Changed mind,approved,212.90,2023-11-05
+394,5512,5134,Too large,refunded,232.05,2025-12-29
+395,5518,194,Not as described,requested,1470.77,2023-08-30
+396,5554,8597,Wrong item,refunded,782.73,2024-04-17
+397,5555,8193,Arrived late,approved,584.27,2024-02-25
+398,5559,7510,Damaged,received,639.02,2025-12-30
+399,5570,6631,Not as described,received,676.11,2023-07-02
+400,5578,7328,Arrived late,approved,555.94,2024-09-12
+401,5606,9608,Not as described,received,282.52,2025-05-19
+402,5609,2498,Too large,refunded,390.34,2023-04-04
+403,5638,6470,Arrived late,rejected,1745.73,2025-09-16
+404,5644,8832,Too large,requested,328.31,2024-03-01
+405,5651,8150,Too large,approved,873.04,2023-05-18
+406,5659,4225,Not as described,refunded,264.84,2026-01-18
+407,5675,5229,Changed mind,received,379.33,2024-06-15
+408,5680,961,Wrong item,received,172.82,2024-03-12
+409,5683,7606,Too small,refunded,272.04,2026-02-06
+410,5688,7522,Wrong item,refunded,27.93,2025-06-17
+411,5725,8343,Wrong item,rejected,702.91,2025-08-13
+412,5785,3016,Too small,refunded,1616.90,2026-02-21
+413,5794,1816,Not as described,refunded,57.29,2025-06-17
+414,5807,924,Not as described,approved,142.31,2026-01-24
+415,5816,1132,Too large,refunded,1054.62,2024-10-04
+416,5841,2312,Changed mind,received,200.94,2024-11-15
+417,5924,1123,Changed mind,received,539.62,2023-09-03
+418,5930,3962,Arrived late,rejected,449.51,2024-10-05
+419,5940,5958,Changed mind,approved,182.50,2023-09-14
+420,5942,3732,Too large,received,2089.56,2025-02-28
+421,5944,2404,Not as described,refunded,481.88,2025-06-10
+422,5960,4214,Too small,approved,426.86,2025-11-18
+423,5991,8030,Too small,refunded,1172.09,2025-07-08
+424,6002,8097,Damaged,rejected,534.87,2025-05-23
+425,6069,5888,Too small,refunded,404.99,2025-04-05
+426,6073,6921,Too small,refunded,5.02,2025-12-08
+427,6084,785,Not as described,approved,324.57,2024-03-14
+428,6107,4205,Arrived late,refunded,135.71,2024-06-12
+429,6144,6520,Changed mind,refunded,303.91,2025-04-04
+430,6151,423,Arrived late,refunded,308.41,2023-06-05
+431,6165,4587,Damaged,refunded,1329.44,2024-10-04
+432,6177,4951,Too large,approved,127.01,2023-05-04
+433,6226,3217,Changed mind,rejected,296.09,2024-02-07
+434,6287,8688,Too large,refunded,2001.69,2023-10-14
+435,6299,771,Too small,refunded,2059.56,2024-10-31
+436,6313,7255,Damaged,requested,2072.81,2024-12-21
+437,6341,815,Changed mind,refunded,416.90,2023-04-28
+438,6356,6618,Arrived late,refunded,1855.40,2025-05-17
+439,6370,2623,Changed mind,rejected,347.08,2024-12-26
+440,6371,7471,Arrived late,refunded,2189.89,2024-07-22
+441,6378,6531,Too small,requested,2192.83,2023-02-04
+442,6400,9906,Too small,requested,86.29,2023-06-03
+443,6421,3985,Not as described,refunded,100.62,2025-03-27
+444,6422,8071,Too small,received,475.71,2025-11-16
+445,6436,4774,Arrived late,received,173.74,2024-02-10
+446,6439,2379,Arrived late,received,68.37,2024-05-12
+447,6472,6489,Too small,received,59.65,2025-04-30
+448,6484,76,Arrived late,received,208.28,2025-08-22
+449,6491,8558,Arrived late,rejected,318.21,2024-04-25
+450,6547,5224,Arrived late,requested,180.59,2024-05-30
+451,6548,3731,Too small,requested,1197.04,2025-08-28
+452,6554,252,Wrong item,refunded,132.45,2023-12-24
+453,6607,8785,Not as described,refunded,232.34,2024-08-10
+454,6611,9801,Wrong item,requested,171.40,2025-08-09
+455,6622,1260,Wrong item,refunded,509.14,2025-09-24
+456,6641,8874,Too large,approved,400.30,2023-10-23
+457,6650,9568,Too small,received,790.36,2023-05-30
+458,6655,9452,Too small,requested,413.65,2025-08-10
+459,6658,2338,Changed mind,received,719.46,2024-05-11
+460,6663,4138,Damaged,rejected,818.92,2024-01-23
+461,6676,9463,Too small,approved,274.34,2023-07-12
+462,6706,8939,Wrong item,refunded,269.93,2024-09-16
+463,6739,2522,Not as described,refunded,111.25,2026-02-03
+464,6741,2292,Wrong item,refunded,187.73,2024-06-28
+465,6760,5694,Arrived late,requested,794.53,2024-04-20
+466,6780,4543,Arrived late,refunded,172.85,2025-02-17
+467,6785,4482,Wrong item,refunded,536.61,2025-11-13
+468,6798,3851,Arrived late,received,1039.39,2025-11-03
+469,6802,9177,Wrong item,refunded,664.22,2024-10-06
+470,6816,1783,Too large,requested,553.03,2024-06-12
+471,6841,3271,Not as described,requested,243.86,2025-04-15
+472,6852,180,Damaged,refunded,74.90,2026-01-14
+473,6877,2502,Changed mind,refunded,225.77,2024-03-28
+474,6878,8699,Wrong item,approved,428.36,2025-06-12
+475,6881,7065,Not as described,refunded,441.62,2023-11-14
+476,6898,8293,Changed mind,refunded,509.79,2025-03-04
+477,6903,2405,Changed mind,refunded,1757.96,2023-12-31
+478,6905,8578,Not as described,refunded,178.77,2023-08-16
+479,6919,4254,Arrived late,refunded,144.78,2024-07-03
+480,6945,6083,Arrived late,approved,160.97,2025-06-06
+481,6955,9534,Damaged,refunded,250.40,2024-05-11
+482,6960,5661,Too small,approved,64.62,2025-04-18
+483,7018,4274,Not as described,refunded,469.73,2023-09-18
+484,7025,2721,Changed mind,refunded,873.81,2023-08-26
+485,7031,3045,Arrived late,received,516.27,2024-11-20
+486,7039,331,Not as described,requested,193.15,2025-01-19
+487,7045,6981,Too large,approved,139.79,2024-02-19
+488,7089,6782,Damaged,refunded,1115.36,2023-10-03
+489,7109,7107,Too small,refunded,1660.33,2023-07-16
+490,7113,3650,Not as described,requested,71.14,2025-07-08
+491,7116,3380,Damaged,refunded,585.15,2024-05-05
+492,7134,6016,Changed mind,refunded,480.79,2024-02-24
+493,7151,9401,Not as described,approved,771.71,2023-09-13
+494,7173,1952,Arrived late,refunded,611.83,2024-07-04
+495,7180,900,Changed mind,refunded,230.61,2024-03-19
+496,7200,398,Damaged,refunded,1447.64,2025-08-03
+497,7201,2169,Arrived late,approved,1167.30,2025-12-29
+498,7203,8005,Wrong item,approved,29.32,2023-06-28
+499,7245,6098,Arrived late,approved,513.81,2024-11-29
+500,7263,3007,Arrived late,requested,1003.45,2023-01-28
+501,7264,4505,Damaged,received,440.12,2025-09-30
+502,7274,2221,Too small,rejected,19.36,2025-01-02
+503,7286,2732,Not as described,refunded,3114.03,2023-07-25
+504,7291,9932,Damaged,refunded,143.37,2024-10-29
+505,7307,5002,Changed mind,requested,176.86,2023-04-27
+506,7313,1215,Arrived late,refunded,1540.61,2024-08-15
+507,7332,6750,Not as described,refunded,380.84,2025-01-19
+508,7339,3174,Arrived late,refunded,409.53,2023-12-25
+509,7342,4698,Arrived late,refunded,13.04,2025-05-17
+510,7359,4275,Too small,refunded,314.09,2025-04-15
+511,7366,233,Not as described,approved,305.28,2025-06-10
+512,7367,3996,Arrived late,approved,885.82,2024-08-19
+513,7374,278,Damaged,received,296.99,2024-01-28
+514,7375,5615,Damaged,refunded,407.55,2024-10-04
+515,7386,9729,Too small,refunded,125.84,2024-10-04
+516,7420,1835,Wrong item,refunded,43.36,2025-08-12
+517,7435,2474,Damaged,received,397.03,2025-05-24
+518,7467,9279,Too large,refunded,1823.07,2024-05-18
+519,7474,3610,Too large,refunded,342.23,2023-06-24
+520,7475,9097,Changed mind,received,815.61,2025-02-10
+521,7509,4329,Damaged,received,50.24,2025-09-28
+522,7511,258,Too small,refunded,1218.06,2024-08-31
+523,7544,3004,Damaged,received,281.06,2023-03-27
+524,7561,6651,Arrived late,received,552.46,2026-01-31
+525,7570,9211,Damaged,approved,2975.03,2024-02-26
+526,7634,7566,Not as described,refunded,425.50,2023-09-10
+527,7647,8519,Damaged,received,338.95,2023-02-06
+528,7650,7390,Not as described,rejected,234.62,2026-01-26
+529,7655,9345,Too small,refunded,684.92,2025-12-16
+530,7657,9102,Wrong item,refunded,272.32,2025-07-21
+531,7661,2876,Arrived late,received,1020.53,2025-03-10
+532,7664,9649,Wrong item,refunded,2332.58,2023-03-26
+533,7670,624,Arrived late,requested,96.25,2023-04-18
+534,7676,311,Arrived late,requested,6.49,2025-02-02
+535,7725,6315,Damaged,received,1615.79,2024-04-24
+536,7750,4878,Damaged,refunded,176.24,2023-04-18
+537,7756,6770,Wrong item,approved,290.64,2024-12-17
+538,7772,2079,Not as described,refunded,945.61,2023-04-13
+539,7785,7529,Not as described,approved,82.59,2023-11-24
+540,7814,4402,Too large,rejected,1437.76,2024-03-14
+541,7830,6220,Changed mind,refunded,818.50,2025-12-25
+542,7832,3917,Arrived late,received,44.40,2025-10-18
+543,7870,4844,Not as described,refunded,606.78,2025-09-10
+544,7875,8119,Changed mind,requested,46.63,2024-10-17
+545,7896,1141,Too small,received,307.62,2023-02-09
+546,7906,9400,Wrong item,approved,203.46,2026-03-22
+547,7915,9229,Arrived late,approved,435.74,2024-12-11
+548,7953,1195,Arrived late,received,325.27,2025-04-01
+549,7977,4435,Arrived late,refunded,143.11,2024-09-08
+550,7990,4421,Wrong item,refunded,58.15,2025-10-30
+551,7993,9743,Arrived late,received,251.38,2023-08-11
+552,7994,3667,Too small,approved,1562.99,2026-02-25
+553,8001,3510,Arrived late,approved,504.47,2023-03-31
+554,8024,579,Wrong item,requested,248.34,2024-08-05
+555,8053,3998,Not as described,requested,847.66,2023-12-06
+556,8074,9925,Changed mind,received,15.94,2025-01-25
+557,8078,9914,Arrived late,refunded,22.73,2026-03-11
+558,8108,3139,Damaged,refunded,186.10,2023-10-06
+559,8116,9853,Not as described,received,646.17,2025-07-29
+560,8128,2057,Changed mind,refunded,963.49,2023-10-15
+561,8130,6900,Damaged,refunded,285.21,2023-11-28
+562,8146,4123,Too large,refunded,849.19,2023-08-16
+563,8161,439,Changed mind,refunded,2629.41,2024-07-25
+564,8170,9928,Damaged,refunded,474.38,2023-08-15
+565,8178,7386,Arrived late,rejected,18.66,2025-05-13
+566,8180,2574,Too small,refunded,350.42,2023-04-10
+567,8205,4163,Changed mind,refunded,821.80,2023-03-30
+568,8212,455,Wrong item,refunded,644.96,2024-03-09
+569,8224,2415,Wrong item,refunded,862.91,2026-01-22
+570,8241,5210,Arrived late,received,111.70,2023-06-19
+571,8259,6505,Changed mind,refunded,95.57,2023-05-25
+572,8264,6522,Too small,refunded,736.84,2023-11-22
+573,8290,1702,Too large,approved,350.37,2023-09-25
+574,8307,1951,Changed mind,refunded,552.45,2025-06-18
+575,8316,9701,Not as described,refunded,934.56,2025-04-02
+576,8326,5000,Wrong item,received,895.09,2025-02-17
+577,8332,3604,Too small,approved,710.77,2024-12-15
+578,8347,3533,Too small,approved,439.28,2024-10-30
+579,8379,6164,Damaged,approved,288.37,2024-03-17
+580,8393,2928,Not as described,approved,794.91,2024-06-21
+581,8395,6326,Damaged,refunded,140.56,2025-05-23
+582,8401,4416,Changed mind,refunded,1444.91,2023-08-06
+583,8429,9107,Arrived late,refunded,619.32,2024-03-20
+584,8437,1302,Damaged,approved,268.82,2024-05-05
+585,8438,6807,Changed mind,requested,1318.72,2025-02-24
+586,8461,6563,Too small,refunded,96.15,2024-07-26
+587,8469,8967,Wrong item,refunded,1869.48,2024-06-06
+588,8473,3934,Damaged,received,331.89,2023-06-01
+589,8493,7857,Arrived late,refunded,38.04,2025-09-09
+590,8504,1313,Arrived late,requested,991.30,2024-07-31
+591,8535,7583,Wrong item,requested,94.50,2023-07-17
+592,8548,132,Too large,refunded,658.10,2023-12-02
+593,8551,7417,Damaged,rejected,2392.05,2023-04-21
+594,8553,916,Wrong item,received,1969.13,2026-02-18
+595,8583,4831,Too small,refunded,277.86,2025-09-16
+596,8597,4001,Damaged,received,2083.81,2023-08-23
+597,8610,9031,Changed mind,received,592.32,2023-06-30
+598,8622,5935,Not as described,requested,2666.00,2024-04-10
+599,8628,1305,Arrived late,refunded,1385.75,2024-10-17
+600,8629,7796,Arrived late,rejected,120.35,2026-03-07
+601,8634,6961,Damaged,rejected,942.11,2025-12-19
+602,8651,7398,Too large,received,866.00,2025-05-24
+603,8656,1718,Wrong item,refunded,175.49,2025-03-29
+604,8658,6566,Damaged,refunded,1497.33,2025-10-28
+605,8666,9244,Changed mind,requested,55.37,2025-03-26
+606,8707,2058,Damaged,approved,1155.22,2024-09-29
+607,8716,4035,Too large,received,745.03,2024-04-10
+608,8718,6777,Not as described,refunded,24.53,2024-02-16
+609,8732,9780,Changed mind,refunded,319.75,2024-12-09
+610,8751,5962,Wrong item,approved,146.73,2025-05-02
+611,8757,3705,Damaged,refunded,397.53,2025-12-12
+612,8780,8080,Arrived late,requested,876.32,2025-09-29
+613,8826,7076,Too small,requested,104.74,2025-12-11
+614,8831,1324,Too large,rejected,157.29,2024-03-27
+615,8832,7275,Too large,received,328.51,2024-08-05
+616,8850,3595,Changed mind,received,588.76,2023-10-17
+617,8852,8758,Wrong item,refunded,1031.18,2026-01-16
+618,8855,7404,Damaged,rejected,220.93,2025-07-15
+619,8864,6599,Too large,refunded,687.95,2024-11-20
+620,8872,7911,Arrived late,refunded,226.98,2025-08-20
+621,8904,8622,Too large,refunded,698.20,2025-02-19
+622,8914,174,Too large,requested,837.69,2025-06-24
+623,8933,1019,Damaged,received,110.89,2024-11-26
+624,8986,7086,Changed mind,received,702.99,2025-03-02
+625,8987,7956,Too small,received,283.23,2024-06-25
+626,8991,7726,Too small,received,970.82,2025-12-27
+627,8995,564,Damaged,received,411.77,2025-04-23
+628,9003,5012,Damaged,rejected,555.85,2024-01-22
+629,9025,8824,Changed mind,received,356.58,2024-04-05
+630,9036,7583,Changed mind,rejected,417.39,2023-04-15
+631,9058,684,Not as described,requested,55.57,2024-07-19
+632,9074,3260,Too large,approved,775.29,2025-10-30
+633,9076,9363,Arrived late,refunded,714.85,2025-06-30
+634,9077,9537,Wrong item,rejected,290.69,2024-10-11
+635,9095,9126,Damaged,refunded,254.01,2024-05-15
+636,9097,9893,Too large,rejected,104.05,2025-10-05
+637,9132,5680,Too small,refunded,9.48,2023-11-19
+638,9133,2601,Changed mind,refunded,132.98,2024-06-05
+639,9152,9847,Too large,refunded,1559.67,2024-07-25
+640,9178,7142,Changed mind,refunded,835.66,2025-03-17
+641,9210,8662,Arrived late,refunded,125.48,2025-08-18
+642,9250,1489,Arrived late,approved,965.44,2024-10-03
+643,9258,2973,Wrong item,received,228.89,2023-09-29
+644,9259,8169,Damaged,received,716.03,2025-07-23
+645,9277,513,Too large,received,285.76,2025-04-21
+646,9280,2518,Too large,refunded,321.12,2024-03-16
+647,9300,6972,Too small,requested,96.90,2023-12-02
+648,9316,1536,Damaged,refunded,257.38,2023-08-10
+649,9320,1605,Too large,refunded,342.71,2025-07-05
+650,9324,857,Arrived late,requested,785.62,2025-11-05
+651,9364,2556,Wrong item,requested,1304.42,2025-03-29
+652,9394,3079,Damaged,refunded,23.11,2023-06-12
+653,9397,2336,Arrived late,received,142.77,2023-11-07
+654,9410,4263,Damaged,requested,430.27,2025-05-10
+655,9430,9760,Changed mind,received,66.22,2023-09-07
+656,9433,80,Not as described,refunded,282.93,2024-11-29
+657,9443,4207,Not as described,requested,535.75,2025-10-25
+658,9445,5464,Arrived late,refunded,460.51,2025-05-07
+659,9457,7111,Too large,refunded,1056.43,2025-06-15
+660,9461,4004,Too large,refunded,272.57,2024-08-05
+661,9522,7328,Wrong item,refunded,84.80,2025-11-27
+662,9526,679,Too small,received,631.32,2025-08-17
+663,9568,236,Too small,refunded,128.58,2024-02-16
+664,9599,8631,Wrong item,requested,1484.70,2025-04-18
+665,9631,1359,Arrived late,rejected,1066.14,2026-01-18
+666,9684,3145,Too small,refunded,496.17,2023-12-18
+667,9689,5744,Too small,refunded,142.20,2025-12-10
+668,9703,4111,Damaged,requested,149.47,2023-12-06
+669,9715,8260,Damaged,refunded,249.59,2024-12-25
+670,9726,2390,Changed mind,refunded,128.01,2026-01-04
+671,9742,5684,Changed mind,received,62.44,2024-09-03
+672,9745,3198,Too large,received,973.27,2025-02-07
+673,9772,3915,Wrong item,refunded,401.11,2024-05-21
+674,9793,1379,Damaged,refunded,477.93,2023-06-04
+675,9809,6007,Arrived late,received,1177.94,2023-11-02
+676,9810,4338,Changed mind,refunded,1007.87,2025-08-20
+677,9813,2795,Wrong item,received,2569.73,2023-09-23
+678,9841,1378,Too large,requested,628.30,2025-01-30
+679,9877,4328,Damaged,refunded,1339.85,2025-07-10
+680,9889,6711,Wrong item,approved,465.73,2025-10-04
+681,9894,9011,Too large,approved,384.92,2023-03-08
+682,9908,8457,Arrived late,received,16.12,2023-12-11
+683,9913,5457,Changed mind,approved,243.53,2025-03-31
+684,9930,2283,Changed mind,refunded,50.64,2026-02-02
+685,9935,4516,Too small,approved,125.18,2024-02-28
+686,9942,5058,Wrong item,approved,904.18,2025-11-23
+687,9984,8705,Too small,received,326.01,2025-03-19
+688,9987,917,Wrong item,refunded,4.81,2026-03-02
+689,9991,5076,Too small,received,424.66,2023-12-02
+690,9993,2230,Wrong item,refunded,289.05,2024-07-12
+691,10017,746,Changed mind,refunded,351.51,2023-06-15
+692,10020,5795,Too large,refunded,349.60,2023-09-27
+693,10021,729,Damaged,refunded,779.09,2023-06-07
+694,10025,6761,Not as described,received,314.71,2024-09-04
+695,10027,8778,Damaged,refunded,838.31,2024-06-14
+696,10041,5912,Damaged,approved,725.20,2023-06-11
+697,10042,3740,Too small,refunded,1083.27,2023-07-03
+698,10052,7248,Wrong item,approved,408.81,2023-07-02
+699,10079,8979,Arrived late,received,928.80,2024-10-09
+700,10125,3050,Damaged,refunded,390.62,2024-10-30
+701,10141,3113,Arrived late,refunded,978.17,2023-08-05
+702,10147,8227,Changed mind,received,266.15,2024-12-16
+703,10157,8604,Arrived late,approved,317.62,2025-03-13
+704,10171,5760,Wrong item,rejected,390.15,2023-08-21
+705,10179,3688,Wrong item,received,545.75,2025-10-05
+706,10187,2063,Too small,approved,1995.49,2024-08-16
+707,10257,9157,Too large,refunded,1426.01,2024-12-13
+708,10277,1354,Changed mind,approved,192.61,2023-06-18
+709,10282,8024,Changed mind,received,603.39,2023-10-06
+710,10294,6699,Arrived late,requested,289.97,2025-08-04
+711,10300,5324,Damaged,received,226.99,2023-01-23
+712,10314,1484,Too small,refunded,164.95,2024-01-21
+713,10326,7516,Too large,approved,523.32,2023-08-08
+714,10331,3671,Arrived late,rejected,164.24,2024-07-12
+715,10348,6948,Wrong item,refunded,262.11,2025-07-03
+716,10353,9149,Too large,approved,209.76,2024-09-01
+717,10380,9373,Not as described,received,259.54,2024-06-06
+718,10394,5135,Not as described,requested,79.83,2026-01-03
+719,10408,692,Too large,refunded,313.26,2023-07-18
+720,10412,3819,Changed mind,refunded,145.28,2025-11-19
+721,10428,4775,Damaged,refunded,793.59,2025-10-18
+722,10437,1930,Wrong item,received,574.27,2023-04-08
+723,10447,6973,Not as described,received,310.07,2024-01-27
+724,10480,3620,Arrived late,refunded,606.05,2026-01-07
+725,10501,438,Not as described,requested,1648.20,2026-02-08
+726,10552,6451,Arrived late,received,1434.96,2024-08-09
+727,10590,7286,Not as described,approved,1887.84,2025-01-10
+728,10629,755,Too large,refunded,742.85,2023-04-12
+729,10639,303,Damaged,rejected,103.16,2024-01-13
+730,10648,4202,Not as described,received,2233.03,2024-11-24
+731,10650,1851,Damaged,refunded,207.19,2025-08-21
+732,10660,3694,Changed mind,received,654.48,2023-10-12
+733,10667,5780,Not as described,rejected,938.28,2023-11-10
+734,10670,947,Not as described,refunded,59.68,2023-06-18
+735,10689,8454,Arrived late,requested,278.15,2024-12-31
+736,10701,476,Changed mind,refunded,520.71,2023-06-15
+737,10703,9433,Changed mind,requested,646.16,2026-01-30
+738,10708,1173,Damaged,approved,116.84,2023-03-26
+739,10768,1970,Too large,refunded,73.21,2025-04-09
+740,10795,4612,Damaged,refunded,137.61,2024-10-29
+741,10826,8967,Damaged,refunded,629.43,2025-02-24
+742,10835,2064,Wrong item,requested,159.30,2024-12-26
+743,10871,259,Changed mind,refunded,649.64,2025-06-15
+744,10886,1488,Too large,requested,311.17,2024-09-27
+745,10888,1949,Changed mind,rejected,125.15,2023-10-24
+746,10891,8793,Damaged,refunded,967.39,2025-12-20
+747,10893,4689,Arrived late,refunded,517.62,2025-06-28
+748,10896,2316,Too large,refunded,101.26,2023-03-15
+749,10913,7415,Damaged,received,1386.76,2023-06-05
+750,10948,4275,Damaged,approved,51.67,2025-12-16
+751,10954,3018,Too small,rejected,182.10,2024-11-28
+752,10956,8209,Too small,rejected,1327.08,2025-07-13
+753,10958,5989,Arrived late,requested,256.25,2023-05-08
+754,10968,7565,Too small,received,544.87,2023-07-06
+755,10999,2105,Arrived late,refunded,43.01,2025-05-09
+756,11050,5457,Wrong item,received,203.56,2024-01-15
+757,11053,3517,Too large,refunded,370.39,2023-08-29
+758,11080,370,Not as described,requested,646.39,2025-07-22
+759,11097,9447,Too large,received,2753.60,2025-06-16
+760,11102,2957,Wrong item,refunded,165.30,2026-01-10
+761,11103,1042,Damaged,received,71.35,2025-01-15
+762,11104,2537,Damaged,approved,2116.64,2024-09-03
+763,11112,8675,Arrived late,received,123.51,2023-08-19
+764,11122,539,Changed mind,received,250.77,2023-12-04
+765,11138,2126,Too large,refunded,132.09,2024-08-04
+766,11159,735,Changed mind,received,230.35,2024-03-17
+767,11166,3658,Arrived late,received,166.26,2023-11-15
+768,11170,2297,Changed mind,refunded,90.20,2026-01-11
+769,11176,9406,Changed mind,received,2201.74,2024-05-02
+770,11187,2888,Damaged,requested,2538.00,2025-02-03
+771,11200,1541,Wrong item,refunded,641.84,2024-05-23
+772,11212,1318,Changed mind,requested,522.63,2025-12-16
+773,11229,3414,Not as described,approved,347.61,2025-06-29
+774,11231,1024,Not as described,rejected,539.94,2025-11-06
+775,11245,3583,Too large,refunded,382.88,2023-09-24
+776,11250,2874,Arrived late,approved,261.36,2024-05-23
+777,11285,5667,Too large,refunded,1090.88,2024-08-03
+778,11299,2546,Too large,rejected,269.59,2024-12-14
+779,11301,9395,Damaged,refunded,1341.33,2024-05-18
+780,11307,2904,Damaged,refunded,185.37,2023-08-02
+781,11322,1886,Not as described,received,223.12,2023-08-28
+782,11341,8165,Not as described,received,85.41,2023-06-18
+783,11370,8891,Changed mind,rejected,1172.22,2023-08-12
+784,11428,2562,Wrong item,refunded,1280.92,2025-10-14
+785,11434,1866,Too large,approved,555.09,2023-08-30
+786,11452,2864,Damaged,requested,19.84,2025-03-15
+787,11453,555,Damaged,refunded,220.24,2024-03-05
+788,11456,5570,Changed mind,received,383.20,2023-08-10
+789,11458,8474,Too large,refunded,339.93,2025-08-06
+790,11459,9680,Damaged,refunded,34.84,2024-01-06
+791,11460,1920,Wrong item,received,74.10,2025-01-18
+792,11469,8530,Damaged,refunded,121.65,2023-07-13
+793,11484,7347,Arrived late,refunded,165.34,2023-08-21
+794,11487,1186,Wrong item,refunded,148.13,2024-06-22
+795,11501,4066,Changed mind,received,1090.46,2023-09-09
+796,11517,5054,Too small,approved,92.02,2025-04-10
+797,11529,2552,Not as described,requested,990.45,2023-08-04
+798,11536,2236,Wrong item,approved,496.20,2024-06-03
+799,11546,9580,Wrong item,received,227.75,2024-01-08
+800,11575,1724,Too small,refunded,388.13,2024-12-25
+801,11599,2015,Damaged,received,9.41,2025-08-04
+802,11609,4695,Too large,refunded,1024.83,2023-01-23
+803,11615,3363,Not as described,requested,2245.06,2023-08-13
+804,11621,3373,Arrived late,approved,69.03,2023-07-17
+805,11667,5297,Arrived late,received,8.40,2023-10-22
+806,11684,6926,Arrived late,refunded,806.89,2025-03-24
+807,11713,650,Wrong item,refunded,66.32,2025-07-25
+808,11714,768,Too large,received,260.62,2024-08-29
+809,11728,4581,Too small,rejected,328.55,2023-03-02
+810,11755,3093,Wrong item,received,326.60,2024-04-27
+811,11757,963,Too small,received,863.61,2024-05-16
+812,11773,4164,Too small,refunded,35.99,2026-01-01
+813,11783,2493,Too small,refunded,479.75,2024-12-26
+814,11792,9715,Damaged,received,306.50,2024-07-04
+815,11832,6930,Too large,received,665.61,2025-09-04
+816,11843,9791,Wrong item,received,135.61,2025-06-04
+817,11873,6422,Wrong item,approved,405.38,2023-08-23
+818,11876,2252,Too small,requested,71.53,2024-11-20
+819,11897,2400,Too large,requested,26.56,2023-05-15
+820,11903,9873,Too large,approved,1648.39,2024-05-21
+821,11917,6660,Wrong item,received,494.21,2024-10-03
+822,11918,3273,Arrived late,received,102.29,2024-09-27
+823,11938,6528,Damaged,requested,679.05,2024-07-16
+824,11950,4651,Too small,received,137.83,2025-05-18
+825,11955,1173,Too small,received,61.09,2025-08-22
+826,11968,6467,Changed mind,received,393.19,2025-12-17
+827,11999,583,Too large,requested,335.46,2023-08-29
+828,12003,5617,Not as described,refunded,1800.73,2025-10-20
+829,12020,6355,Too small,received,40.25,2024-08-27
+830,12024,5278,Damaged,refunded,404.62,2023-02-12
+831,12030,286,Damaged,refunded,321.18,2024-02-17
+832,12032,7938,Damaged,approved,1295.72,2024-03-25
+833,12056,9011,Too large,requested,426.87,2025-03-17
+834,12064,4601,Not as described,refunded,1050.75,2023-09-26
+835,12066,672,Wrong item,refunded,555.92,2026-01-03
+836,12100,5491,Arrived late,rejected,733.13,2025-05-12
+837,12129,3435,Arrived late,refunded,340.66,2025-07-09
+838,12149,3902,Arrived late,refunded,560.72,2023-08-23
+839,12152,6559,Changed mind,received,1421.18,2023-03-12
+840,12163,8671,Damaged,refunded,59.38,2023-12-11
+841,12180,6102,Damaged,refunded,434.31,2023-10-21
+842,12191,8274,Too large,received,415.49,2023-09-28
+843,12197,6348,Wrong item,received,220.46,2024-04-16
+844,12204,7154,Too small,refunded,143.61,2024-06-09
+845,12233,9642,Damaged,rejected,189.36,2024-06-30
+846,12234,6869,Wrong item,rejected,31.78,2024-10-21
+847,12280,4443,Damaged,received,231.14,2023-11-16
+848,12326,9478,Arrived late,refunded,557.97,2024-12-21
+849,12330,4421,Wrong item,approved,1530.31,2025-02-08
+850,12359,3231,Damaged,refunded,372.81,2025-04-23
+851,12380,718,Arrived late,rejected,169.54,2025-12-04
+852,12386,5411,Not as described,requested,1619.95,2025-10-08
+853,12401,9618,Changed mind,refunded,69.14,2024-05-15
+854,12411,5172,Too small,approved,838.45,2025-02-02
+855,12429,9849,Too large,received,156.61,2024-11-24
+856,12434,6166,Wrong item,approved,912.27,2025-12-15
+857,12438,320,Too small,refunded,716.73,2024-03-02
+858,12444,439,Changed mind,approved,208.43,2025-01-18
+859,12449,394,Not as described,refunded,467.58,2024-10-03
+860,12461,2227,Wrong item,refunded,94.16,2024-08-21
+861,12464,2086,Damaged,requested,235.21,2025-09-02
+862,12465,4640,Arrived late,approved,467.04,2024-11-16
+863,12471,364,Changed mind,refunded,798.54,2023-11-18
+864,12480,8879,Wrong item,received,111.16,2025-04-13
+865,12493,3847,Changed mind,refunded,676.68,2025-08-17
+866,12497,4066,Too small,requested,251.40,2024-12-23
+867,12503,8180,Arrived late,refunded,140.77,2024-11-10
+868,12504,5733,Arrived late,refunded,1251.37,2023-05-07
+869,12519,5936,Arrived late,refunded,741.78,2024-05-18
+870,12552,7345,Arrived late,refunded,481.32,2024-08-23
+871,12566,546,Damaged,received,51.90,2024-12-05
+872,12571,1005,Too large,rejected,1644.68,2024-06-20
+873,12578,7337,Arrived late,requested,52.23,2024-05-29
+874,12582,7817,Damaged,received,744.02,2023-07-22
+875,12584,2457,Not as described,refunded,88.76,2025-07-27
+876,12602,6526,Not as described,refunded,3020.86,2024-06-08
+877,12612,1159,Changed mind,refunded,1290.79,2026-01-16
+878,12626,6280,Wrong item,requested,709.55,2023-09-05
+879,12632,7402,Wrong item,refunded,191.60,2025-03-04
+880,12638,2999,Wrong item,refunded,984.95,2025-04-02
+881,12651,6857,Changed mind,rejected,870.98,2023-03-07
+882,12684,6419,Arrived late,refunded,325.14,2025-04-04
+883,12685,7383,Changed mind,received,1367.36,2024-11-09
+884,12720,9442,Changed mind,refunded,192.54,2023-07-24
+885,12737,4653,Too small,refunded,2499.34,2023-10-16
+886,12745,4478,Not as described,refunded,452.47,2024-10-30
+887,12762,5960,Too large,approved,106.93,2024-03-14
+888,12778,9289,Damaged,requested,84.48,2025-10-25
+889,12794,6714,Changed mind,requested,9.72,2025-03-28
+890,12798,7684,Changed mind,refunded,108.61,2024-09-22
+891,12815,3358,Damaged,refunded,164.29,2024-05-28
+892,12827,4540,Wrong item,received,702.44,2023-11-21
+893,12846,2820,Wrong item,refunded,491.58,2026-01-18
+894,12855,147,Wrong item,refunded,304.50,2023-01-25
+895,12890,9514,Arrived late,refunded,56.89,2023-06-22
+896,12891,5597,Too small,approved,617.47,2025-03-29
+897,12923,3789,Not as described,requested,1126.14,2025-06-25
+898,12952,5264,Too small,approved,134.30,2025-01-21
+899,12961,8436,Changed mind,approved,184.72,2024-04-26
+900,12971,3997,Too large,received,864.13,2026-02-13
+901,12985,55,Too small,approved,212.08,2023-12-11
+902,12999,1902,Damaged,refunded,1273.97,2024-08-24
+903,13005,9699,Wrong item,requested,979.65,2024-02-23
+904,13010,4931,Arrived late,received,191.37,2025-04-01
+905,13016,8092,Arrived late,approved,941.64,2025-12-28
+906,13023,2482,Too large,refunded,561.71,2023-05-20
+907,13029,7702,Changed mind,requested,216.48,2023-06-25
+908,13055,6531,Too small,rejected,772.73,2025-07-17
+909,13068,9482,Damaged,received,879.36,2025-05-26
+910,13096,2577,Wrong item,refunded,80.21,2023-06-28
+911,13100,4756,Too large,refunded,2134.55,2024-01-06
+912,13119,4930,Arrived late,refunded,295.86,2024-02-14
+913,13126,1063,Too large,approved,154.36,2024-02-14
+914,13128,1607,Too large,requested,816.89,2023-05-21
+915,13149,8211,Changed mind,refunded,213.60,2025-10-18
+916,13153,3955,Damaged,received,835.47,2023-07-23
+917,13160,50,Not as described,refunded,72.22,2024-01-04
+918,13167,8200,Too small,refunded,462.42,2025-12-02
+919,13173,610,Changed mind,refunded,2032.33,2024-03-03
+920,13185,5848,Too small,refunded,1085.09,2023-07-13
+921,13194,4524,Too small,received,200.70,2025-09-30
+922,13256,7607,Not as described,received,405.48,2023-07-26
+923,13286,9541,Wrong item,received,748.21,2025-11-16
+924,13293,3360,Too small,received,786.52,2023-02-23
+925,13319,1262,Too large,received,96.19,2026-02-04
+926,13321,8886,Too small,approved,201.01,2023-03-26
+927,13327,5336,Not as described,refunded,44.36,2026-02-22
+928,13328,6931,Changed mind,rejected,405.18,2025-08-14
+929,13336,359,Too large,rejected,310.61,2023-09-16
+930,13357,2501,Arrived late,requested,445.35,2025-05-12
+931,13367,6948,Not as described,approved,42.25,2024-10-25
+932,13375,9345,Arrived late,approved,120.98,2023-10-10
+933,13382,7528,Too large,refunded,852.98,2024-04-12
+934,13401,745,Too small,received,177.45,2025-05-10
+935,13437,1330,Changed mind,received,45.67,2025-02-02
+936,13445,1850,Arrived late,requested,24.34,2025-04-28
+937,13479,24,Arrived late,approved,861.72,2024-04-30
+938,13483,1645,Changed mind,received,598.37,2025-10-14
+939,13489,4997,Not as described,refunded,307.10,2024-07-09
+940,13491,8982,Wrong item,approved,223.74,2024-01-03
+941,13528,7347,Wrong item,received,886.82,2024-05-21
+942,13533,853,Too large,approved,1753.64,2025-04-14
+943,13544,8736,Not as described,refunded,126.94,2025-06-14
+944,13553,9866,Wrong item,approved,1559.33,2025-02-15
+945,13560,5972,Damaged,refunded,1017.49,2025-09-25
+946,13579,3883,Too small,received,336.20,2023-10-25
+947,13593,1317,Too large,rejected,35.22,2023-04-22
+948,13626,127,Changed mind,refunded,213.78,2025-07-02
+949,13628,6193,Too large,refunded,1047.73,2024-03-29
+950,13642,8743,Too small,refunded,929.47,2023-08-27
+951,13646,2620,Damaged,refunded,1132.06,2023-11-30
+952,13653,5543,Arrived late,requested,148.79,2025-08-27
+953,13660,1095,Wrong item,refunded,446.64,2024-10-12
+954,13664,3144,Arrived late,refunded,1237.24,2025-10-15
+955,13685,1728,Changed mind,approved,104.57,2026-03-03
+956,13694,7731,Changed mind,approved,533.52,2023-04-11
+957,13699,1508,Damaged,refunded,43.24,2024-01-19
+958,13712,7064,Damaged,refunded,318.51,2023-07-22
+959,13743,4063,Damaged,approved,240.08,2025-05-28
+960,13773,1846,Not as described,requested,458.07,2023-12-07
+961,13784,9844,Too large,refunded,670.58,2023-12-31
+962,13801,3342,Not as described,received,121.91,2023-06-27
+963,13806,3552,Changed mind,approved,82.75,2023-06-22
+964,13836,9252,Arrived late,refunded,75.36,2023-05-24
+965,13839,2953,Changed mind,refunded,1133.49,2023-04-03
+966,13846,7375,Arrived late,refunded,72.62,2025-08-26
+967,13858,4989,Damaged,requested,1191.40,2023-08-04
+968,13914,3411,Arrived late,refunded,1724.31,2024-04-22
+969,13924,5501,Too large,approved,125.71,2024-10-09
+970,13931,3662,Not as described,approved,860.06,2025-04-30
+971,13937,6725,Too small,received,1508.63,2023-06-13
+972,14045,2654,Not as described,rejected,38.59,2023-07-18
+973,14082,9506,Too small,refunded,1826.91,2025-09-30
+974,14086,3715,Not as described,refunded,343.90,2024-08-25
+975,14098,2957,Too small,approved,534.79,2024-06-25
+976,14129,6651,Arrived late,refunded,1075.62,2024-05-25
+977,14137,8179,Damaged,requested,47.15,2024-12-20
+978,14139,1964,Too large,approved,33.96,2024-12-12
+979,14155,9723,Arrived late,approved,104.61,2025-03-29
+980,14159,971,Not as described,refunded,581.99,2024-01-20
+981,14191,7726,Not as described,refunded,18.27,2023-08-30
+982,14198,5124,Changed mind,approved,300.14,2025-11-02
+983,14203,5181,Damaged,refunded,155.89,2024-07-27
+984,14204,3739,Too large,received,663.08,2025-03-03
+985,14210,7956,Changed mind,approved,178.28,2023-06-26
+986,14231,2788,Changed mind,refunded,438.01,2025-02-14
+987,14232,3464,Too large,refunded,1237.12,2024-05-09
+988,14236,9921,Wrong item,received,962.75,2024-02-27
+989,14237,7700,Arrived late,requested,347.72,2024-08-03
+990,14271,302,Damaged,refunded,1854.01,2025-12-05
+991,14319,146,Wrong item,rejected,248.59,2023-11-14
+992,14331,4488,Damaged,requested,345.52,2023-07-24
+993,14388,8367,Changed mind,refunded,64.75,2023-11-28
+994,14394,4086,Changed mind,rejected,224.50,2023-03-30
+995,14400,9524,Arrived late,refunded,243.68,2023-03-26
+996,14404,1,Wrong item,refunded,1091.69,2024-09-02
+997,14408,8306,Changed mind,received,124.87,2023-07-05
+998,14418,2649,Too small,refunded,959.90,2025-11-11
+999,14425,4915,Arrived late,refunded,1363.08,2024-03-08
+1000,14455,5255,Too small,refunded,591.23,2025-12-05
+1001,14459,1421,Too large,received,493.76,2025-05-12
+1002,14464,7748,Changed mind,refunded,545.55,2023-03-03
+1003,14476,7452,Wrong item,refunded,757.25,2024-11-06
+1004,14481,157,Arrived late,refunded,1729.41,2025-11-14
+1005,14483,2532,Changed mind,refunded,16.52,2024-02-09
+1006,14498,9195,Arrived late,approved,127.03,2023-10-18
+1007,14527,2100,Too large,refunded,967.22,2024-05-05
+1008,14551,3097,Too large,rejected,463.43,2023-12-30
+1009,14627,3707,Too large,refunded,1096.68,2024-02-29
+1010,14630,1467,Too large,received,426.46,2024-02-29
+1011,14660,2681,Damaged,rejected,586.38,2025-10-18
+1012,14692,1232,Not as described,requested,40.54,2024-11-16
+1013,14702,1363,Changed mind,refunded,1010.26,2025-09-09
+1014,14707,1337,Damaged,refunded,73.29,2023-04-26
+1015,14745,2921,Damaged,refunded,1106.93,2023-11-26
+1016,14753,1152,Too small,refunded,415.96,2023-09-15
+1017,14768,5493,Damaged,approved,2611.50,2025-05-05
+1018,14800,100,Too small,refunded,402.21,2025-09-06
+1019,14813,3398,Too large,refunded,1982.59,2023-12-10
+1020,14828,1201,Changed mind,refunded,388.48,2024-01-27
+1021,14840,3596,Damaged,requested,1024.11,2025-04-28
+1022,14864,9603,Too small,refunded,664.87,2024-03-30
+1023,14885,8493,Changed mind,refunded,1063.96,2024-07-05
+1024,14929,9400,Damaged,refunded,229.97,2025-10-07
+1025,14938,7536,Not as described,requested,531.02,2026-02-01
+1026,14961,1041,Arrived late,rejected,356.66,2025-04-04
+1027,14997,1418,Arrived late,requested,178.74,2025-07-20
+1028,15006,5851,Too large,received,115.23,2025-10-13
+1029,15012,5234,Arrived late,refunded,335.69,2024-06-23
+1030,15019,4981,Not as described,received,282.26,2023-10-21
+1031,15022,6173,Arrived late,received,1018.56,2023-09-02
+1032,15036,8680,Not as described,approved,231.73,2023-07-15
+1033,15064,6704,Too small,refunded,1208.29,2025-03-30
+1034,15067,2779,Not as described,refunded,209.79,2025-08-22
+1035,15071,4976,Wrong item,rejected,180.86,2023-08-29
+1036,15080,7707,Damaged,requested,1251.35,2023-08-29
+1037,15086,1570,Too small,refunded,13.29,2023-08-12
+1038,15108,9198,Arrived late,approved,405.22,2025-11-02
+1039,15127,6944,Damaged,refunded,1843.38,2025-09-01
+1040,15139,129,Arrived late,rejected,1266.48,2024-08-31
+1041,15140,2255,Not as described,approved,27.58,2024-09-16
+1042,15156,5149,Too large,rejected,603.04,2024-08-27
+1043,15168,7015,Not as described,refunded,1421.99,2024-01-15
+1044,15169,4563,Not as described,refunded,584.36,2025-02-28
+1045,15179,9764,Too large,refunded,384.14,2025-01-15
+1046,15180,5541,Damaged,refunded,302.87,2026-01-16
+1047,15205,1218,Changed mind,refunded,442.82,2025-11-15
+1048,15209,4729,Not as described,received,802.98,2024-06-12
+1049,15224,233,Too large,refunded,116.68,2024-12-31
+1050,15233,4330,Too small,refunded,1789.46,2024-11-23
+1051,15243,8590,Wrong item,rejected,555.49,2023-02-25
+1052,15253,4665,Changed mind,received,348.46,2025-10-22
+1053,15324,5635,Too large,approved,178.19,2025-09-02
+1054,15326,2152,Wrong item,rejected,296.83,2025-06-17
+1055,15340,9608,Changed mind,refunded,1266.01,2026-02-10
+1056,15375,1640,Too large,rejected,363.80,2024-08-23
+1057,15395,2208,Not as described,refunded,2479.19,2024-06-11
+1058,15444,6346,Too small,refunded,159.56,2024-12-22
+1059,15471,7243,Arrived late,received,388.31,2023-06-26
+1060,15475,7550,Wrong item,received,277.94,2025-05-03
+1061,15498,4402,Damaged,received,429.63,2025-12-26
+1062,15501,5942,Changed mind,approved,1076.42,2024-01-15
+1063,15525,1173,Too large,received,867.38,2023-04-24
+1064,15556,4166,Not as described,received,267.73,2023-09-04
+1065,15567,4416,Too large,approved,201.77,2023-11-02
+1066,15594,4355,Wrong item,refunded,451.76,2024-07-06
+1067,15595,1533,Damaged,received,109.65,2024-07-18
+1068,15602,6411,Arrived late,received,77.49,2025-12-12
+1069,15605,5707,Damaged,approved,1482.20,2025-04-11
+1070,15614,6587,Too small,requested,284.22,2023-06-07
+1071,15626,5135,Not as described,refunded,144.71,2025-12-20
+1072,15629,5918,Wrong item,received,255.98,2024-07-21
+1073,15648,2410,Too small,rejected,332.63,2024-05-16
+1074,15655,2263,Damaged,refunded,809.80,2023-12-26
+1075,15674,1649,Wrong item,refunded,256.28,2024-08-04
+1076,15680,2900,Too large,requested,172.77,2024-04-28
+1077,15687,4423,Changed mind,approved,171.95,2023-12-23
+1078,15727,9361,Arrived late,refunded,185.33,2025-03-12
+1079,15763,6408,Too small,rejected,749.27,2024-06-20
+1080,15782,5745,Arrived late,refunded,405.91,2025-02-09
+1081,15783,7017,Damaged,refunded,15.23,2024-08-12
+1082,15799,443,Arrived late,received,1095.63,2023-10-14
+1083,15833,7521,Wrong item,received,194.42,2024-03-27
+1084,15863,39,Changed mind,refunded,1057.26,2025-01-31
+1085,15883,923,Not as described,refunded,313.41,2024-06-10
+1086,15884,8114,Arrived late,approved,250.70,2025-07-12
+1087,15907,8203,Damaged,approved,334.83,2024-03-20
+1088,15920,1972,Wrong item,requested,637.16,2024-03-23
+1089,15931,7152,Too small,refunded,419.71,2024-05-28
+1090,15933,1052,Changed mind,refunded,804.45,2024-05-12
+1091,15934,3438,Too large,refunded,542.39,2023-11-28
+1092,15948,6440,Too small,refunded,282.77,2024-09-14
+1093,15964,9211,Too small,refunded,144.32,2026-01-23
+1094,15974,4396,Damaged,refunded,561.44,2023-11-08
+1095,15998,4162,Too large,approved,500.78,2023-12-29
+1096,16024,7652,Not as described,approved,1658.38,2023-04-22
+1097,16039,1261,Too large,received,1396.56,2023-09-24
+1098,16051,7463,Damaged,refunded,43.91,2024-04-22
+1099,16057,7798,Not as described,approved,40.96,2023-11-03
+1100,16081,1483,Too small,requested,426.87,2024-09-12
+1101,16140,8116,Not as described,requested,1117.56,2025-12-17
+1102,16146,8268,Arrived late,received,93.66,2026-02-06
+1103,16171,4107,Too large,approved,60.60,2023-06-05
+1104,16180,8553,Changed mind,approved,360.45,2024-07-13
+1105,16231,5006,Too large,rejected,1753.48,2025-09-03
+1106,16258,9129,Too large,rejected,1079.40,2024-12-09
+1107,16260,5609,Changed mind,received,561.88,2024-05-18
+1108,16265,2879,Arrived late,refunded,267.06,2023-06-11
+1109,16266,4394,Damaged,approved,307.27,2025-07-25
+1110,16269,1300,Not as described,approved,201.77,2026-01-17
+1111,16299,8950,Damaged,received,574.97,2025-03-03
+1112,16302,1603,Damaged,refunded,117.96,2024-02-13
+1113,16303,3747,Not as described,refunded,80.90,2025-04-08
+1114,16317,2070,Arrived late,refunded,96.11,2025-11-23
+1115,16334,5242,Wrong item,received,930.56,2024-11-07
+1116,16353,6468,Too small,refunded,1727.28,2024-12-13
+1117,16369,3081,Too small,approved,996.28,2023-12-01
+1118,16394,1849,Damaged,requested,128.50,2024-01-05
+1119,16475,9655,Arrived late,approved,3006.20,2024-11-14
+1120,16483,2862,Arrived late,received,2021.70,2024-02-14
+1121,16495,4107,Too small,received,503.03,2024-03-06
+1122,16505,9670,Arrived late,refunded,1033.70,2024-09-22
+1123,16508,5580,Too large,refunded,1020.51,2023-05-01
+1124,16515,5974,Damaged,refunded,388.26,2025-12-30
+1125,16521,668,Too small,refunded,781.88,2024-01-17
+1126,16526,8197,Changed mind,refunded,636.64,2025-08-08
+1127,16537,2956,Changed mind,refunded,721.09,2025-05-17
+1128,16548,230,Wrong item,received,1152.85,2023-05-14
+1129,16564,5530,Too large,received,904.69,2026-01-21
+1130,16574,1065,Wrong item,requested,65.07,2025-06-12
+1131,16636,7543,Changed mind,approved,223.24,2023-05-30
+1132,16646,9455,Wrong item,approved,243.63,2024-03-30
+1133,16682,2184,Too small,refunded,467.82,2024-07-09
+1134,16708,2914,Changed mind,refunded,1206.02,2025-05-17
+1135,16712,9161,Too large,refunded,437.47,2025-01-02
+1136,16714,9394,Wrong item,rejected,344.21,2025-11-10
+1137,16719,7548,Too small,approved,117.48,2023-02-28
+1138,16720,6550,Wrong item,refunded,528.36,2024-02-10
+1139,16724,9478,Wrong item,rejected,117.13,2023-07-29
+1140,16728,4243,Wrong item,approved,66.02,2024-05-29
+1141,16733,5993,Changed mind,rejected,145.05,2025-02-15
+1142,16739,8840,Too small,approved,116.88,2025-02-25
+1143,16755,9101,Wrong item,received,1535.69,2023-06-11
+1144,16757,3896,Damaged,refunded,181.31,2025-04-10
+1145,16762,6925,Arrived late,refunded,838.00,2025-10-09
+1146,16763,9098,Not as described,approved,1152.22,2023-08-26
+1147,16773,6664,Too small,received,454.39,2025-07-12
+1148,16796,3878,Not as described,received,881.07,2023-07-29
+1149,16808,497,Changed mind,refunded,480.43,2024-02-12
+1150,16821,5679,Arrived late,refunded,339.33,2025-04-25
+1151,16824,8552,Too large,rejected,744.19,2024-05-11
+1152,16825,1422,Wrong item,requested,408.72,2023-10-19
+1153,16841,916,Damaged,received,3850.80,2025-05-24
+1154,16868,2577,Too large,refunded,258.47,2024-03-08
+1155,16894,174,Damaged,approved,336.52,2024-09-30
+1156,16936,2164,Arrived late,rejected,38.65,2024-07-02
+1157,16952,9043,Arrived late,rejected,578.25,2025-08-04
+1158,16973,6214,Arrived late,received,473.49,2023-06-24
+1159,16978,8757,Too small,requested,1056.87,2025-06-21
+1160,16998,9838,Changed mind,received,232.94,2025-10-13
+1161,17022,2399,Changed mind,requested,328.96,2024-11-18
+1162,17034,8255,Damaged,received,570.51,2023-09-05
+1163,17087,2332,Damaged,refunded,1413.64,2026-01-29
+1164,17100,9431,Not as described,refunded,45.82,2024-04-07
+1165,17101,5369,Damaged,approved,340.27,2024-02-21
+1166,17108,7121,Too large,rejected,774.05,2024-12-12
+1167,17115,817,Too small,requested,469.96,2023-08-31
+1168,17118,6799,Too large,requested,321.38,2025-04-17
+1169,17146,2827,Wrong item,requested,303.12,2025-02-19
+1170,17206,2150,Arrived late,requested,1804.13,2024-08-18
+1171,17215,2271,Arrived late,requested,513.45,2024-11-07
+1172,17218,4856,Not as described,received,1991.04,2025-12-02
+1173,17221,2845,Arrived late,requested,204.30,2025-10-13
+1174,17224,4681,Wrong item,approved,102.91,2024-05-21
+1175,17229,1529,Wrong item,refunded,637.58,2024-02-10
+1176,17244,1574,Not as described,requested,1150.69,2025-03-25
+1177,17252,6998,Wrong item,refunded,96.11,2023-06-21
+1178,17260,9734,Arrived late,refunded,837.22,2023-09-30
+1179,17268,6340,Changed mind,refunded,1089.17,2023-11-11
+1180,17277,8964,Too large,received,798.93,2024-08-27
+1181,17299,211,Wrong item,refunded,1079.91,2023-10-06
+1182,17334,6624,Too large,refunded,516.08,2025-08-17
+1183,17374,4922,Damaged,requested,373.55,2023-04-22
+1184,17388,5432,Too large,refunded,23.30,2024-01-28
+1185,17396,551,Not as described,refunded,42.36,2023-05-05
+1186,17412,103,Damaged,refunded,819.30,2025-11-18
+1187,17439,6797,Damaged,refunded,113.72,2023-12-15
+1188,17453,9378,Damaged,received,128.45,2023-05-01
+1189,17457,3123,Arrived late,requested,268.13,2024-02-21
+1190,17459,9859,Not as described,approved,498.78,2025-12-02
+1191,17489,8989,Not as described,refunded,82.34,2024-09-05
+1192,17509,5381,Too large,received,2602.55,2026-01-21
+1193,17527,6991,Too small,received,57.18,2025-09-22
+1194,17564,1064,Wrong item,requested,765.50,2024-07-10
+1195,17579,2716,Damaged,refunded,255.61,2024-05-21
+1196,17593,6223,Not as described,refunded,3500.24,2023-03-14
+1197,17620,2650,Changed mind,refunded,703.54,2023-02-25
+1198,17648,9027,Too small,requested,1050.70,2023-03-07
+1199,17682,2396,Arrived late,refunded,576.82,2025-05-07
+1200,17705,5126,Not as described,refunded,270.86,2023-02-15
+1201,17707,1151,Too small,refunded,806.80,2025-05-30
+1202,17720,2257,Wrong item,received,248.42,2024-09-10
+1203,17739,9524,Wrong item,requested,789.75,2023-11-22
+1204,17770,2500,Changed mind,refunded,1933.74,2025-02-04
+1205,17788,3322,Too small,refunded,552.73,2025-09-19
+1206,17789,4002,Not as described,received,198.25,2024-08-23
+1207,17795,5190,Not as described,approved,99.29,2025-02-18
+1208,17817,1795,Not as described,refunded,180.77,2023-11-25
+1209,17829,5198,Arrived late,refunded,449.31,2025-06-20
+1210,17858,7817,Wrong item,refunded,677.77,2025-11-23
+1211,17882,9357,Wrong item,refunded,13.78,2023-12-06
+1212,17929,302,Changed mind,received,198.96,2025-04-11
+1213,17959,639,Wrong item,refunded,153.35,2024-09-24
+1214,17960,3605,Changed mind,rejected,1259.69,2025-06-30
+1215,17966,2437,Damaged,refunded,601.28,2024-07-21
+1216,18010,8031,Damaged,refunded,2456.53,2024-06-15
+1217,18016,5758,Damaged,requested,110.90,2025-11-09
+1218,18028,1745,Too small,approved,383.60,2023-06-28
+1219,18065,935,Wrong item,approved,105.50,2023-07-12
+1220,18075,7933,Not as described,refunded,493.75,2025-12-07
+1221,18083,6735,Too small,approved,135.74,2024-11-04
+1222,18094,2388,Too large,refunded,907.22,2024-09-02
+1223,18098,3091,Wrong item,approved,621.81,2024-11-13
+1224,18099,5176,Damaged,received,341.56,2024-08-18
+1225,18101,4697,Not as described,rejected,460.90,2024-10-07
+1226,18109,5056,Wrong item,received,2977.76,2023-05-01
+1227,18114,2307,Wrong item,rejected,201.13,2024-03-13
+1228,18131,7513,Too small,refunded,566.13,2023-05-09
+1229,18166,3108,Arrived late,approved,68.47,2025-10-15
+1230,18173,1751,Too small,requested,263.33,2025-02-28
+1231,18191,4949,Damaged,received,641.29,2023-04-27
+1232,18212,8622,Wrong item,refunded,141.14,2025-03-19
+1233,18238,8782,Too large,received,121.55,2024-10-01
+1234,18255,6724,Damaged,approved,87.31,2024-03-01
+1235,18256,9882,Arrived late,refunded,48.83,2024-04-02
+1236,18259,5514,Not as described,approved,928.88,2024-05-02
+1237,18263,3525,Too large,refunded,185.94,2024-11-14
+1238,18268,4581,Too large,refunded,1422.98,2024-05-06
+1239,18287,1799,Too large,refunded,1834.81,2023-08-23
+1240,18293,9037,Wrong item,refunded,37.31,2024-06-02
+1241,18303,6061,Not as described,requested,348.29,2024-03-12
+1242,18316,1584,Wrong item,refunded,238.08,2023-03-01
+1243,18318,9385,Wrong item,received,60.79,2024-11-24
+1244,18335,2043,Too large,approved,634.11,2024-03-06
+1245,18366,7803,Too large,requested,1353.35,2023-07-22
+1246,18397,5783,Not as described,refunded,1691.27,2024-07-02
+1247,18398,8353,Changed mind,refunded,1362.75,2024-07-05
+1248,18418,9730,Wrong item,received,366.23,2025-01-13
+1249,18446,1968,Not as described,requested,269.98,2023-11-30
+1250,18452,3344,Arrived late,refunded,481.69,2024-04-07
+1251,18480,4450,Not as described,requested,39.39,2024-08-29
+1252,18492,2695,Arrived late,approved,1102.24,2023-11-03
+1253,18494,2638,Damaged,received,2975.72,2024-07-03
+1254,18507,2646,Changed mind,received,1160.58,2025-08-05
+1255,18526,3855,Arrived late,refunded,663.23,2025-12-18
+1256,18530,7050,Arrived late,received,336.19,2025-11-16
+1257,18536,2295,Arrived late,rejected,280.48,2025-06-08
+1258,18542,3589,Not as described,received,135.43,2024-02-24
+1259,18560,8752,Damaged,approved,170.36,2023-08-09
+1260,18562,4031,Damaged,received,147.94,2024-08-23
+1261,18565,9581,Arrived late,rejected,1014.18,2025-01-05
+1262,18569,7812,Too large,received,582.02,2024-02-23
+1263,18591,2757,Not as described,received,206.78,2025-01-25
+1264,18593,3771,Wrong item,received,322.91,2025-06-14
+1265,18614,6250,Too small,refunded,591.79,2024-11-13
+1266,18615,5989,Wrong item,requested,22.05,2023-11-05
+1267,18652,5834,Not as described,received,522.95,2025-02-18
+1268,18654,2081,Arrived late,refunded,268.27,2023-12-17
+1269,18657,2274,Arrived late,refunded,901.77,2025-03-30
+1270,18659,2972,Damaged,approved,24.28,2025-05-24
+1271,18660,6224,Too large,approved,107.54,2024-02-27
+1272,18678,9950,Changed mind,received,69.58,2025-06-22
+1273,18688,6132,Arrived late,approved,420.25,2025-06-30
+1274,18689,3295,Changed mind,approved,3.64,2025-10-27
+1275,18705,7302,Arrived late,approved,197.15,2024-07-28
+1276,18706,9024,Too small,received,63.88,2023-09-30
+1277,18737,3033,Too large,requested,156.54,2025-07-12
+1278,18765,874,Damaged,received,144.11,2026-01-15
+1279,18822,5456,Arrived late,refunded,1012.72,2023-04-09
+1280,18826,6073,Not as described,rejected,182.44,2025-06-26
+1281,18833,6011,Changed mind,rejected,1669.17,2024-09-02
+1282,18861,5680,Wrong item,refunded,612.01,2024-03-27
+1283,18876,4304,Arrived late,requested,378.44,2023-08-16
+1284,18887,3493,Too large,approved,983.74,2023-06-17
+1285,18891,7515,Too small,refunded,1165.17,2025-09-20
+1286,18896,2498,Changed mind,approved,1020.01,2025-01-16
+1287,18912,4661,Changed mind,requested,596.52,2023-09-19
+1288,18914,6984,Not as described,approved,1022.71,2023-05-18
+1289,18953,3563,Too small,refunded,1142.67,2025-03-02
+1290,18959,7683,Wrong item,received,103.57,2023-11-13
+1291,18969,6823,Wrong item,refunded,96.93,2024-01-13
+1292,18971,111,Arrived late,refunded,1726.62,2024-11-22
+1293,18987,5506,Too small,received,16.54,2023-08-02
+1294,18989,4037,Wrong item,requested,523.76,2024-10-24
+1295,18999,8198,Changed mind,refunded,1233.15,2023-02-07
+1296,19014,8149,Wrong item,refunded,355.59,2024-02-14
+1297,19041,6365,Damaged,rejected,453.36,2025-10-07
+1298,19053,8016,Too large,approved,15.76,2023-08-09
+1299,19054,468,Arrived late,received,312.34,2024-02-20
+1300,19071,9461,Too small,refunded,895.60,2025-12-22
+1301,19074,682,Damaged,received,245.36,2024-01-17
+1302,19078,6098,Not as described,approved,260.56,2023-02-26
+1303,19100,5913,Damaged,refunded,109.27,2026-01-03
+1304,19109,7008,Changed mind,received,110.48,2024-09-17
+1305,19135,2974,Wrong item,refunded,1441.49,2024-10-01
+1306,19158,1616,Changed mind,approved,3540.79,2024-02-04
+1307,19161,3926,Wrong item,requested,535.80,2025-06-22
+1308,19166,7219,Changed mind,received,174.11,2025-12-11
+1309,19176,7234,Not as described,refunded,317.55,2024-02-18
+1310,19190,8411,Too large,approved,401.27,2024-01-06
+1311,19200,3626,Too large,received,330.84,2024-12-15
+1312,19231,3873,Wrong item,refunded,1191.52,2025-12-05
+1313,19270,50,Too small,received,531.92,2023-02-02
+1314,19307,7025,Too small,refunded,49.81,2023-05-31
+1315,19336,3863,Too large,refunded,728.27,2025-04-12
+1316,19349,3311,Changed mind,approved,638.76,2025-09-08
+1317,19367,2558,Damaged,refunded,275.96,2023-06-05
+1318,19374,7416,Arrived late,refunded,698.15,2025-02-09
+1319,19431,9680,Damaged,requested,552.67,2024-01-12
+1320,19444,2199,Arrived late,received,1351.96,2023-09-26
+1321,19457,9757,Damaged,refunded,849.12,2024-10-29
+1322,19463,9984,Not as described,received,195.36,2023-07-09
+1323,19481,2268,Wrong item,requested,78.25,2023-12-24
+1324,19487,8295,Changed mind,approved,258.33,2024-11-02
+1325,19490,9299,Arrived late,refunded,2805.10,2025-11-19
+1326,19495,5550,Damaged,refunded,111.45,2025-06-14
+1327,19538,8653,Arrived late,refunded,480.83,2024-03-25
+1328,19554,563,Too large,rejected,410.52,2024-08-27
+1329,19571,5776,Changed mind,received,702.59,2025-08-24
+1330,19573,532,Wrong item,refunded,1023.71,2023-08-07
+1331,19581,3104,Too small,requested,147.21,2025-03-21
+1332,19582,9987,Changed mind,refunded,416.80,2023-10-08
+1333,19585,7984,Wrong item,approved,831.62,2024-05-05
+1334,19587,7541,Damaged,received,292.12,2023-09-01
+1335,19604,2808,Not as described,requested,241.16,2024-12-30
+1336,19617,1174,Too small,received,294.30,2024-02-16
+1337,19646,3066,Too large,received,378.02,2025-01-28
+1338,19651,5087,Damaged,approved,213.76,2024-12-26
+1339,19663,7730,Wrong item,refunded,783.60,2023-02-08
+1340,19668,6840,Too large,rejected,836.74,2024-03-31
+1341,19673,9535,Changed mind,refunded,1918.30,2024-04-11
+1342,19680,1370,Too large,received,379.12,2023-10-09
+1343,19704,2945,Too large,refunded,2463.65,2026-01-21
+1344,19710,2208,Changed mind,approved,452.94,2023-09-02
+1345,19732,3731,Arrived late,refunded,5.23,2025-05-19
+1346,19769,8476,Damaged,approved,349.40,2025-01-09
+1347,19778,1751,Wrong item,received,653.54,2024-02-05
+1348,19802,5555,Too small,refunded,1367.15,2023-11-18
+1349,19813,5826,Arrived late,rejected,535.64,2023-05-21
+1350,19815,4715,Arrived late,refunded,570.85,2024-01-18
+1351,19886,5365,Damaged,refunded,29.93,2025-10-02
+1352,19897,2014,Damaged,refunded,532.78,2023-02-24
+1353,19915,4680,Wrong item,refunded,178.05,2026-02-18
+1354,19933,6971,Arrived late,requested,86.59,2023-08-16
+1355,19935,711,Wrong item,approved,691.55,2024-05-23
+1356,19940,6486,Arrived late,approved,710.53,2025-05-18
+1357,19943,1487,Damaged,approved,25.29,2023-03-07
+1358,19950,5092,Damaged,refunded,134.80,2024-02-12
+1359,19982,6850,Not as described,refunded,946.17,2024-06-02
+1360,19992,2707,Too large,refunded,39.36,2023-04-22
+1361,19998,3217,Too small,rejected,364.84,2024-10-31
+1362,20012,2180,Damaged,refunded,1271.32,2023-06-15
+1363,20023,817,Too small,received,297.42,2023-08-01
+1364,20026,8242,Too small,refunded,212.65,2025-07-17
+1365,20094,2154,Too small,rejected,116.68,2025-01-15
+1366,20100,9321,Wrong item,refunded,1156.70,2024-08-10
+1367,20113,6393,Arrived late,refunded,241.84,2024-02-28
+1368,20126,1755,Too small,refunded,1386.20,2024-12-01
+1369,20151,9620,Arrived late,requested,377.89,2023-12-31
+1370,20162,3413,Wrong item,refunded,74.12,2024-08-21
+1371,20168,461,Not as described,requested,292.14,2023-04-22
+1372,20170,3456,Too large,received,548.04,2026-02-06
+1373,20194,8244,Wrong item,received,128.45,2024-12-17
+1374,20204,177,Wrong item,refunded,647.75,2025-07-17
+1375,20214,6210,Not as described,rejected,75.59,2026-01-12
+1376,20250,8672,Arrived late,received,2078.18,2025-12-16
+1377,20268,4049,Changed mind,received,116.41,2023-04-28
+1378,20282,4044,Too small,approved,205.13,2025-02-07
+1379,20293,170,Too large,refunded,822.59,2024-04-12
+1380,20304,8139,Too small,received,234.78,2025-10-01
+1381,20334,5336,Too large,received,1277.76,2025-12-28
+1382,20365,8399,Too large,refunded,78.74,2023-03-31
+1383,20395,2442,Damaged,received,126.12,2025-12-31
+1384,20406,3852,Arrived late,requested,1408.72,2023-06-23
+1385,20438,4609,Damaged,refunded,198.56,2024-02-01
+1386,20456,7484,Damaged,requested,1867.07,2023-10-06
+1387,20467,7639,Too large,refunded,303.34,2024-05-26
+1388,20473,404,Damaged,refunded,3212.67,2024-06-28
+1389,20512,2391,Too small,received,553.79,2025-06-28
+1390,20544,6015,Too small,requested,69.02,2026-01-26
+1391,20562,9813,Too large,refunded,19.41,2024-10-26
+1392,20565,1718,Too large,refunded,751.95,2024-06-06
+1393,20571,4185,Arrived late,received,1246.08,2025-02-16
+1394,20578,4155,Arrived late,requested,746.92,2025-08-29
+1395,20589,1046,Arrived late,refunded,799.75,2023-06-02
+1396,20595,5772,Too large,received,312.27,2023-03-17
+1397,20596,7750,Changed mind,received,903.76,2023-08-07
+1398,20608,8275,Changed mind,received,131.76,2025-05-22
+1399,20655,4532,Damaged,requested,1470.80,2025-05-04
+1400,20678,5801,Arrived late,received,348.55,2023-01-22
+1401,20690,598,Damaged,approved,1501.03,2025-02-15
+1402,20700,5650,Arrived late,rejected,778.77,2025-08-06
+1403,20706,7062,Arrived late,approved,251.08,2024-03-24
+1404,20740,5873,Damaged,refunded,138.10,2025-02-05
+1405,20763,6486,Too large,refunded,243.56,2024-06-04
+1406,20775,5518,Arrived late,received,58.20,2023-05-15
+1407,20785,8271,Too small,refunded,298.35,2023-05-23
+1408,20804,5965,Wrong item,refunded,407.79,2025-02-14
+1409,20822,7909,Damaged,received,568.92,2024-01-30
+1410,20874,2246,Too small,received,538.24,2023-12-22
+1411,20880,6912,Not as described,refunded,702.22,2023-11-16
+1412,20887,1610,Too small,approved,639.94,2024-01-19
+1413,20894,2613,Too small,refunded,80.97,2025-03-17
+1414,20909,1172,Damaged,received,23.25,2024-03-22
+1415,20915,8098,Too large,received,4051.15,2024-05-18
+1416,20923,9419,Wrong item,approved,437.69,2025-08-20
+1417,20934,9565,Too small,received,1124.71,2024-01-24
+1418,20936,1019,Wrong item,refunded,146.77,2025-10-04
+1419,20956,5284,Damaged,received,1712.04,2024-01-26
+1420,20966,9099,Too large,refunded,992.38,2025-02-16
+1421,20974,1818,Damaged,approved,52.31,2023-06-17
+1422,20994,89,Too small,approved,245.82,2023-06-18
+1423,21016,1525,Damaged,refunded,301.67,2024-09-03
+1424,21042,6532,Not as described,refunded,146.68,2024-05-10
+1425,21046,2451,Too large,approved,9.98,2024-06-05
+1426,21068,5904,Not as described,refunded,796.81,2025-04-20
+1427,21114,7432,Damaged,refunded,269.04,2025-05-30
+1428,21122,3348,Damaged,refunded,777.04,2023-04-12
+1429,21125,7628,Damaged,approved,953.80,2025-04-29
+1430,21132,3107,Arrived late,refunded,1046.83,2024-03-25
+1431,21144,1967,Too small,refunded,2076.55,2024-02-24
+1432,21159,5544,Arrived late,received,569.21,2025-05-07
+1433,21172,3178,Too large,rejected,412.51,2024-04-17
+1434,21191,9710,Arrived late,refunded,523.52,2026-02-23
+1435,21206,434,Too small,approved,165.52,2023-12-27
+1436,21240,7812,Not as described,received,21.22,2024-12-04
+1437,21249,1990,Damaged,rejected,627.12,2023-06-05
+1438,21287,7238,Arrived late,refunded,858.46,2025-10-10
+1439,21290,9722,Too small,received,533.17,2024-08-21
+1440,21304,5240,Arrived late,refunded,1439.16,2023-11-08
+1441,21332,1121,Too small,refunded,379.01,2023-08-02
+1442,21336,5939,Not as described,refunded,886.88,2023-04-07
+1443,21344,7321,Too small,refunded,215.15,2025-10-27
+1444,21354,9098,Arrived late,requested,219.64,2024-12-09
+1445,21359,5873,Damaged,received,797.76,2023-05-05
+1446,21401,6787,Too small,refunded,335.84,2023-05-22
+1447,21419,588,Not as described,rejected,173.23,2023-10-12
+1448,21431,2028,Not as described,received,193.78,2023-08-23
+1449,21454,4363,Arrived late,requested,1159.93,2024-08-30
+1450,21489,6870,Changed mind,refunded,1142.44,2025-08-04
+1451,21494,9397,Too large,refunded,195.84,2025-07-26
+1452,21500,8204,Arrived late,refunded,178.23,2024-08-08
+1453,21531,4860,Arrived late,refunded,58.15,2024-08-10
+1454,21532,9150,Too small,received,1472.29,2025-10-12
+1455,21545,8274,Damaged,refunded,377.29,2025-01-25
+1456,21559,6847,Not as described,refunded,965.56,2024-04-07
+1457,21564,6107,Too large,rejected,197.20,2023-07-17
+1458,21569,7138,Arrived late,refunded,83.42,2023-03-12
+1459,21623,1145,Arrived late,requested,161.19,2025-08-09
+1460,21633,9829,Damaged,refunded,1003.70,2024-09-02
+1461,21641,568,Not as described,refunded,104.76,2023-08-20
+1462,21643,1854,Damaged,requested,567.70,2023-05-18
+1463,21669,6128,Changed mind,approved,99.47,2025-06-11
+1464,21719,9550,Too small,approved,155.85,2024-09-06
+1465,21738,815,Damaged,refunded,257.08,2024-09-13
+1466,21741,2937,Damaged,approved,162.91,2025-10-08
+1467,21744,1544,Arrived late,received,169.38,2025-11-14
+1468,21746,9830,Too small,refunded,140.92,2024-07-29
+1469,21749,2300,Wrong item,received,35.81,2024-10-18
+1470,21803,9704,Too small,refunded,307.15,2023-09-06
+1471,21808,5575,Changed mind,requested,21.19,2024-10-10
+1472,21818,6968,Changed mind,refunded,570.60,2024-11-18
+1473,21838,2818,Wrong item,refunded,428.13,2025-07-10
+1474,21859,3404,Damaged,approved,1141.39,2025-11-07
+1475,21877,5855,Not as described,received,535.17,2024-03-10
+1476,21892,6323,Too small,approved,767.18,2023-04-09
+1477,21894,4371,Too small,approved,1224.04,2023-11-22
+1478,21899,9346,Changed mind,rejected,239.84,2023-09-12
+1479,21936,4540,Too large,refunded,323.31,2023-07-13
+1480,21939,6780,Arrived late,received,794.56,2023-08-03
+1481,21945,7879,Changed mind,refunded,527.74,2025-01-23
+1482,21975,4593,Too small,requested,2254.27,2025-12-15
+1483,21976,9220,Changed mind,approved,277.79,2023-07-04
+1484,21987,7196,Too large,received,166.94,2023-11-23
+1485,22018,4043,Changed mind,requested,393.99,2024-01-10
+1486,22036,6636,Too large,refunded,378.11,2023-07-23
+1487,22053,4556,Wrong item,refunded,197.12,2025-03-17
+1488,22064,8004,Damaged,refunded,566.22,2025-08-25
+1489,22070,6687,Not as described,rejected,53.57,2023-12-04
+1490,22072,2680,Damaged,refunded,944.62,2023-09-17
+1491,22076,4251,Changed mind,requested,2392.13,2026-01-23
+1492,22083,512,Arrived late,received,493.55,2023-08-25
+1493,22123,4111,Changed mind,refunded,490.69,2025-06-24
+1494,22130,264,Not as described,rejected,483.92,2023-11-24
+1495,22140,5366,Damaged,refunded,2496.16,2023-11-07
+1496,22142,5519,Arrived late,refunded,168.12,2025-10-24
+1497,22150,9555,Changed mind,requested,343.51,2023-09-20
+1498,22154,430,Too small,received,368.13,2023-07-11
+1499,22178,5271,Changed mind,received,2711.20,2024-11-25
+1500,22185,1874,Changed mind,received,253.29,2025-08-26
+1501,22195,5617,Too small,received,968.68,2024-09-20
+1502,22204,3691,Damaged,received,6.97,2024-11-04
+1503,22208,4499,Not as described,received,98.50,2026-03-06
+1504,22209,8798,Too small,refunded,686.16,2023-06-28
+1505,22222,8601,Damaged,refunded,1583.62,2026-02-24
+1506,22223,7389,Too large,refunded,328.23,2025-01-21
+1507,22229,9724,Wrong item,received,376.83,2025-01-06
+1508,22283,7089,Too small,refunded,896.21,2023-10-23
+1509,22299,5613,Not as described,approved,1095.01,2024-09-02
+1510,22314,8507,Arrived late,received,407.12,2023-07-20
+1511,22321,7556,Not as described,refunded,1816.81,2023-11-07
+1512,22337,5192,Not as described,refunded,260.83,2025-05-09
+1513,22350,9297,Not as described,refunded,437.92,2023-12-20
+1514,22373,8539,Arrived late,approved,308.43,2024-04-12
+1515,22390,3928,Too small,refunded,79.22,2023-09-12
+1516,22398,3651,Damaged,approved,23.59,2023-03-16
+1517,22405,1534,Arrived late,approved,509.01,2025-12-24
+1518,22409,9780,Arrived late,rejected,224.82,2026-01-14
+1519,22421,3886,Too small,approved,384.20,2025-12-04
+1520,22451,2874,Not as described,approved,565.74,2025-03-16
+1521,22457,3136,Too small,received,311.29,2025-12-19
+1522,22464,7487,Damaged,refunded,50.30,2024-03-11
+1523,22495,8905,Arrived late,requested,183.69,2023-06-26
+1524,22497,6169,Changed mind,approved,341.51,2024-12-30
+1525,22514,3075,Wrong item,refunded,322.01,2024-01-25
+1526,22536,2518,Damaged,refunded,158.25,2026-01-25
+1527,22553,123,Too large,received,241.95,2023-12-04
+1528,22580,9805,Too large,received,93.88,2025-10-01
+1529,22597,4367,Damaged,refunded,150.32,2023-11-03
+1530,22618,4717,Damaged,refunded,1389.49,2024-02-29
+1531,22620,1993,Too small,requested,1021.97,2023-02-22
+1532,22621,5184,Wrong item,requested,717.14,2024-07-15
+1533,22633,6726,Arrived late,received,1001.64,2025-09-24
+1534,22663,2602,Too small,refunded,840.88,2023-12-27
+1535,22675,1194,Not as described,rejected,9.11,2024-11-14
+1536,22689,8350,Not as described,refunded,519.42,2023-10-28
+1537,22745,4247,Changed mind,rejected,659.83,2025-11-15
+1538,22748,6461,Too large,received,166.80,2024-02-11
+1539,22763,6834,Not as described,approved,502.79,2024-06-17
+1540,22765,2464,Too small,rejected,279.52,2024-04-21
+1541,22786,6758,Changed mind,approved,344.52,2024-02-15
+1542,22793,4700,Arrived late,refunded,246.63,2023-07-29
+1543,22794,7626,Too small,refunded,1975.81,2025-09-21
+1544,22805,3915,Too large,refunded,57.03,2024-06-04
+1545,22808,1118,Wrong item,requested,128.44,2025-04-16
+1546,22849,5900,Too large,refunded,201.93,2023-04-27
+1547,22879,9851,Too large,refunded,273.93,2024-06-17
+1548,22880,8905,Too small,received,459.93,2024-02-06
+1549,22905,7058,Arrived late,refunded,305.35,2023-12-25
+1550,22928,577,Not as described,received,998.78,2025-07-07
+1551,22937,6297,Wrong item,approved,1484.20,2023-11-07
+1552,22947,4653,Changed mind,requested,569.30,2023-09-12
+1553,23016,6112,Damaged,received,115.14,2023-07-18
+1554,23021,477,Changed mind,rejected,212.69,2023-04-15
+1555,23028,9138,Arrived late,rejected,1222.57,2024-05-21
+1556,23061,8833,Changed mind,received,133.33,2024-02-10
+1557,23077,2853,Arrived late,approved,1173.34,2025-04-30
+1558,23085,4033,Wrong item,refunded,203.86,2025-07-26
+1559,23088,5084,Too large,requested,307.94,2023-07-14
+1560,23094,5545,Too large,received,85.70,2025-08-29
+1561,23095,9038,Wrong item,refunded,201.05,2023-10-09
+1562,23118,7263,Damaged,refunded,1077.45,2026-02-14
+1563,23135,9917,Too small,requested,2173.26,2023-11-20
+1564,23137,2371,Damaged,received,333.62,2023-04-04
+1565,23139,1881,Damaged,approved,469.92,2025-07-14
+1566,23145,9788,Too large,refunded,533.73,2023-10-18
+1567,23148,75,Arrived late,approved,815.39,2023-05-31
+1568,23182,9169,Changed mind,refunded,620.40,2023-11-17
+1569,23194,2762,Changed mind,refunded,495.63,2024-03-16
+1570,23219,2299,Too small,requested,1217.00,2025-11-09
+1571,23227,7474,Wrong item,requested,1996.25,2025-03-12
+1572,23233,4759,Too large,received,140.54,2024-10-06
+1573,23266,9430,Wrong item,refunded,1724.87,2025-05-20
+1574,23279,4582,Damaged,approved,213.31,2025-06-14
+1575,23315,7008,Not as described,approved,776.97,2023-09-01
+1576,23319,3114,Too large,rejected,275.27,2023-02-03
+1577,23320,1460,Wrong item,refunded,610.07,2023-09-16
+1578,23327,2602,Wrong item,requested,951.94,2026-03-09
+1579,23329,8424,Wrong item,refunded,810.75,2024-07-19
+1580,23330,5219,Not as described,refunded,753.66,2023-09-23
+1581,23351,3779,Arrived late,received,588.00,2025-03-08
+1582,23352,4620,Too large,requested,1095.25,2024-06-29
+1583,23409,6059,Arrived late,requested,1712.13,2025-07-10
+1584,23412,1629,Not as described,refunded,551.45,2024-08-28
+1585,23435,1490,Changed mind,refunded,111.30,2025-05-06
+1586,23444,9546,Too large,requested,905.43,2025-08-14
+1587,23460,7685,Arrived late,received,1466.23,2024-06-29
+1588,23472,1823,Changed mind,received,288.99,2025-10-06
+1589,23479,456,Too large,rejected,664.05,2024-05-05
+1590,23488,2265,Too small,rejected,258.61,2023-12-04
+1591,23523,204,Damaged,refunded,772.78,2025-07-07
+1592,23529,8358,Wrong item,approved,815.57,2025-09-20
+1593,23552,2452,Changed mind,requested,328.97,2024-10-19
+1594,23554,1218,Changed mind,requested,552.90,2024-03-24
+1595,23559,8559,Too small,rejected,1210.58,2024-08-07
+1596,23568,2483,Arrived late,refunded,300.83,2025-08-17
+1597,23594,6252,Too large,refunded,886.84,2023-03-31
+1598,23623,7187,Wrong item,received,465.45,2025-03-29
+1599,23629,4918,Wrong item,rejected,502.70,2025-09-22
+1600,23632,7805,Wrong item,refunded,936.98,2025-06-03
+1601,23641,5530,Too small,rejected,745.30,2025-09-30
+1602,23669,7279,Too large,requested,284.09,2024-09-30
+1603,23672,317,Damaged,refunded,1062.16,2024-03-03
+1604,23687,5039,Arrived late,requested,1480.29,2024-04-20
+1605,23691,6292,Changed mind,refunded,401.14,2025-06-19
+1606,23695,4361,Too large,received,509.03,2024-06-10
+1607,23696,262,Damaged,refunded,265.79,2025-03-19
+1608,23709,2813,Changed mind,refunded,770.41,2025-08-03
+1609,23712,2046,Damaged,requested,360.52,2023-08-14
+1610,23722,9436,Too large,refunded,582.17,2024-01-03
+1611,23756,1029,Not as described,refunded,163.02,2024-12-23
+1612,23758,5448,Not as described,requested,1811.99,2023-08-04
+1613,23763,7830,Wrong item,received,1291.17,2025-12-02
+1614,23784,6678,Too small,refunded,231.60,2023-03-30
+1615,23799,6940,Too large,received,22.25,2023-08-18
+1616,23809,3834,Changed mind,refunded,124.35,2023-03-29
+1617,23825,8448,Too small,received,695.71,2024-02-10
+1618,23830,954,Too large,refunded,572.86,2025-05-23
+1619,23837,3978,Not as described,received,276.46,2025-05-27
+1620,23844,1540,Not as described,refunded,72.46,2025-06-22
+1621,23866,7812,Changed mind,refunded,374.16,2025-08-08
+1622,23883,1995,Too small,rejected,313.80,2023-04-15
+1623,23903,3333,Damaged,refunded,65.85,2024-03-03
+1624,23913,5694,Arrived late,refunded,503.15,2024-09-23
+1625,23928,1157,Damaged,refunded,1035.26,2023-05-06
+1626,23929,4455,Not as described,approved,168.49,2024-03-30
+1627,23931,7447,Arrived late,received,663.35,2023-04-23
+1628,23932,3846,Not as described,requested,545.27,2025-04-16
+1629,23947,6815,Too large,refunded,1095.16,2025-10-19
+1630,23970,5739,Too small,received,581.46,2023-02-17
+1631,24021,4674,Not as described,refunded,23.79,2025-01-21
+1632,24077,3395,Not as described,refunded,158.83,2025-10-27
+1633,24086,3581,Too large,approved,524.04,2024-11-07
+1634,24095,1560,Not as described,requested,152.96,2025-11-01
+1635,24129,8632,Too small,refunded,570.53,2025-08-05
+1636,24130,8863,Too small,refunded,626.00,2025-10-08
+1637,24137,9308,Too large,refunded,945.99,2023-09-07
+1638,24147,4838,Damaged,refunded,297.53,2024-09-09
+1639,24188,5206,Damaged,approved,637.95,2023-11-13
+1640,24200,6860,Wrong item,refunded,331.19,2025-07-31
+1641,24240,622,Wrong item,received,16.28,2026-02-14
+1642,24256,9809,Wrong item,approved,620.17,2024-01-15
+1643,24257,3286,Not as described,approved,144.49,2023-05-07
+1644,24289,5159,Changed mind,refunded,33.25,2025-11-20
+1645,24306,6456,Not as described,approved,273.23,2023-09-19
+1646,24310,8556,Changed mind,requested,34.87,2025-04-04
+1647,24325,7205,Arrived late,rejected,22.17,2024-05-21
+1648,24342,3249,Too large,refunded,1672.47,2024-12-03
+1649,24369,4592,Not as described,received,860.91,2024-12-03
+1650,24370,6765,Wrong item,refunded,40.70,2024-06-07
+1651,24382,162,Not as described,approved,1529.03,2023-09-17
+1652,24401,2373,Too small,received,617.95,2023-10-07
+1653,24402,985,Wrong item,refunded,779.29,2026-01-21
+1654,24418,4250,Arrived late,approved,31.11,2024-08-22
+1655,24422,7232,Changed mind,requested,324.83,2023-06-02
+1656,24424,446,Too large,approved,364.71,2023-06-24
+1657,24429,1777,Wrong item,refunded,562.14,2023-06-11
+1658,24443,9824,Changed mind,refunded,336.04,2023-07-30
+1659,24464,4921,Arrived late,requested,20.41,2025-06-04
+1660,24472,8664,Changed mind,received,804.60,2024-07-02
+1661,24489,6842,Not as described,refunded,316.75,2023-06-30
+1662,24501,1193,Too large,approved,680.47,2023-12-09
+1663,24502,253,Too large,received,358.74,2025-10-28
+1664,24525,3908,Too small,received,244.46,2025-09-05
+1665,24566,555,Damaged,refunded,434.17,2023-09-05
+1666,24567,9646,Too small,approved,120.19,2023-05-03
+1667,24568,8506,Arrived late,refunded,232.68,2026-01-08
+1668,24573,3043,Too large,approved,326.07,2023-08-29
+1669,24582,3585,Too large,rejected,286.86,2025-10-23
+1670,24584,1915,Not as described,approved,855.05,2024-03-23
+1671,24590,2093,Too small,refunded,51.08,2025-12-21
+1672,24602,4465,Too large,received,1039.13,2023-06-04
+1673,24613,5292,Changed mind,refunded,760.55,2024-07-31
+1674,24626,1865,Arrived late,refunded,853.42,2024-05-25
+1675,24650,5452,Too small,refunded,769.44,2025-04-15
+1676,24689,6760,Arrived late,refunded,220.14,2025-06-29
+1677,24690,1913,Damaged,approved,814.81,2025-12-25
+1678,24707,3112,Not as described,received,400.99,2024-04-17
+1679,24766,5573,Too small,refunded,188.29,2023-02-16
+1680,24805,6052,Not as described,approved,202.01,2025-07-16
+1681,24815,6891,Too large,refunded,1532.76,2023-02-10
+1682,24829,3992,Wrong item,refunded,3841.40,2025-01-15
+1683,24863,7984,Arrived late,refunded,791.61,2026-02-12
+1684,24865,1597,Arrived late,received,1137.22,2025-08-11
+1685,24867,8014,Too small,refunded,251.78,2023-07-08
+1686,24869,5390,Arrived late,received,373.78,2024-10-19
+1687,24892,460,Not as described,rejected,632.26,2024-07-12
+1688,24893,9460,Too small,refunded,1114.41,2024-10-17
+1689,24904,4939,Arrived late,approved,188.98,2024-04-28
+1690,24905,2479,Wrong item,approved,420.90,2023-08-12
+1691,24910,1398,Not as described,refunded,111.10,2025-09-30
+1692,24912,9021,Too small,approved,245.85,2023-09-10
+1693,24920,4063,Damaged,requested,60.06,2024-10-21
+1694,24940,202,Wrong item,requested,2511.21,2025-05-26
+1695,24966,8782,Wrong item,approved,127.45,2025-06-23
+1696,24992,4385,Not as described,refunded,171.41,2023-07-16
+1697,24993,7746,Changed mind,requested,345.50,2023-05-09
+1698,25006,2696,Arrived late,refunded,21.59,2024-10-17
+1699,25021,8557,Too small,refunded,1041.91,2025-04-14
+1700,25024,5386,Damaged,refunded,375.77,2024-02-22
+1701,25050,7939,Changed mind,approved,530.80,2024-02-23
+1702,25055,9092,Wrong item,refunded,1975.02,2024-08-29
+1703,25060,7222,Too small,approved,118.01,2025-05-09
+1704,25061,5216,Too large,requested,14.58,2023-05-16
+1705,25083,4303,Not as described,approved,118.22,2023-07-31
+1706,25087,1917,Not as described,rejected,2936.50,2024-05-30
+1707,25094,2505,Wrong item,approved,965.75,2024-12-16
+1708,25111,7440,Not as described,requested,364.09,2023-09-13
+1709,25143,3080,Too large,refunded,507.11,2025-08-15
+1710,25148,2391,Too small,refunded,57.85,2025-08-17
+1711,25153,7943,Too small,refunded,479.95,2023-03-09
+1712,25162,1255,Arrived late,rejected,1181.91,2023-12-16
+1713,25213,7232,Damaged,approved,330.03,2025-04-17
+1714,25215,4434,Damaged,refunded,328.30,2024-05-16
+1715,25253,9411,Too large,refunded,107.17,2023-11-22
+1716,25269,6092,Damaged,received,353.73,2023-09-26
+1717,25276,2212,Not as described,approved,38.19,2025-07-07
+1718,25280,3985,Damaged,rejected,549.39,2023-11-12
+1719,25285,8721,Arrived late,refunded,67.95,2024-09-26
+1720,25286,9536,Too small,refunded,589.21,2023-06-26
+1721,25288,5365,Wrong item,received,151.57,2026-01-26
+1722,25292,9759,Changed mind,received,299.89,2025-03-23
+1723,25294,1721,Too large,received,426.44,2025-10-04
+1724,25325,1360,Not as described,approved,327.41,2023-07-07
+1725,25353,9673,Too large,requested,209.96,2024-12-05
+1726,25357,8401,Wrong item,refunded,19.62,2025-10-01
+1727,25363,3867,Damaged,requested,679.88,2023-04-14
+1728,25371,9211,Arrived late,received,394.20,2024-07-07
+1729,25388,1616,Damaged,received,105.37,2025-10-23
+1730,25390,6550,Too large,received,38.75,2024-08-29
+1731,25421,9250,Damaged,refunded,780.42,2025-10-12
+1732,25428,4342,Damaged,refunded,264.03,2024-03-05
+1733,25433,8883,Too large,rejected,177.64,2024-07-20
+1734,25478,8191,Arrived late,approved,1238.30,2024-02-22
+1735,25480,2230,Too large,refunded,169.36,2026-01-08
+1736,25503,8454,Too large,approved,830.49,2023-04-14
+1737,25511,4087,Damaged,refunded,480.40,2024-03-10
+1738,25513,2950,Too large,approved,1711.94,2025-10-01
+1739,25525,457,Not as described,received,197.64,2024-06-26
+1740,25532,2358,Arrived late,approved,529.79,2025-02-11
+1741,25556,8654,Too small,refunded,167.53,2024-11-03
+1742,25563,1797,Not as described,received,475.34,2023-02-25
+1743,25603,3032,Wrong item,received,23.41,2025-08-18
+1744,25614,1791,Too small,refunded,36.61,2024-07-06
+1745,25636,8817,Wrong item,refunded,820.06,2024-01-05
+1746,25639,5162,Not as described,received,1492.04,2023-06-02
+1747,25691,4551,Arrived late,refunded,54.83,2024-01-13
+1748,25759,89,Not as described,requested,933.48,2023-12-28
+1749,25761,7769,Too small,approved,2132.01,2023-01-28
+1750,25776,6878,Arrived late,requested,208.81,2025-02-19
+1751,25784,6103,Changed mind,refunded,39.72,2025-10-08
+1752,25787,3740,Not as described,requested,286.04,2023-10-24
+1753,25826,111,Damaged,approved,1598.63,2025-09-27
+1754,25833,9900,Too small,received,55.35,2026-03-14
+1755,25858,7801,Arrived late,approved,237.22,2024-02-28
+1756,25861,8996,Not as described,requested,882.21,2025-06-07
+1757,25863,5210,Too small,approved,103.48,2023-08-30
+1758,25884,1715,Arrived late,approved,591.50,2023-07-16
+1759,25896,888,Changed mind,approved,187.81,2023-12-14
+1760,25913,8412,Arrived late,approved,431.31,2025-02-20
+1761,25938,5109,Damaged,approved,567.28,2025-10-03
+1762,25939,4046,Arrived late,refunded,583.36,2024-06-24
+1763,25943,1563,Wrong item,approved,77.82,2025-05-25
+1764,25946,1056,Changed mind,approved,400.05,2023-04-09
+1765,25951,3770,Too small,refunded,301.08,2025-03-10
+1766,25976,2501,Too large,received,82.74,2025-08-13
+1767,26024,1213,Too large,approved,353.25,2023-02-04
+1768,26030,8379,Not as described,rejected,349.51,2025-02-10
+1769,26070,2767,Too small,rejected,698.47,2023-10-25
+1770,26090,2905,Too large,refunded,4.38,2023-10-23
+1771,26093,2191,Too small,approved,329.83,2024-11-15
+1772,26095,1123,Too large,refunded,675.50,2023-02-06
+1773,26099,3760,Not as described,refunded,186.73,2025-06-16
+1774,26146,9404,Wrong item,received,232.00,2024-05-01
+1775,26166,9513,Not as described,received,912.25,2025-10-25
+1776,26169,6087,Damaged,received,283.25,2024-02-19
+1777,26179,2240,Wrong item,received,206.37,2025-03-10
+1778,26187,1674,Arrived late,refunded,953.93,2023-12-10
+1779,26196,3579,Not as described,refunded,760.72,2025-04-15
+1780,26211,4629,Not as described,refunded,631.10,2023-05-14
+1781,26215,3840,Not as described,refunded,67.63,2024-01-20
+1782,26220,4609,Damaged,approved,288.97,2023-09-03
+1783,26249,4846,Damaged,refunded,1403.37,2024-03-11
+1784,26253,8117,Arrived late,approved,500.59,2025-12-16
+1785,26299,6031,Too small,refunded,64.85,2026-02-01
+1786,26306,8110,Damaged,approved,10.41,2025-06-18
+1787,26313,2628,Wrong item,approved,197.04,2024-03-08
+1788,26314,7800,Too small,requested,900.07,2024-10-28
+1789,26316,1888,Arrived late,refunded,202.88,2023-09-02
+1790,26317,9206,Changed mind,received,1416.33,2024-08-19
+1791,26324,7118,Changed mind,refunded,568.16,2023-06-13
+1792,26339,6,Arrived late,refunded,52.26,2024-11-23
+1793,26355,1751,Changed mind,refunded,28.70,2025-06-28
+1794,26356,9491,Changed mind,refunded,495.32,2025-12-01
+1795,26359,5110,Arrived late,refunded,232.08,2023-06-27
+1796,26372,8390,Too small,refunded,205.24,2024-06-16
+1797,26384,8180,Damaged,requested,318.65,2024-01-30
+1798,26391,801,Not as described,received,94.47,2024-09-01
+1799,26399,2996,Changed mind,requested,201.98,2023-11-19
+1800,26401,9126,Arrived late,refunded,1265.29,2023-06-06
+1801,26421,9890,Too large,refunded,111.74,2023-07-08
+1802,26425,4276,Damaged,refunded,222.43,2023-07-08
+1803,26440,2514,Too large,received,1199.24,2025-03-02
+1804,26459,2902,Not as described,refunded,671.87,2024-07-25
+1805,26471,5326,Not as described,received,40.05,2023-02-18
+1806,26474,5018,Too large,approved,575.34,2025-01-28
+1807,26501,3409,Wrong item,refunded,311.18,2025-01-20
+1808,26515,2159,Not as described,received,402.07,2025-08-02
+1809,26528,2738,Arrived late,refunded,148.53,2024-12-23
+1810,26550,6771,Damaged,received,964.02,2024-05-10
+1811,26563,7561,Not as described,refunded,85.09,2025-12-18
+1812,26572,3066,Too large,refunded,1860.35,2026-01-20
+1813,26618,6257,Arrived late,requested,45.83,2025-04-25
+1814,26628,7569,Changed mind,approved,370.59,2025-10-15
+1815,26634,4875,Damaged,received,803.18,2025-10-01
+1816,26672,4961,Wrong item,refunded,377.25,2023-09-02
+1817,26715,2427,Damaged,received,643.61,2025-12-18
+1818,26738,1627,Too large,requested,21.30,2026-01-06
+1819,26770,279,Wrong item,approved,1026.63,2025-12-28
+1820,26777,4445,Wrong item,refunded,21.12,2025-02-08
+1821,26787,9091,Wrong item,requested,374.50,2023-05-03
+1822,26790,2933,Too large,refunded,2075.66,2026-01-09
+1823,26803,1117,Wrong item,requested,406.01,2025-10-26
+1824,26836,2773,Too small,approved,131.08,2025-10-18
+1825,26851,2844,Too small,requested,513.45,2025-01-10
+1826,26855,5130,Not as described,approved,890.09,2023-10-09
+1827,26872,2764,Damaged,approved,182.32,2025-02-09
+1828,26873,4742,Changed mind,approved,188.88,2024-11-03
+1829,26897,5773,Changed mind,refunded,18.23,2024-03-26
+1830,26932,6912,Damaged,refunded,101.84,2024-08-28
+1831,26933,3243,Not as described,refunded,520.07,2023-12-05
+1832,26937,7241,Not as described,received,496.73,2026-01-16
+1833,26945,412,Wrong item,received,234.95,2025-11-20
+1834,26946,3282,Damaged,received,173.43,2025-09-08
+1835,26978,6517,Arrived late,approved,91.55,2024-04-21
+1836,26988,1471,Wrong item,refunded,12.11,2024-02-15
+1837,26991,8684,Not as described,received,143.74,2024-12-15
+1838,26997,8237,Changed mind,rejected,607.51,2025-09-17
+1839,26999,3446,Wrong item,refunded,1487.51,2025-01-25
+1840,27011,8428,Too small,approved,582.11,2026-03-01
+1841,27030,4064,Too large,refunded,23.81,2026-01-25
+1842,27036,7276,Arrived late,refunded,286.30,2024-09-15
+1843,27038,7411,Too small,received,77.82,2023-04-27
+1844,27061,5766,Too small,received,295.49,2024-05-03
+1845,27064,8170,Wrong item,refunded,517.71,2025-12-29
+1846,27065,1956,Damaged,approved,258.95,2024-03-27
+1847,27075,8359,Wrong item,received,1972.01,2024-05-29
+1848,27091,5153,Wrong item,refunded,203.54,2024-03-01
+1849,27103,7845,Too large,refunded,802.01,2023-12-19
+1850,27133,8610,Changed mind,received,247.16,2023-07-05
+1851,27151,781,Too small,received,187.07,2023-05-16
+1852,27162,4078,Too small,received,68.39,2024-05-08
+1853,27228,9387,Not as described,received,2614.31,2023-10-20
+1854,27270,7994,Damaged,refunded,437.25,2023-05-26
+1855,27278,776,Damaged,refunded,400.49,2024-01-07
+1856,27283,7561,Not as described,requested,448.20,2024-08-14
+1857,27297,818,Damaged,refunded,236.28,2023-08-31
+1858,27330,4354,Changed mind,received,357.92,2024-04-08
+1859,27334,7722,Wrong item,rejected,83.46,2025-06-10
+1860,27336,6478,Damaged,refunded,196.20,2023-12-31
+1861,27373,9021,Not as described,refunded,278.18,2025-10-06
+1862,27398,1975,Wrong item,refunded,365.73,2025-06-30
+1863,27412,4479,Damaged,received,454.22,2025-08-05
+1864,27414,805,Too small,refunded,846.96,2025-06-24
+1865,27427,125,Not as described,refunded,641.44,2025-11-11
+1866,27448,1558,Changed mind,refunded,537.80,2023-10-27
+1867,27451,8478,Wrong item,approved,66.72,2025-02-13
+1868,27474,4951,Changed mind,rejected,493.38,2024-09-22
+1869,27514,8334,Arrived late,refunded,46.73,2025-05-22
+1870,27563,6185,Changed mind,refunded,971.52,2023-04-12
+1871,27567,5440,Not as described,refunded,2018.33,2025-05-03
+1872,27591,883,Changed mind,received,505.83,2024-03-14
+1873,27610,7718,Too small,refunded,502.36,2025-07-25
+1874,27618,9945,Arrived late,approved,373.16,2023-07-28
+1875,27619,6981,Too small,received,801.68,2025-10-31
+1876,27646,3504,Not as described,received,440.89,2025-04-20
+1877,27647,433,Too large,approved,136.79,2024-09-14
+1878,27670,5527,Arrived late,approved,658.56,2023-10-27
+1879,27673,1002,Wrong item,refunded,1339.93,2026-01-15
+1880,27686,4126,Too small,received,176.02,2025-02-19
+1881,27692,1089,Too large,rejected,64.38,2023-12-06
+1882,27733,5415,Damaged,refunded,682.01,2024-03-27
+1883,27737,6231,Too large,rejected,560.24,2025-09-14
+1884,27747,1061,Arrived late,refunded,890.22,2024-11-09
+1885,27750,7411,Too small,refunded,546.37,2025-04-15
+1886,27760,924,Not as described,refunded,2941.61,2025-04-01
+1887,27769,1048,Damaged,refunded,274.80,2024-06-20
+1888,27774,5072,Not as described,received,116.58,2023-04-27
+1889,27776,6805,Wrong item,requested,2223.63,2024-07-07
+1890,27791,22,Too small,approved,421.19,2024-03-20
+1891,27839,8664,Too large,refunded,603.29,2024-07-14
+1892,27848,2556,Too small,approved,985.67,2023-03-20
+1893,27849,9519,Damaged,refunded,743.52,2023-10-19
+1894,27861,2755,Too large,refunded,976.04,2025-08-06
+1895,27866,9322,Too large,refunded,85.40,2025-12-11
+1896,27903,5287,Not as described,refunded,166.05,2023-12-15
+1897,27912,2920,Wrong item,refunded,552.97,2025-09-22
+1898,27922,4818,Damaged,refunded,1548.45,2024-08-16
+1899,27932,6659,Damaged,refunded,383.21,2023-01-18
+1900,27933,6695,Changed mind,received,10.16,2024-05-20
+1901,27957,510,Wrong item,refunded,586.62,2024-03-07
+1902,27959,6002,Wrong item,approved,22.28,2025-01-05
+1903,27965,2614,Changed mind,approved,1718.30,2023-03-17
+1904,27984,7805,Changed mind,refunded,1684.34,2024-11-17
+1905,28009,2559,Wrong item,approved,292.88,2025-10-11
+1906,28025,2596,Wrong item,refunded,365.05,2025-08-31
+1907,28039,1495,Wrong item,refunded,995.09,2025-12-05
+1908,28041,1861,Too small,approved,189.47,2023-06-29
+1909,28069,7228,Damaged,received,1149.74,2025-12-24
+1910,28073,9518,Arrived late,approved,685.34,2025-07-02
+1911,28121,6473,Not as described,refunded,372.58,2025-01-02
+1912,28134,4019,Damaged,received,155.07,2025-09-04
+1913,28135,1564,Arrived late,refunded,31.78,2023-11-28
+1914,28139,937,Arrived late,refunded,306.37,2025-03-31
+1915,28141,4754,Too large,refunded,30.82,2023-10-01
+1916,28172,2795,Damaged,approved,1082.38,2023-05-31
+1917,28217,1533,Arrived late,received,20.60,2024-01-07
+1918,28220,9279,Changed mind,refunded,155.68,2024-03-12
+1919,28234,8723,Changed mind,refunded,422.62,2025-12-14
+1920,28276,6577,Arrived late,refunded,122.76,2024-02-26
+1921,28307,2134,Not as described,refunded,756.66,2024-04-18
+1922,28324,8950,Too small,refunded,673.68,2023-11-30
+1923,28335,759,Wrong item,requested,601.82,2024-02-29
+1924,28340,9075,Arrived late,refunded,562.37,2023-07-21
+1925,28348,9738,Arrived late,refunded,123.00,2024-07-22
+1926,28400,1465,Too large,received,488.71,2023-04-06
+1927,28404,1098,Arrived late,rejected,296.00,2025-03-09
+1928,28420,7292,Too small,refunded,57.79,2025-02-19
+1929,28426,1458,Too large,received,745.54,2024-07-10
+1930,28430,5052,Wrong item,refunded,931.94,2025-12-21
+1931,28439,5009,Wrong item,rejected,556.99,2023-03-05
+1932,28446,2231,Too large,requested,2718.13,2023-12-08
+1933,28489,7105,Arrived late,approved,35.97,2023-12-31
+1934,28497,9736,Damaged,requested,755.69,2024-01-30
+1935,28505,5573,Wrong item,received,242.12,2026-01-27
+1936,28511,7734,Wrong item,refunded,60.67,2025-03-01
+1937,28536,1603,Wrong item,approved,466.60,2024-07-20
+1938,28539,915,Too small,refunded,96.67,2024-02-18
+1939,28544,1962,Wrong item,refunded,761.69,2025-12-26
+1940,28545,9022,Too large,refunded,130.83,2024-11-02
+1941,28558,6315,Not as described,requested,376.87,2024-03-26
+1942,28572,993,Too large,refunded,456.38,2024-09-03
+1943,28586,2299,Not as described,requested,322.58,2023-12-05
+1944,28594,6912,Too small,refunded,149.12,2024-08-16
+1945,28602,3275,Too small,approved,1777.85,2023-10-03
+1946,28630,9253,Damaged,rejected,633.73,2025-12-11
+1947,28631,2095,Wrong item,approved,295.55,2025-01-25
+1948,28644,6460,Too small,received,448.40,2025-05-06
+1949,28646,5266,Too large,requested,500.03,2026-02-16
+1950,28660,3813,Not as described,received,332.83,2025-10-09
+1951,28673,7289,Wrong item,received,643.69,2025-06-24
+1952,28678,7127,Arrived late,received,2356.65,2024-03-22
+1953,28691,7342,Not as described,refunded,231.79,2025-08-01
+1954,28701,3472,Not as described,rejected,144.77,2023-11-16
+1955,28703,98,Wrong item,received,1935.25,2023-06-10
+1956,28762,6455,Too small,received,179.55,2025-04-11
+1957,28769,8218,Not as described,refunded,582.26,2024-12-08
+1958,28777,8574,Arrived late,approved,571.83,2025-05-06
+1959,28780,3011,Damaged,received,2116.50,2025-10-24
+1960,28809,736,Too large,received,274.47,2023-07-17
+1961,28834,5433,Not as described,refunded,213.06,2023-11-13
+1962,28843,6419,Damaged,received,309.60,2023-07-19
+1963,28856,2166,Arrived late,refunded,980.45,2023-12-08
+1964,28859,3154,Arrived late,received,315.33,2026-01-19
+1965,28876,55,Damaged,approved,44.40,2025-06-04
+1966,28878,8443,Not as described,refunded,252.38,2025-06-02
+1967,28888,2579,Changed mind,refunded,1518.92,2024-05-31
+1968,28890,9375,Too large,received,1094.23,2023-10-04
+1969,28893,4035,Too small,refunded,636.74,2024-08-10
+1970,28904,9764,Changed mind,refunded,28.58,2025-08-11
+1971,28914,4713,Not as described,refunded,1968.40,2025-03-08
+1972,28917,9880,Changed mind,refunded,149.47,2024-12-19
+1973,28921,9690,Too small,received,387.52,2025-05-11
+1974,28923,5852,Wrong item,requested,241.12,2023-03-26
+1975,28955,6383,Changed mind,approved,692.97,2024-01-23
+1976,28961,4978,Changed mind,refunded,13.19,2026-01-22
+1977,28968,7971,Too small,refunded,163.77,2023-11-07
+1978,28987,207,Changed mind,approved,652.19,2024-11-27
+1979,29001,446,Damaged,approved,281.97,2024-05-09
+1980,29012,6189,Too large,approved,33.29,2025-01-07
+1981,29024,909,Damaged,requested,141.46,2023-04-21
+1982,29027,1248,Too large,refunded,143.64,2023-03-06
+1983,29044,3671,Damaged,approved,1676.28,2024-09-27
+1984,29054,6273,Changed mind,received,51.78,2024-09-01
+1985,29080,911,Changed mind,received,998.38,2023-09-29
+1986,29126,7472,Not as described,refunded,1644.70,2025-08-03
+1987,29149,7134,Damaged,approved,22.05,2024-06-10
+1988,29168,9196,Too large,refunded,143.10,2024-09-12
+1989,29171,714,Arrived late,refunded,1739.60,2025-03-29
+1990,29176,5684,Wrong item,received,704.62,2025-04-08
+1991,29180,7061,Arrived late,refunded,151.67,2024-05-03
+1992,29185,4470,Too small,refunded,63.05,2025-08-01
+1993,29189,1054,Arrived late,approved,609.84,2024-06-18
+1994,29214,5073,Too large,refunded,719.81,2023-07-10
+1995,29218,2565,Wrong item,refunded,420.52,2025-12-28
+1996,29241,9258,Changed mind,refunded,1164.27,2024-12-19
+1997,29251,252,Damaged,rejected,103.38,2025-09-05
+1998,29262,2248,Wrong item,refunded,304.43,2023-07-28
+1999,29266,424,Damaged,refunded,433.27,2025-10-23
+2000,29293,6479,Changed mind,approved,1016.19,2024-08-18
+2001,29304,2588,Too large,rejected,898.80,2025-06-12
+2002,29306,2610,Too large,received,680.47,2024-03-31
+2003,29344,5438,Not as described,refunded,64.78,2023-11-28
+2004,29347,1075,Wrong item,refunded,191.77,2024-03-06
+2005,29360,9871,Changed mind,received,968.17,2026-01-27
+2006,29363,2494,Too large,received,392.90,2023-03-27
+2007,29368,6114,Too small,refunded,301.59,2024-04-14
+2008,29389,9308,Arrived late,requested,843.36,2024-10-05
+2009,29400,9113,Too small,requested,79.70,2023-09-06
+2010,29406,4519,Damaged,refunded,88.19,2025-10-13
+2011,29419,2177,Arrived late,refunded,358.52,2024-02-02
+2012,29426,9066,Changed mind,refunded,1213.53,2025-01-07
+2013,29447,4549,Not as described,requested,945.88,2025-12-01
+2014,29450,6760,Too large,rejected,747.07,2024-07-04
+2015,29459,2407,Too large,approved,102.97,2025-11-01
+2016,29467,6259,Wrong item,refunded,325.24,2025-11-06
+2017,29479,1704,Too large,rejected,243.59,2025-05-31
+2018,29480,6957,Too small,received,1472.51,2023-04-23
+2019,29498,2761,Too small,received,13.52,2025-05-28
+2020,29513,7030,Not as described,refunded,36.71,2025-02-14
+2021,29520,7763,Not as described,refunded,96.28,2025-06-01
+2022,29522,930,Not as described,refunded,216.83,2024-04-25
+2023,29529,2025,Arrived late,requested,64.82,2024-07-26
+2024,29530,127,Arrived late,refunded,222.99,2024-12-09
+2025,29531,6107,Too large,refunded,348.63,2024-03-03
+2026,29546,3054,Not as described,refunded,680.95,2023-03-04
+2027,29576,346,Changed mind,approved,6.63,2025-03-10
+2028,29581,6838,Damaged,requested,921.66,2024-04-08
+2029,29587,7800,Too large,refunded,556.19,2023-06-27
+2030,29589,543,Too large,refunded,428.60,2024-07-07
+2031,29615,8888,Changed mind,requested,674.58,2025-12-28
+2032,29621,9878,Arrived late,approved,3671.34,2023-03-28
+2033,29626,9797,Too large,refunded,1751.00,2023-08-07
+2034,29631,2195,Arrived late,requested,490.61,2025-10-30
+2035,29634,6608,Changed mind,approved,39.98,2023-09-10
+2036,29637,8343,Damaged,requested,680.53,2024-11-09
+2037,29693,7920,Wrong item,received,1450.59,2023-03-04
+2038,29725,1626,Too large,received,225.33,2024-12-21
+2039,29753,6842,Too small,requested,148.09,2025-01-05
+2040,29754,6444,Arrived late,received,316.15,2024-04-14
+2041,29791,8902,Damaged,requested,387.26,2024-05-01
+2042,29795,7649,Changed mind,rejected,15.75,2025-11-13
+2043,29813,6864,Changed mind,refunded,648.78,2023-04-06
+2044,29816,2339,Too small,received,2193.15,2024-10-01
+2045,29821,3631,Too small,refunded,2201.28,2023-02-19
+2046,29822,4317,Too small,refunded,373.75,2023-10-04
+2047,29841,5329,Arrived late,approved,339.49,2025-05-23
+2048,29843,8011,Changed mind,refunded,512.93,2024-06-22
+2049,29852,2330,Too large,approved,57.22,2023-06-09
+2050,29861,3272,Damaged,received,302.02,2023-12-05
+2051,29866,9037,Too small,rejected,403.18,2025-01-13
+2052,29876,8915,Too small,rejected,912.31,2026-01-06
+2053,29883,9611,Too small,requested,596.58,2025-04-20
+2054,29938,4107,Changed mind,approved,149.56,2024-05-19
+2055,29945,5990,Not as described,refunded,810.19,2026-02-24
+2056,29952,295,Too large,refunded,37.19,2025-08-21
+2057,29957,2667,Wrong item,refunded,100.22,2024-10-02
+2058,29967,5433,Wrong item,refunded,515.69,2024-04-02
+2059,29999,6538,Not as described,received,321.67,2024-05-05
+2060,30010,4129,Damaged,received,264.39,2024-04-01
+2061,30020,1569,Arrived late,refunded,113.36,2026-02-07
+2062,30026,2786,Too small,received,101.37,2023-11-12
+2063,30033,4364,Changed mind,received,377.07,2024-03-19
+2064,30042,1534,Changed mind,received,641.54,2024-01-12
+2065,30055,6408,Too small,refunded,198.85,2023-03-27
+2066,30062,889,Damaged,approved,569.19,2024-03-28
+2067,30064,2374,Changed mind,refunded,570.37,2023-08-12
+2068,30106,9639,Damaged,approved,381.79,2025-09-01
+2069,30127,9495,Too small,requested,286.23,2024-03-02
+2070,30135,663,Changed mind,refunded,737.72,2026-02-02
+2071,30137,9826,Too large,approved,138.73,2023-09-05
+2072,30173,487,Changed mind,refunded,1293.00,2023-03-26
+2073,30202,4910,Too small,refunded,2301.59,2026-01-19
+2074,30218,6641,Damaged,received,460.53,2025-05-09
+2075,30232,7900,Changed mind,refunded,223.93,2024-12-11
+2076,30251,7201,Changed mind,rejected,42.97,2026-01-17
+2077,30253,2184,Too large,received,54.29,2025-10-19
+2078,30316,9994,Damaged,received,230.91,2023-02-04
+2079,30326,9985,Arrived late,refunded,493.77,2023-06-05
+2080,30329,613,Not as described,received,350.40,2025-01-28
+2081,30335,5925,Damaged,refunded,140.98,2023-10-02
+2082,30375,4189,Changed mind,requested,63.45,2024-08-03
+2083,30385,4619,Damaged,rejected,91.42,2025-09-30
+2084,30393,3015,Arrived late,received,172.15,2025-07-19
+2085,30416,9364,Wrong item,refunded,568.32,2023-12-19
+2086,30437,5330,Wrong item,approved,346.82,2025-11-25
+2087,30452,651,Too small,requested,749.19,2023-06-27
+2088,30469,5901,Wrong item,approved,343.51,2024-06-15
+2089,30473,1031,Arrived late,refunded,2082.49,2024-03-14
+2090,30520,5621,Too large,requested,340.91,2023-06-18
+2091,30556,9976,Too large,refunded,1578.56,2024-02-08
+2092,30564,6534,Not as described,approved,84.82,2025-09-19
+2093,30565,4583,Changed mind,refunded,656.87,2025-03-10
+2094,30577,2148,Not as described,refunded,108.68,2025-04-23
+2095,30580,4209,Too small,received,220.37,2026-02-06
+2096,30597,4796,Changed mind,rejected,222.17,2024-04-25
+2097,30612,2622,Arrived late,approved,2131.50,2024-08-01
+2098,30626,4692,Too small,refunded,21.43,2023-12-02
+2099,30639,3091,Too small,refunded,373.19,2024-06-19
+2100,30666,7349,Changed mind,approved,60.59,2025-10-01
+2101,30675,6188,Too large,rejected,57.00,2025-05-10
+2102,30676,7503,Too small,approved,1287.85,2025-08-07
+2103,30682,385,Arrived late,refunded,85.64,2023-04-07
+2104,30690,8729,Not as described,refunded,116.62,2024-05-24
+2105,30714,1929,Too small,received,266.02,2026-01-24
+2106,30719,2558,Too large,received,936.08,2024-12-29
+2107,30726,602,Not as described,refunded,151.28,2023-11-09
+2108,30732,339,Damaged,rejected,152.16,2026-02-07
+2109,30737,3866,Wrong item,refunded,98.79,2024-07-12
+2110,30741,3813,Not as described,refunded,524.68,2024-06-17
+2111,30753,1859,Too small,received,712.37,2024-04-12
+2112,30792,9681,Too small,refunded,204.47,2024-07-18
+2113,30796,878,Damaged,received,1979.67,2023-07-12
+2114,30797,6584,Too large,requested,148.35,2023-02-28
+2115,30824,9141,Wrong item,refunded,250.62,2025-04-22
+2116,30825,406,Changed mind,requested,364.25,2024-07-18
+2117,30839,4515,Damaged,rejected,212.62,2025-06-11
+2118,30863,8828,Too large,refunded,347.01,2023-11-22
+2119,30868,4298,Too large,rejected,1082.62,2025-07-17
+2120,30912,5000,Too small,approved,1439.40,2025-11-02
+2121,30930,242,Changed mind,received,612.92,2026-01-18
+2122,30931,5622,Damaged,received,695.96,2023-10-23
+2123,30932,7127,Not as described,refunded,143.12,2024-02-17
+2124,30941,8666,Damaged,approved,564.40,2024-05-17
+2125,30943,9194,Wrong item,refunded,11.39,2025-05-19
+2126,30953,1028,Changed mind,received,214.54,2025-11-11
+2127,30956,9361,Changed mind,refunded,203.37,2023-02-04
+2128,30980,4255,Damaged,received,343.16,2025-12-09
+2129,30990,9302,Too large,requested,1029.41,2023-09-27
+2130,30998,7383,Arrived late,refunded,148.24,2024-08-28
+2131,31020,3760,Not as described,refunded,1344.80,2024-12-23
+2132,31021,2387,Wrong item,approved,143.50,2024-05-21
+2133,31075,4496,Wrong item,requested,1807.64,2024-03-17
+2134,31080,2542,Too small,received,748.38,2024-11-13
+2135,31095,2225,Too small,approved,420.96,2024-01-20
+2136,31096,3492,Damaged,refunded,153.84,2024-04-21
+2137,31118,3534,Arrived late,refunded,344.66,2023-07-05
+2138,31124,2573,Arrived late,received,412.78,2023-08-11
+2139,31130,342,Damaged,approved,61.52,2024-06-24
+2140,31139,2482,Changed mind,received,410.35,2025-02-11
+2141,31144,122,Too small,refunded,448.87,2025-04-26
+2142,31149,3424,Wrong item,received,1356.07,2024-03-31
+2143,31158,2266,Arrived late,refunded,706.76,2024-08-04
+2144,31163,5185,Too small,refunded,1182.13,2026-03-02
+2145,31185,2419,Changed mind,refunded,85.72,2025-03-16
+2146,31201,4778,Arrived late,refunded,478.54,2024-11-13
+2147,31219,5280,Wrong item,rejected,195.53,2024-07-28
+2148,31244,1651,Damaged,refunded,217.58,2023-08-19
+2149,31263,2281,Too large,approved,582.69,2023-04-22
+2150,31267,3087,Too small,rejected,691.77,2023-02-20
+2151,31295,4782,Not as described,refunded,90.63,2024-11-01
+2152,31308,2721,Changed mind,received,174.47,2025-01-04
+2153,31316,1628,Wrong item,refunded,915.08,2025-04-07
+2154,31329,5321,Changed mind,requested,414.70,2025-11-01
+2155,31348,6563,Too large,approved,147.55,2026-01-01
+2156,31356,7559,Wrong item,refunded,304.15,2024-05-16
+2157,31365,115,Too large,refunded,199.52,2024-03-26
+2158,31376,4250,Too small,requested,1229.62,2024-08-30
+2159,31385,5354,Too small,refunded,1483.06,2023-11-03
+2160,31421,5652,Changed mind,received,615.92,2026-02-15
+2161,31453,9219,Damaged,refunded,270.48,2023-09-28
+2162,31476,1228,Changed mind,rejected,455.82,2023-08-08
+2163,31513,5598,Wrong item,refunded,1392.54,2025-02-26
+2164,31522,5311,Wrong item,approved,760.89,2024-05-12
+2165,31559,9383,Changed mind,received,371.01,2025-05-23
+2166,31575,7353,Changed mind,refunded,30.42,2025-10-01
+2167,31593,5776,Arrived late,refunded,275.15,2025-03-15
+2168,31596,3175,Too small,received,350.28,2025-06-20
+2169,31600,7302,Too small,refunded,553.56,2024-06-25
+2170,31608,6135,Too large,received,407.25,2023-08-05
+2171,31611,9820,Damaged,refunded,872.43,2024-02-19
+2172,31615,2273,Not as described,refunded,829.95,2024-05-05
+2173,31622,824,Not as described,requested,165.61,2023-07-08
+2174,31624,3164,Arrived late,refunded,199.07,2025-06-06
+2175,31638,1898,Too large,refunded,39.00,2023-05-29
+2176,31645,4964,Wrong item,approved,1304.35,2024-01-05
+2177,31650,7561,Too large,rejected,91.80,2023-11-15
+2178,31683,8858,Arrived late,received,159.71,2024-02-03
+2179,31690,81,Changed mind,refunded,40.50,2024-02-23
+2180,31726,4387,Too small,refunded,932.02,2025-07-21
+2181,31746,4624,Changed mind,received,787.92,2023-09-22
+2182,31748,3312,Not as described,rejected,563.97,2024-01-11
+2183,31753,8852,Too small,rejected,87.25,2025-10-02
+2184,31756,4154,Too large,requested,134.78,2023-12-27
+2185,31767,7832,Not as described,refunded,153.57,2023-12-01
+2186,31792,3701,Not as described,refunded,298.99,2024-09-15
+2187,31804,8692,Not as described,received,383.03,2024-01-12
+2188,31835,1903,Too small,refunded,403.96,2025-06-16
+2189,31854,1123,Too large,refunded,179.87,2026-01-25
+2190,31870,4682,Damaged,approved,87.58,2024-05-01
+2191,31874,8419,Too large,rejected,253.50,2024-10-16
+2192,31894,8250,Damaged,requested,246.04,2023-02-27
+2193,31907,3949,Not as described,received,1495.81,2024-02-01
+2194,31910,5919,Changed mind,requested,1292.12,2025-08-14
+2195,31918,597,Too small,refunded,1562.55,2023-10-24
+2196,31956,4429,Arrived late,refunded,1014.83,2023-06-02
+2197,31968,1104,Too large,requested,325.36,2024-07-23
+2198,31976,2271,Changed mind,rejected,422.40,2025-03-01
+2199,31985,4705,Not as described,received,95.71,2023-08-12
+2200,32013,6994,Wrong item,refunded,51.45,2025-03-26
+2201,32031,1692,Changed mind,refunded,592.71,2024-04-30
+2202,32050,3523,Wrong item,received,415.51,2024-05-12
+2203,32060,9725,Too large,requested,21.16,2025-05-19
+2204,32066,5586,Wrong item,received,118.03,2023-05-16
+2205,32085,7959,Wrong item,requested,637.88,2025-11-03
+2206,32140,5809,Arrived late,refunded,38.90,2023-10-02
+2207,32148,8673,Changed mind,approved,312.68,2023-11-11
+2208,32164,1217,Changed mind,refunded,591.52,2023-12-01
+2209,32178,3709,Damaged,refunded,1022.80,2023-09-04
+2210,32194,987,Too large,refunded,600.34,2024-02-15
+2211,32197,2243,Arrived late,refunded,1558.17,2023-11-16
+2212,32208,3555,Too small,refunded,508.72,2025-04-17
+2213,32229,7605,Changed mind,received,842.16,2023-09-22
+2214,32265,6115,Damaged,received,592.27,2025-11-20
+2215,32271,2695,Arrived late,refunded,1261.04,2025-12-04
+2216,32280,9,Wrong item,refunded,360.83,2024-11-23
+2217,32303,2103,Too small,requested,300.46,2023-10-21
+2218,32322,9223,Changed mind,received,382.07,2024-04-17
+2219,32341,1684,Not as described,received,1223.14,2023-08-12
+2220,32352,593,Too small,refunded,343.77,2024-04-21
+2221,32361,2757,Changed mind,received,722.21,2023-02-17
+2222,32366,7947,Too large,refunded,189.78,2024-01-03
+2223,32380,1649,Changed mind,received,901.08,2024-05-20
+2224,32423,3004,Too small,refunded,279.30,2023-06-17
+2225,32434,4490,Not as described,received,101.26,2024-07-09
+2226,32452,4091,Not as described,refunded,609.48,2025-05-16
+2227,32470,4836,Too small,refunded,1492.74,2024-12-31
+2228,32476,8216,Too large,refunded,16.93,2024-09-25
+2229,32542,5038,Too small,approved,203.63,2024-08-12
+2230,32548,6879,Arrived late,approved,595.65,2024-03-30
+2231,32560,1303,Wrong item,approved,274.85,2023-02-28
+2232,32562,404,Damaged,refunded,728.45,2026-01-03
+2233,32577,7102,Too large,received,1390.37,2023-11-01
+2234,32589,2550,Changed mind,refunded,494.29,2023-07-23
+2235,32611,6417,Not as described,refunded,1459.76,2024-10-27
+2236,32645,3361,Arrived late,refunded,947.92,2025-12-22
+2237,32657,7632,Not as described,received,1103.03,2023-11-15
+2238,32658,7390,Arrived late,refunded,119.13,2025-09-23
+2239,32665,3070,Too large,refunded,390.59,2024-01-02
+2240,32679,5094,Too small,refunded,257.01,2024-11-15
+2241,32698,3104,Changed mind,refunded,984.69,2023-08-24
+2242,32699,3030,Arrived late,refunded,100.80,2025-07-08
+2243,32706,6880,Too small,refunded,1379.61,2024-12-30
+2244,32728,3691,Too small,refunded,112.60,2025-01-16
+2245,32737,7965,Too small,refunded,730.38,2025-05-31
+2246,32776,8906,Not as described,received,430.36,2025-09-17
+2247,32783,6106,Wrong item,refunded,1045.44,2023-12-01
+2248,32787,3416,Damaged,approved,1723.70,2023-11-29
+2249,32790,6458,Changed mind,refunded,513.96,2023-02-16
+2250,32828,5959,Too large,requested,561.10,2023-08-12
+2251,32855,814,Too large,received,156.95,2023-06-05
+2252,32870,1143,Arrived late,refunded,603.87,2024-12-05
+2253,32894,9463,Damaged,approved,250.33,2025-05-18
+2254,32903,5798,Not as described,refunded,193.42,2024-01-12
+2255,32913,3008,Not as described,received,34.12,2024-06-21
+2256,32934,8887,Not as described,approved,239.63,2023-10-01
+2257,32978,7426,Changed mind,refunded,1305.12,2025-05-06
+2258,32979,6339,Too small,approved,578.75,2025-03-01
+2259,33009,3445,Arrived late,received,1339.67,2023-03-31
+2260,33014,2964,Too large,refunded,224.41,2025-11-24
+2261,33016,7468,Too large,requested,1231.66,2023-07-07
+2262,33032,666,Too small,rejected,533.77,2025-05-26
+2263,33047,3012,Not as described,received,1760.41,2024-10-06
+2264,33060,2826,Arrived late,received,603.40,2024-06-16
+2265,33084,8821,Damaged,refunded,122.28,2024-10-17
+2266,33089,8805,Too large,rejected,143.14,2024-03-08
+2267,33145,6917,Too large,refunded,388.20,2024-04-18
+2268,33150,2921,Arrived late,requested,391.85,2025-12-12
+2269,33153,8287,Arrived late,received,185.59,2024-10-22
+2270,33155,7661,Arrived late,requested,171.27,2024-02-29
+2271,33161,4219,Too large,refunded,364.73,2024-09-19
+2272,33173,7429,Damaged,refunded,279.37,2023-04-23
+2273,33223,2474,Not as described,refunded,731.19,2025-04-04
+2274,33273,5602,Changed mind,approved,102.07,2023-09-30
+2275,33278,4991,Too large,approved,255.41,2024-12-06
+2276,33287,8228,Not as described,refunded,310.87,2024-03-04
+2277,33294,6471,Too large,received,781.02,2025-08-17
+2278,33304,1107,Too large,refunded,305.37,2023-06-07
+2279,33325,8621,Changed mind,requested,227.19,2025-06-08
+2280,33334,9713,Too large,refunded,307.84,2024-03-12
+2281,33344,569,Arrived late,refunded,99.39,2025-07-12
+2282,33353,4325,Changed mind,approved,160.80,2026-02-13
+2283,33386,3992,Damaged,refunded,1124.55,2023-06-19
+2284,33409,5878,Arrived late,requested,156.12,2026-02-10
+2285,33433,4796,Wrong item,refunded,76.33,2024-10-24
+2286,33441,6563,Wrong item,refunded,45.82,2023-11-01
+2287,33456,7633,Too small,approved,1780.00,2025-05-21
+2288,33465,9968,Too large,approved,917.25,2025-10-01
+2289,33469,7699,Too small,refunded,2039.38,2024-11-17
+2290,33481,8644,Too large,approved,911.35,2025-09-10
+2291,33516,2259,Damaged,refunded,455.55,2025-11-06
+2292,33524,7995,Wrong item,rejected,564.31,2023-04-07
+2293,33526,7151,Too large,received,246.26,2023-06-14
+2294,33528,835,Wrong item,approved,234.78,2024-12-29
+2295,33530,6054,Too small,approved,53.81,2024-09-01
+2296,33544,7001,Changed mind,refunded,126.21,2024-04-05
+2297,33555,1632,Arrived late,approved,503.00,2023-05-14
+2298,33556,5127,Not as described,refunded,106.01,2025-02-04
+2299,33581,9004,Too small,requested,235.21,2023-11-08
+2300,33600,7385,Arrived late,received,384.21,2025-08-01
+2301,33621,3077,Not as described,rejected,171.20,2025-11-06
+2302,33644,8156,Too large,rejected,127.81,2023-05-10
+2303,33659,968,Damaged,requested,435.66,2024-03-13
+2304,33676,4357,Damaged,refunded,660.35,2025-12-06
+2305,33684,7455,Wrong item,approved,717.65,2024-08-30
+2306,33696,2128,Too large,refunded,325.65,2025-10-22
+2307,33720,9499,Damaged,approved,433.66,2023-02-27
+2308,33733,1123,Damaged,received,256.53,2024-02-17
+2309,33764,1737,Too large,refunded,575.21,2026-01-26
+2310,33781,8593,Wrong item,refunded,718.74,2025-09-07
+2311,33806,5462,Not as described,refunded,128.69,2023-09-24
+2312,33807,7279,Arrived late,refunded,286.10,2024-04-19
+2313,33808,547,Wrong item,refunded,90.63,2024-09-12
+2314,33811,6884,Damaged,approved,13.73,2023-10-17
+2315,33822,2366,Too large,approved,270.78,2024-01-05
+2316,33847,3286,Not as described,refunded,95.99,2025-07-07
+2317,33848,3845,Wrong item,approved,210.00,2024-02-10
+2318,33852,2602,Damaged,refunded,279.99,2025-06-03
+2319,33858,5781,Too large,received,341.97,2024-10-09
+2320,33867,4492,Too small,received,206.92,2024-08-02
+2321,33880,2347,Arrived late,rejected,34.58,2023-05-28
+2322,33905,8268,Damaged,requested,354.26,2025-11-11
+2323,33909,146,Wrong item,refunded,32.97,2024-03-27
+2324,33916,2475,Wrong item,rejected,3016.26,2025-12-21
+2325,33925,724,Not as described,requested,414.09,2024-04-10
+2326,33969,3968,Arrived late,received,1073.79,2026-01-04
+2327,33974,3523,Not as described,approved,609.13,2023-09-14
+2328,33975,6582,Not as described,refunded,773.45,2025-03-19
+2329,33998,7186,Not as described,refunded,427.83,2023-06-14
+2330,34003,6389,Changed mind,approved,502.87,2025-04-08
+2331,34009,3547,Damaged,approved,267.24,2024-03-15
+2332,34023,2354,Wrong item,requested,818.51,2024-05-22
+2333,34024,8278,Too large,received,445.15,2024-09-27
+2334,34054,2282,Too large,approved,566.67,2025-04-26
+2335,34068,7606,Wrong item,received,183.96,2023-05-13
+2336,34070,6429,Damaged,refunded,67.90,2025-12-14
+2337,34079,5298,Too small,requested,1255.10,2024-06-06
+2338,34088,4692,Not as described,rejected,138.52,2024-01-01
+2339,34114,2613,Too small,approved,62.62,2025-03-16
+2340,34117,213,Wrong item,received,700.33,2025-04-15
+2341,34134,732,Arrived late,refunded,743.33,2025-09-16
+2342,34152,2328,Damaged,refunded,320.19,2025-01-22
+2343,34158,9049,Too large,approved,140.77,2023-01-24
+2344,34179,4458,Wrong item,refunded,71.66,2024-11-21
+2345,34184,1347,Not as described,received,967.70,2025-07-05
+2346,34189,5324,Changed mind,refunded,1768.14,2025-06-23
+2347,34204,5937,Damaged,refunded,853.11,2026-01-16
+2348,34210,5666,Changed mind,approved,234.36,2023-10-03
+2349,34230,3713,Arrived late,refunded,104.67,2024-10-11
+2350,34235,1373,Arrived late,approved,211.58,2023-11-07
+2351,34238,6734,Too small,approved,62.90,2025-01-31
+2352,34243,9550,Arrived late,approved,187.64,2024-10-03
+2353,34261,8390,Too large,refunded,24.49,2023-08-27
+2354,34277,5534,Changed mind,received,850.62,2025-11-22
+2355,34294,9532,Too small,refunded,472.82,2023-06-27
+2356,34311,6514,Not as described,refunded,153.31,2024-08-14
+2357,34346,2410,Arrived late,refunded,701.18,2025-06-11
+2358,34370,9055,Changed mind,approved,73.42,2025-08-25
+2359,34387,6224,Too large,refunded,8.25,2024-07-27
+2360,34409,3197,Wrong item,received,2553.22,2024-12-31
+2361,34418,7805,Changed mind,received,59.86,2024-06-27
+2362,34428,7574,Arrived late,requested,348.14,2025-07-11
+2363,34448,4701,Not as described,requested,427.20,2025-07-08
+2364,34451,9160,Too large,received,385.49,2024-10-25
+2365,34496,7427,Not as described,refunded,62.70,2023-03-30
+2366,34500,4167,Too large,refunded,330.61,2024-12-09
+2367,34506,6250,Arrived late,approved,292.30,2023-10-18
+2368,34509,8113,Not as described,received,1028.43,2026-02-04
+2369,34523,9982,Arrived late,rejected,347.63,2025-12-29
+2370,34537,3048,Not as described,received,185.34,2025-02-27
+2371,34539,9603,Too large,refunded,1023.55,2026-02-09
+2372,34565,27,Not as described,received,735.07,2024-02-20
+2373,34574,3482,Too large,refunded,153.95,2025-11-27
+2374,34582,7164,Changed mind,refunded,225.52,2025-01-25
+2375,34640,6872,Arrived late,requested,405.14,2024-10-20
+2376,34644,6027,Damaged,refunded,283.90,2025-11-05
+2377,34662,3497,Changed mind,received,1563.18,2024-01-25
+2378,34664,1182,Damaged,rejected,218.50,2025-10-06
+2379,34686,6280,Not as described,received,223.48,2024-12-11
+2380,34692,1654,Too large,approved,220.70,2023-12-22
+2381,34706,4377,Changed mind,received,70.17,2024-09-08
+2382,34710,3344,Too small,received,27.25,2024-01-15
+2383,34768,4207,Not as described,refunded,1367.34,2023-12-30
+2384,34771,2872,Too small,received,155.95,2025-11-01
+2385,34779,9354,Too small,refunded,142.74,2024-09-26
+2386,34798,9535,Not as described,refunded,3898.91,2024-11-01
+2387,34840,7622,Not as described,requested,47.05,2025-11-21
+2388,34899,5703,Too large,approved,83.31,2024-05-27
+2389,34908,584,Changed mind,refunded,220.52,2023-12-13
+2390,34920,9226,Changed mind,requested,56.01,2024-01-20
+2391,34936,5094,Too small,approved,94.52,2023-09-21
+2392,34941,5264,Changed mind,refunded,208.30,2025-12-02
+2393,34975,9686,Not as described,refunded,653.52,2024-11-16
+2394,34982,162,Too large,refunded,275.46,2025-12-30
+2395,34999,9562,Changed mind,approved,508.01,2024-12-16
+2396,35085,5705,Arrived late,approved,1017.60,2024-09-22
+2397,35099,8015,Too small,refunded,304.84,2024-09-02
+2398,35105,2887,Too large,refunded,223.95,2025-08-31
+2399,35115,9873,Arrived late,refunded,204.94,2025-11-03
+2400,35144,383,Not as described,received,385.35,2025-11-21
+2401,35174,9144,Not as described,received,50.49,2025-01-21
+2402,35186,9361,Arrived late,approved,109.78,2024-10-18
+2403,35202,3775,Too small,requested,215.38,2025-09-22
+2404,35217,7938,Damaged,received,1560.80,2023-01-24
+2405,35218,6060,Too small,refunded,499.87,2025-08-27
+2406,35219,577,Changed mind,refunded,186.79,2025-11-16
+2407,35224,5198,Not as described,received,191.11,2024-05-07
+2408,35244,9395,Wrong item,refunded,73.15,2024-08-11
+2409,35259,5256,Changed mind,approved,397.78,2024-02-07
+2410,35270,1572,Wrong item,refunded,203.20,2023-05-01
+2411,35336,4724,Arrived late,received,177.83,2024-12-20
+2412,35353,2175,Too small,approved,1333.31,2025-10-11
+2413,35378,5639,Too large,received,1094.48,2024-03-04
+2414,35400,1422,Not as described,rejected,567.35,2025-02-02
+2415,35408,3160,Arrived late,refunded,533.20,2025-01-09
+2416,35425,7214,Too large,refunded,280.45,2023-04-28
+2417,35457,729,Too small,requested,151.99,2024-02-28
+2418,35490,8354,Wrong item,received,1033.11,2025-08-17
+2419,35495,1335,Damaged,refunded,480.92,2025-05-20
+2420,35531,3033,Not as described,requested,1224.27,2025-04-20
+2421,35532,570,Arrived late,received,395.72,2023-04-05
+2422,35540,9269,Wrong item,approved,1325.56,2024-05-12
+2423,35578,9565,Not as described,approved,1418.83,2023-09-28
+2424,35589,5248,Damaged,received,741.74,2025-07-23
+2425,35599,6954,Too large,requested,498.57,2025-03-22
+2426,35605,4517,Not as described,received,985.83,2023-05-24
+2427,35610,4471,Wrong item,refunded,409.90,2025-04-25
+2428,35621,3929,Not as described,refunded,1683.15,2023-04-24
+2429,35641,6152,Changed mind,rejected,1755.55,2024-01-13
+2430,35643,8044,Wrong item,rejected,431.52,2024-10-11
+2431,35644,3798,Not as described,refunded,329.86,2024-01-11
+2432,35650,5889,Too small,requested,438.30,2025-04-25
+2433,35673,8150,Arrived late,approved,588.41,2025-08-03
+2434,35679,436,Damaged,requested,2038.67,2025-02-20
+2435,35698,1606,Arrived late,refunded,3549.67,2025-08-02
+2436,35702,6774,Not as described,refunded,63.83,2023-05-14
+2437,35731,9,Not as described,refunded,666.71,2024-05-11
+2438,35753,6596,Too large,refunded,407.78,2024-06-04
+2439,35780,1435,Damaged,rejected,511.87,2024-12-17
+2440,35794,7992,Too large,approved,604.47,2024-02-20
+2441,35802,3501,Too small,received,604.45,2025-07-21
+2442,35820,2064,Damaged,approved,37.24,2024-05-09
+2443,35827,3207,Too large,received,373.49,2024-02-20
+2444,35862,3025,Too small,received,974.18,2023-05-08
+2445,35870,5298,Wrong item,refunded,148.14,2023-11-27
+2446,35908,8541,Wrong item,refunded,219.30,2024-09-19
+2447,35918,6405,Wrong item,refunded,483.50,2024-09-17
+2448,35939,3887,Not as described,requested,60.75,2024-08-24
+2449,35975,3356,Too large,refunded,51.20,2023-06-26
+2450,35977,3026,Damaged,received,585.54,2024-07-26
+2451,35982,4910,Too large,refunded,211.96,2025-12-01
+2452,35983,4967,Changed mind,approved,463.56,2025-01-20
+2453,35994,9801,Too large,refunded,748.16,2023-12-15
+2454,36043,5223,Wrong item,approved,305.10,2024-05-26
+2455,36065,1068,Too large,requested,1033.83,2025-07-15
+2456,36072,4717,Too large,received,249.59,2023-07-05
+2457,36105,3004,Arrived late,approved,662.40,2025-04-06
+2458,36112,4780,Changed mind,refunded,198.35,2024-06-09
+2459,36121,1110,Wrong item,approved,308.27,2024-08-06
+2460,36130,1244,Too large,refunded,207.32,2023-06-13
+2461,36143,5883,Too large,rejected,394.38,2023-04-30
+2462,36146,7758,Wrong item,refunded,1948.03,2024-10-15
+2463,36151,6711,Wrong item,refunded,1426.91,2024-08-29
+2464,36166,3628,Wrong item,refunded,1638.42,2025-08-18
+2465,36167,511,Too large,received,208.36,2023-10-29
+2466,36190,5625,Wrong item,refunded,1549.26,2023-11-23
+2467,36191,8880,Too large,received,470.38,2024-08-10
+2468,36193,206,Damaged,refunded,127.66,2026-02-07
+2469,36214,1279,Too small,received,1359.32,2023-12-12
+2470,36231,7153,Changed mind,refunded,444.40,2023-10-26
+2471,36236,8766,Damaged,refunded,138.19,2023-11-07
+2472,36243,2982,Too large,requested,1471.86,2025-10-17
+2473,36245,7584,Not as described,rejected,1585.53,2025-04-01
+2474,36262,4398,Wrong item,requested,50.24,2025-12-17
+2475,36278,5441,Not as described,refunded,2030.35,2025-10-13
+2476,36291,9408,Wrong item,approved,692.44,2023-09-02
+2477,36304,5277,Changed mind,refunded,108.56,2023-07-10
+2478,36343,7378,Not as described,refunded,1452.89,2024-03-18
+2479,36348,8304,Changed mind,received,2304.93,2023-06-07
+2480,36350,4598,Damaged,received,523.84,2024-12-24
+2481,36359,3785,Too large,received,2149.80,2024-12-20
+2482,36394,1833,Changed mind,received,759.58,2023-04-26
+2483,36428,7847,Not as described,approved,250.52,2026-01-30
+2484,36455,7995,Arrived late,refunded,221.10,2025-06-21
+2485,36464,4168,Too small,approved,259.60,2024-02-20
+2486,36482,3798,Arrived late,received,275.11,2025-06-19
+2487,36486,717,Wrong item,received,839.74,2024-01-10
+2488,36487,1078,Too large,approved,1691.19,2023-12-18
+2489,36488,4423,Wrong item,requested,993.03,2025-05-27
+2490,36500,6077,Changed mind,refunded,43.94,2024-05-13
+2491,36534,5238,Changed mind,refunded,642.67,2024-02-16
+2492,36540,9105,Wrong item,refunded,473.94,2023-05-25
+2493,36648,6229,Wrong item,refunded,430.62,2025-06-22
+2494,36652,2667,Wrong item,approved,110.01,2024-11-23
+2495,36656,9052,Too large,received,1275.80,2025-09-09
+2496,36664,9887,Changed mind,approved,500.11,2023-03-15
+2497,36669,3865,Too small,refunded,279.25,2023-09-06
+2498,36687,4320,Too large,refunded,759.57,2023-11-26
+2499,36700,2315,Not as described,approved,47.15,2025-08-14
+2500,36726,3008,Arrived late,rejected,151.34,2025-12-22
+2501,36755,2498,Damaged,approved,143.07,2025-09-20
+2502,36759,3033,Too small,received,669.72,2023-08-20
+2503,36768,1982,Arrived late,rejected,866.16,2024-02-27
+2504,36771,4606,Arrived late,refunded,1640.89,2023-07-31
+2505,36824,3712,Arrived late,approved,79.38,2024-06-30
+2506,36843,4569,Too small,refunded,851.91,2023-08-02
+2507,36844,67,Changed mind,received,344.84,2025-06-26
+2508,36861,587,Not as described,refunded,1428.56,2023-06-26
+2509,36870,2786,Wrong item,requested,74.88,2024-03-05
+2510,36882,9485,Not as described,refunded,84.13,2025-01-09
+2511,36895,7774,Wrong item,refunded,1455.71,2025-01-04
+2512,36906,510,Not as described,requested,235.70,2024-02-19
+2513,36914,2154,Too small,refunded,85.56,2023-04-20
+2514,36997,9917,Too small,refunded,155.61,2024-03-21
+2515,37011,2834,Not as described,received,66.92,2024-02-10
+2516,37025,2863,Not as described,refunded,699.45,2024-04-23
+2517,37031,9311,Wrong item,requested,353.82,2025-08-24
+2518,37034,7643,Arrived late,refunded,81.08,2025-04-28
+2519,37051,5932,Wrong item,refunded,341.97,2025-05-13
+2520,37059,7185,Wrong item,requested,111.96,2023-08-16
+2521,37064,1035,Too small,refunded,713.32,2024-07-13
+2522,37065,8087,Not as described,refunded,192.99,2024-01-25
+2523,37068,1075,Not as described,refunded,105.83,2025-10-31
+2524,37084,370,Not as described,refunded,123.87,2024-06-21
+2525,37101,5626,Arrived late,rejected,72.72,2024-04-29
+2526,37111,7983,Arrived late,refunded,290.00,2024-07-06
+2527,37114,8996,Too small,refunded,950.29,2025-11-07
+2528,37119,7659,Changed mind,refunded,2487.89,2023-02-11
+2529,37120,5230,Changed mind,refunded,673.63,2023-03-10
+2530,37129,947,Changed mind,refunded,2065.25,2025-11-13
+2531,37154,1937,Wrong item,received,255.72,2025-07-20
+2532,37166,3857,Wrong item,approved,400.11,2024-12-09
+2533,37171,8161,Too large,approved,1922.66,2023-10-11
+2534,37172,2930,Arrived late,received,1092.23,2023-04-19
+2535,37174,3277,Arrived late,approved,1726.95,2025-10-26
+2536,37187,8860,Too small,rejected,118.54,2025-05-31
+2537,37192,585,Changed mind,refunded,1614.18,2023-04-02
+2538,37198,4149,Wrong item,approved,1581.87,2025-11-25
+2539,37229,4657,Wrong item,rejected,48.46,2025-06-11
+2540,37246,3945,Wrong item,approved,94.58,2023-12-11
+2541,37251,2074,Wrong item,approved,68.07,2024-11-17
+2542,37258,8640,Too large,approved,248.54,2025-11-25
+2543,37267,8702,Changed mind,approved,2133.27,2026-01-28
+2544,37269,5875,Wrong item,refunded,31.86,2023-08-12
+2545,37277,3294,Wrong item,received,91.75,2023-09-01
+2546,37283,4945,Damaged,refunded,229.60,2025-04-19
+2547,37292,2041,Wrong item,refunded,135.85,2024-12-07
+2548,37302,7869,Changed mind,refunded,365.05,2025-09-15
+2549,37309,5425,Changed mind,refunded,639.41,2025-06-15
+2550,37315,6704,Too small,refunded,1048.70,2024-09-18
+2551,37328,1190,Changed mind,approved,653.88,2024-07-04
+2552,37348,7659,Damaged,received,41.29,2025-04-14
+2553,37355,5577,Damaged,requested,711.94,2023-04-22
+2554,37358,6437,Wrong item,refunded,515.25,2024-11-26
+2555,37368,217,Changed mind,rejected,601.43,2024-01-24
+2556,37369,9914,Wrong item,refunded,164.72,2023-12-26
+2557,37389,8791,Too small,refunded,161.96,2024-06-21
+2558,37405,3595,Arrived late,rejected,271.62,2023-11-27
+2559,37406,1638,Changed mind,approved,366.56,2024-04-02
+2560,37429,792,Too small,rejected,76.06,2025-04-11
+2561,37456,6516,Changed mind,refunded,469.73,2024-07-16
+2562,37478,2278,Arrived late,requested,121.72,2023-03-30
+2563,37483,4076,Not as described,refunded,677.62,2023-12-24
+2564,37520,8681,Wrong item,received,861.28,2025-03-15
+2565,37523,8538,Arrived late,approved,210.34,2023-11-19
+2566,37550,7027,Arrived late,received,1321.94,2024-09-18
+2567,37577,1847,Arrived late,refunded,1141.96,2025-01-09
+2568,37586,8928,Too large,approved,67.97,2025-05-21
+2569,37588,1124,Changed mind,approved,989.21,2023-11-02
+2570,37592,9083,Too large,refunded,83.95,2024-06-23
+2571,37602,3591,Too small,refunded,766.29,2025-03-08
+2572,37609,8989,Too small,refunded,58.42,2024-03-07
+2573,37620,6967,Damaged,received,1466.75,2024-09-15
+2574,37628,1452,Arrived late,received,241.68,2023-11-03
+2575,37635,7164,Changed mind,requested,455.65,2025-10-21
+2576,37644,3543,Changed mind,refunded,279.04,2023-10-07
+2577,37699,7003,Not as described,requested,2594.57,2024-12-07
+2578,37701,6721,Changed mind,approved,218.35,2023-10-18
+2579,37721,9816,Wrong item,refunded,172.55,2025-11-03
+2580,37736,7145,Not as described,rejected,246.54,2025-12-15
+2581,37766,4415,Arrived late,approved,593.51,2023-09-21
+2582,37780,8970,Damaged,received,324.90,2025-10-05
+2583,37805,7436,Changed mind,received,180.09,2023-10-27
+2584,37812,9890,Too large,refunded,73.51,2024-06-25
+2585,37836,7580,Damaged,approved,447.38,2024-05-14
+2586,37846,4725,Changed mind,approved,1486.68,2025-05-19
+2587,37896,9595,Too large,refunded,455.85,2024-10-11
+2588,37921,1124,Wrong item,requested,357.33,2023-11-30
+2589,37922,7009,Not as described,refunded,416.61,2025-07-24
+2590,37936,6221,Too small,rejected,384.33,2024-12-18
+2591,37971,5427,Too small,refunded,938.90,2023-03-13
+2592,38022,518,Changed mind,refunded,1700.53,2024-11-08
+2593,38052,3846,Changed mind,refunded,22.42,2024-03-15
+2594,38055,4297,Wrong item,received,2127.76,2024-05-24
+2595,38066,1281,Changed mind,refunded,37.27,2023-07-16
+2596,38090,1727,Wrong item,refunded,715.48,2023-07-28
+2597,38124,5346,Damaged,approved,1180.53,2023-10-05
+2598,38149,6864,Damaged,approved,118.40,2025-03-13
+2599,38162,5384,Wrong item,rejected,3639.98,2023-07-20
+2600,38185,5957,Not as described,refunded,151.80,2023-10-23
+2601,38204,2749,Not as described,received,5.33,2024-09-24
+2602,38237,5961,Too small,received,223.21,2025-06-21
+2603,38250,739,Wrong item,refunded,142.13,2025-05-07
+2604,38316,1372,Wrong item,approved,370.88,2023-03-20
+2605,38327,4161,Too small,requested,98.19,2025-02-08
+2606,38333,7423,Changed mind,refunded,253.96,2025-05-19
+2607,38336,1633,Too small,requested,105.01,2025-11-23
+2608,38357,6974,Too small,rejected,467.57,2025-01-08
+2609,38369,1118,Changed mind,requested,227.22,2024-12-17
+2610,38384,8596,Damaged,rejected,1154.84,2024-06-14
+2611,38385,9029,Wrong item,refunded,871.14,2025-07-15
+2612,38386,9039,Not as described,refunded,197.03,2025-03-06
+2613,38402,1753,Changed mind,refunded,69.46,2023-11-15
+2614,38449,5803,Wrong item,refunded,72.10,2024-05-21
+2615,38452,504,Damaged,refunded,245.04,2024-03-06
+2616,38468,4493,Damaged,approved,82.88,2025-11-06
+2617,38490,4792,Not as described,received,10.70,2024-11-06
+2618,38507,5415,Arrived late,refunded,744.27,2026-02-13
+2619,38514,7506,Damaged,approved,223.17,2024-04-22
+2620,38519,6787,Too large,refunded,53.63,2024-01-15
+2621,38526,4517,Wrong item,refunded,1493.87,2024-10-14
+2622,38545,3186,Too large,refunded,330.29,2024-12-13
+2623,38561,7909,Changed mind,refunded,239.86,2024-03-05
+2624,38576,7318,Damaged,received,8.19,2023-11-11
+2625,38577,8053,Arrived late,approved,954.73,2024-02-16
+2626,38607,526,Arrived late,approved,405.29,2025-11-29
+2627,38609,1425,Changed mind,refunded,2029.52,2023-07-02
+2628,38636,5530,Too small,received,87.26,2024-03-21
+2629,38637,5110,Damaged,refunded,203.26,2023-09-14
+2630,38642,2651,Arrived late,refunded,97.80,2023-04-01
+2631,38658,5797,Too large,approved,495.62,2023-12-07
+2632,38660,1770,Changed mind,refunded,4147.26,2023-06-26
+2633,38668,108,Not as described,received,247.49,2024-10-10
+2634,38671,7901,Not as described,rejected,276.72,2023-04-23
+2635,38680,2592,Not as described,received,484.32,2025-01-05
+2636,38690,9261,Too small,approved,2054.29,2024-02-12
+2637,38693,9232,Not as described,received,265.20,2024-09-07
+2638,38709,1724,Too small,approved,1153.69,2023-05-14
+2639,38729,7999,Damaged,refunded,194.19,2024-03-23
+2640,38783,1049,Too small,rejected,562.09,2024-03-22
+2641,38825,2298,Wrong item,approved,295.35,2025-10-12
+2642,38853,8277,Too small,refunded,197.04,2025-10-31
+2643,38862,5101,Arrived late,rejected,559.84,2024-09-15
+2644,38871,5141,Arrived late,refunded,508.75,2023-10-18
+2645,38886,5976,Wrong item,received,490.05,2024-11-01
+2646,38930,7926,Wrong item,refunded,64.62,2025-11-27
+2647,38932,3546,Not as described,received,168.04,2024-06-08
+2648,38948,1808,Changed mind,refunded,238.51,2023-09-04
+2649,38951,651,Not as described,requested,367.60,2025-06-03
+2650,38952,78,Changed mind,approved,361.43,2024-07-04
+2651,38967,200,Not as described,requested,295.57,2023-05-04
+2652,38988,4627,Not as described,approved,161.71,2023-10-20
+2653,39004,3074,Changed mind,refunded,987.52,2025-03-25
+2654,39019,4078,Wrong item,rejected,193.23,2023-09-29
+2655,39024,6541,Wrong item,refunded,135.21,2024-06-28
+2656,39032,2154,Too small,refunded,754.06,2025-11-26
+2657,39034,4695,Too large,refunded,554.26,2025-02-20
+2658,39044,8880,Too small,refunded,294.20,2024-05-20
+2659,39045,8659,Arrived late,approved,119.86,2024-11-05
+2660,39046,7589,Damaged,approved,117.04,2023-06-16
+2661,39053,8523,Not as described,requested,573.76,2025-07-23
+2662,39059,8728,Wrong item,received,258.07,2023-06-22
+2663,39077,9157,Wrong item,refunded,54.55,2025-01-24
+2664,39099,3461,Too large,requested,586.88,2024-11-13
+2665,39109,6821,Wrong item,refunded,328.04,2025-07-14
+2666,39144,5630,Too small,refunded,394.31,2025-10-04
+2667,39150,7121,Damaged,refunded,156.12,2025-11-03
+2668,39186,2398,Damaged,refunded,117.93,2024-08-26
+2669,39194,5496,Not as described,refunded,762.55,2023-06-11
+2670,39202,192,Wrong item,requested,403.90,2023-10-06
+2671,39210,8217,Too large,received,257.41,2024-05-25
+2672,39229,8632,Too large,approved,1347.98,2025-03-22
+2673,39230,6104,Too large,received,327.86,2025-02-26
+2674,39235,9226,Arrived late,refunded,1098.16,2023-10-20
+2675,39247,6416,Arrived late,refunded,406.38,2024-10-20
+2676,39254,6132,Too small,received,78.90,2024-06-11
+2677,39277,186,Not as described,received,129.24,2024-09-06
+2678,39290,6651,Too small,approved,687.89,2024-06-17
+2679,39291,565,Changed mind,received,845.46,2023-10-17
+2680,39293,8524,Too large,received,641.85,2024-01-04
+2681,39298,9570,Changed mind,refunded,1232.77,2024-05-13
+2682,39309,3408,Too large,approved,296.96,2023-04-29
+2683,39312,2788,Changed mind,approved,159.26,2023-06-24
+2684,39326,8857,Changed mind,approved,2177.46,2025-04-13
+2685,39354,7970,Wrong item,received,1346.05,2025-08-15
+2686,39376,2468,Too large,received,1475.41,2025-11-19
+2687,39383,5831,Too small,approved,572.27,2024-12-04
+2688,39385,3161,Wrong item,refunded,2013.65,2023-04-27
+2689,39402,4302,Not as described,refunded,732.65,2023-10-15
+2690,39413,465,Not as described,rejected,2519.87,2024-07-03
+2691,39415,216,Damaged,refunded,48.77,2023-02-10
+2692,39430,5519,Too large,requested,282.94,2023-12-03
+2693,39449,9796,Arrived late,received,407.51,2025-08-14
+2694,39456,729,Not as described,refunded,736.38,2025-05-02
+2695,39463,5819,Changed mind,refunded,29.04,2024-11-08
+2696,39467,3930,Too large,approved,11.66,2024-05-06
+2697,39473,4374,Too small,refunded,286.86,2024-05-09
+2698,39480,2930,Changed mind,approved,131.96,2024-06-14
+2699,39503,9611,Damaged,refunded,81.01,2023-03-19
+2700,39545,811,Changed mind,refunded,48.92,2024-06-03
+2701,39553,2727,Wrong item,approved,36.34,2024-03-21
+2702,39581,6429,Not as described,received,445.05,2023-03-19
+2703,39594,5601,Arrived late,refunded,242.69,2025-06-10
+2704,39598,3853,Changed mind,refunded,771.40,2024-06-25
+2705,39606,6955,Too large,approved,238.49,2024-10-17
+2706,39619,986,Not as described,refunded,1094.29,2025-07-14
+2707,39648,2584,Wrong item,refunded,1463.09,2023-08-27
+2708,39653,2279,Changed mind,received,273.34,2024-01-01
+2709,39662,6421,Wrong item,approved,68.42,2024-08-31
+2710,39671,4860,Too large,approved,394.18,2025-09-03
+2711,39678,3890,Damaged,refunded,54.02,2024-06-05
+2712,39715,3984,Wrong item,received,58.87,2025-02-18
+2713,39716,5583,Not as described,refunded,337.21,2023-05-13
+2714,39728,3120,Damaged,refunded,811.62,2024-08-18
+2715,39734,5237,Damaged,requested,643.29,2024-10-21
+2716,39740,2175,Arrived late,approved,147.93,2025-08-31
+2717,39760,2418,Changed mind,requested,1801.55,2025-11-25
+2718,39772,8436,Too small,refunded,201.55,2024-11-20
+2719,39774,9155,Too large,refunded,677.13,2024-10-27
+2720,39780,4754,Wrong item,requested,156.45,2023-09-09
+2721,39788,7925,Damaged,approved,100.46,2025-07-20
+2722,39809,4568,Arrived late,refunded,883.25,2024-10-18
+2723,39837,8385,Not as described,requested,1529.09,2025-05-31
+2724,39839,4868,Arrived late,rejected,1005.94,2024-03-29
+2725,39855,8799,Arrived late,refunded,230.61,2025-12-22
+2726,39862,1312,Damaged,requested,1109.03,2026-01-06
+2727,39869,7329,Too large,approved,218.78,2025-10-22
+2728,39876,7283,Too large,received,203.28,2024-11-14
+2729,39879,2725,Arrived late,received,323.37,2024-11-26
+2730,39905,2484,Not as described,approved,193.64,2023-04-26
+2731,39937,1577,Too small,rejected,96.46,2025-12-27
+2732,39952,4940,Not as described,refunded,333.68,2024-09-19
+2733,39968,9686,Changed mind,refunded,31.01,2026-02-03
+2734,39972,6574,Wrong item,refunded,23.25,2025-02-05
+2735,39995,7584,Too small,refunded,220.73,2024-11-27
+2736,40035,7686,Arrived late,refunded,1040.17,2023-05-28
+2737,40057,4487,Too large,refunded,108.55,2023-12-01
+2738,40075,9749,Damaged,refunded,85.62,2023-05-24
+2739,40085,8630,Wrong item,received,85.24,2024-07-18
+2740,40091,6070,Wrong item,requested,34.99,2025-06-30
+2741,40098,9065,Damaged,refunded,298.21,2024-10-14
+2742,40100,3809,Changed mind,refunded,261.79,2023-09-05
+2743,40101,4006,Damaged,requested,2502.29,2023-03-31
+2744,40102,2399,Arrived late,refunded,1075.78,2025-03-05
+2745,40122,5886,Not as described,refunded,522.90,2025-10-23
+2746,40128,1461,Not as described,received,513.03,2023-07-16
+2747,40145,8713,Too small,refunded,7.70,2025-01-10
+2748,40152,8699,Too large,received,471.74,2025-07-13
+2749,40155,2229,Not as described,refunded,78.09,2024-07-29
+2750,40161,4116,Wrong item,approved,398.61,2025-04-17
+2751,40188,6707,Damaged,refunded,168.59,2024-07-08
+2752,40198,2446,Too large,refunded,171.93,2023-06-03
+2753,40216,7272,Changed mind,refunded,670.39,2023-07-17
+2754,40234,6494,Damaged,refunded,155.39,2024-04-02
+2755,40251,2917,Not as described,approved,731.29,2023-05-01
+2756,40263,225,Arrived late,approved,230.26,2023-12-09
+2757,40267,3206,Damaged,refunded,252.07,2024-07-16
+2758,40276,5894,Damaged,refunded,446.88,2023-04-25
+2759,40296,5513,Changed mind,approved,644.72,2024-07-02
+2760,40324,135,Damaged,received,659.28,2023-11-17
+2761,40332,4174,Too large,approved,479.14,2025-05-14
+2762,40356,5655,Too small,approved,934.44,2025-02-02
+2763,40359,1468,Not as described,received,41.49,2023-06-10
+2764,40381,1372,Too small,refunded,97.87,2023-07-07
+2765,40395,9996,Too large,requested,247.84,2024-02-12
+2766,40405,4643,Wrong item,refunded,653.98,2025-12-30
+2767,40416,9871,Not as described,refunded,632.82,2025-04-19
+2768,40447,2591,Changed mind,refunded,1459.75,2026-02-11
+2769,40454,2954,Too large,received,426.54,2025-03-28
+2770,40460,2,Damaged,received,435.79,2023-04-17
+2771,40461,7875,Too large,approved,460.37,2026-01-01
+2772,40463,5541,Wrong item,refunded,266.81,2024-05-01
+2773,40470,7212,Damaged,approved,24.77,2025-06-08
+2774,40503,1473,Damaged,refunded,157.99,2025-02-17
+2775,40507,6552,Changed mind,refunded,330.74,2025-01-13
+2776,40519,889,Wrong item,refunded,124.04,2024-08-04
+2777,40535,9713,Changed mind,refunded,1326.55,2025-04-09
+2778,40539,8590,Damaged,refunded,347.71,2025-04-21
+2779,40567,7165,Arrived late,received,155.78,2023-04-06
+2780,40580,4029,Too small,received,877.08,2025-06-13
+2781,40605,3583,Too small,requested,709.21,2023-07-13
+2782,40651,1516,Changed mind,refunded,680.72,2025-08-19
+2783,40666,6143,Arrived late,refunded,390.22,2024-03-25
+2784,40674,9793,Wrong item,received,759.40,2025-03-16
+2785,40677,8128,Wrong item,approved,846.97,2024-04-07
+2786,40737,3015,Arrived late,received,531.18,2023-07-05
+2787,40740,633,Damaged,received,1378.84,2025-07-11
+2788,40750,898,Wrong item,rejected,562.97,2023-03-13
+2789,40772,9092,Damaged,rejected,264.56,2023-07-18
+2790,40779,3466,Too large,refunded,282.63,2025-07-28
+2791,40784,717,Too small,approved,72.98,2024-08-29
+2792,40796,9382,Damaged,received,126.83,2023-07-24
+2793,40798,9803,Damaged,refunded,782.54,2025-03-26
+2794,40822,693,Not as described,approved,1970.94,2024-01-20
+2795,40831,3157,Too large,refunded,233.55,2025-08-27
+2796,40832,4272,Wrong item,refunded,196.59,2023-05-01
+2797,40852,3597,Arrived late,requested,386.67,2023-05-17
+2798,40864,3464,Changed mind,refunded,1058.60,2024-01-23
+2799,40872,849,Changed mind,approved,588.47,2023-05-14
+2800,40894,9337,Too large,approved,200.07,2024-12-21
+2801,40900,7192,Wrong item,approved,243.32,2024-04-07
+2802,40911,3322,Too large,received,137.01,2024-01-12
+2803,40932,8723,Damaged,refunded,158.26,2025-12-17
+2804,40939,9626,Not as described,refunded,15.85,2025-10-28
+2805,40959,7202,Too small,approved,414.86,2025-03-06
+2806,40964,2972,Damaged,refunded,308.52,2024-12-25
+2807,40983,565,Too large,refunded,134.16,2024-06-11
+2808,40989,3262,Changed mind,received,822.06,2025-10-29
+2809,41018,9920,Damaged,received,63.39,2025-02-02
+2810,41051,2792,Arrived late,received,898.62,2024-06-24
+2811,41064,8115,Not as described,refunded,1765.59,2023-11-23
+2812,41065,4897,Arrived late,refunded,3240.81,2024-10-15
+2813,41066,6668,Arrived late,refunded,1045.84,2023-04-03
+2814,41068,287,Damaged,received,417.56,2024-10-17
+2815,41075,7659,Too small,refunded,1050.42,2024-07-03
+2816,41094,621,Not as described,refunded,1574.87,2026-01-24
+2817,41107,5972,Too large,rejected,1050.31,2024-11-16
+2818,41115,5242,Too small,refunded,579.30,2024-12-23
+2819,41116,3228,Too large,received,775.38,2023-08-11
+2820,41142,1266,Arrived late,refunded,326.50,2025-09-23
+2821,41145,3748,Too large,refunded,493.90,2024-05-03
+2822,41159,248,Not as described,received,183.51,2026-01-10
+2823,41160,1881,Too small,refunded,29.83,2024-07-06
+2824,41161,8609,Not as described,requested,586.64,2023-07-25
+2825,41183,1032,Too small,approved,170.82,2025-07-08
+2826,41188,8627,Too small,refunded,846.26,2024-07-12
+2827,41207,3091,Changed mind,requested,1031.47,2025-11-24
+2828,41209,2352,Too small,received,1484.28,2023-08-12
+2829,41224,2495,Damaged,requested,379.00,2023-11-14
+2830,41251,9153,Changed mind,refunded,69.81,2023-04-02
+2831,41267,5156,Not as described,refunded,1359.45,2024-05-28
+2832,41268,3373,Too large,approved,277.71,2025-09-18
+2833,41271,753,Changed mind,received,145.99,2024-11-22
+2834,41281,9000,Too large,refunded,188.69,2023-03-15
+2835,41290,2392,Changed mind,refunded,1175.07,2023-09-21
+2836,41293,3716,Not as described,refunded,8.68,2024-04-21
+2837,41298,9610,Not as described,approved,2166.45,2023-06-28
+2838,41353,8586,Arrived late,refunded,305.71,2025-02-19
+2839,41359,9763,Wrong item,refunded,1360.68,2025-04-02
+2840,41393,1116,Arrived late,received,265.79,2024-09-09
+2841,41447,445,Too large,refunded,1729.26,2024-12-06
+2842,41451,4801,Not as described,requested,13.77,2023-11-17
+2843,41468,1630,Not as described,rejected,1114.11,2024-06-14
+2844,41473,9407,Changed mind,received,267.29,2024-07-09
+2845,41475,8837,Damaged,rejected,709.27,2025-08-16
+2846,41499,4410,Damaged,received,1619.62,2025-09-18
+2847,41506,7751,Arrived late,rejected,288.38,2023-05-11
+2848,41550,7848,Wrong item,refunded,157.83,2024-08-08
+2849,41595,286,Changed mind,refunded,66.36,2026-01-28
+2850,41613,6530,Wrong item,requested,970.90,2025-01-10
+2851,41638,1512,Too large,approved,1095.83,2024-11-12
+2852,41670,2273,Wrong item,received,1365.74,2026-01-08
+2853,41686,5123,Arrived late,approved,92.12,2024-03-18
+2854,41687,3270,Not as described,received,1816.94,2023-04-25
+2855,41693,2107,Wrong item,rejected,3473.82,2025-03-12
+2856,41726,1651,Too large,rejected,697.87,2025-11-26
+2857,41736,1282,Changed mind,approved,213.09,2025-10-23
+2858,41770,8951,Too large,approved,3389.09,2025-03-10
+2859,41773,5072,Too small,refunded,419.47,2023-10-28
+2860,41775,3703,Arrived late,requested,192.77,2026-01-21
+2861,41787,9422,Too small,requested,158.66,2025-01-25
+2862,41799,4653,Wrong item,received,71.32,2024-08-19
+2863,41820,5703,Wrong item,refunded,2235.63,2026-01-14
+2864,41846,884,Changed mind,approved,39.84,2025-09-14
+2865,41848,4114,Changed mind,refunded,527.11,2024-10-02
+2866,41882,9935,Too large,refunded,53.42,2025-06-19
+2867,41904,3081,Changed mind,rejected,127.59,2023-04-17
+2868,41910,354,Wrong item,refunded,2315.70,2024-03-15
+2869,41938,1946,Not as described,approved,170.14,2024-03-22
+2870,41959,7754,Not as described,approved,75.14,2024-11-08
+2871,41991,9212,Wrong item,approved,1558.98,2023-12-03
+2872,42003,1307,Too small,approved,150.65,2025-11-12
+2873,42015,443,Wrong item,approved,737.59,2025-05-26
+2874,42031,2845,Changed mind,rejected,15.55,2025-06-23
+2875,42043,4935,Too large,received,842.04,2025-09-07
+2876,42137,2468,Wrong item,approved,147.38,2024-06-25
+2877,42152,2191,Damaged,received,103.05,2024-05-10
+2878,42168,956,Wrong item,approved,1105.78,2025-07-29
+2879,42182,295,Not as described,refunded,411.02,2024-11-03
+2880,42191,189,Too small,requested,426.68,2024-02-25
+2881,42199,9380,Too small,requested,30.78,2025-05-23
+2882,42238,9823,Changed mind,received,326.77,2024-04-04
+2883,42240,5530,Not as described,refunded,461.43,2023-10-18
+2884,42258,6531,Wrong item,requested,133.37,2023-07-03
+2885,42271,1171,Changed mind,approved,1002.68,2024-08-03
+2886,42285,7910,Damaged,received,1516.67,2023-07-21
+2887,42297,8121,Arrived late,approved,558.75,2025-04-08
+2888,42328,5006,Not as described,received,716.86,2024-07-09
+2889,42341,9110,Changed mind,refunded,358.57,2025-04-07
+2890,42344,1543,Arrived late,refunded,425.47,2025-08-03
+2891,42348,8060,Arrived late,received,372.84,2025-07-07
+2892,42353,5672,Arrived late,refunded,2141.79,2025-09-13
+2893,42365,6636,Changed mind,refunded,282.17,2024-11-20
+2894,42373,8047,Changed mind,refunded,4.26,2024-03-08
+2895,42399,5770,Damaged,requested,28.72,2024-04-05
+2896,42400,7724,Too large,approved,985.21,2025-02-21
+2897,42403,427,Damaged,requested,936.56,2023-11-07
+2898,42450,1973,Not as described,rejected,113.95,2024-10-03
+2899,42454,3611,Wrong item,refunded,67.07,2025-01-27
+2900,42459,7764,Changed mind,received,30.42,2024-02-24
+2901,42461,3139,Damaged,requested,1524.44,2024-03-09
+2902,42470,3196,Not as described,rejected,2042.84,2024-10-29
+2903,42482,9036,Not as described,refunded,45.71,2023-12-26
+2904,42554,4170,Not as described,approved,750.67,2024-04-18
+2905,42559,1668,Arrived late,refunded,685.51,2025-08-26
+2906,42591,4491,Changed mind,received,44.25,2024-01-22
+2907,42593,6869,Too large,received,706.23,2024-11-24
+2908,42599,2,Wrong item,approved,367.83,2026-01-10
+2909,42675,9678,Wrong item,requested,11.71,2025-06-01
+2910,42691,2140,Not as described,received,1363.96,2025-09-01
+2911,42697,9179,Too large,refunded,225.37,2025-10-14
+2912,42737,9901,Damaged,rejected,1022.22,2024-07-20
+2913,42742,9797,Too small,refunded,12.84,2025-05-26
+2914,42751,8924,Too large,refunded,186.02,2024-10-01
+2915,42758,5666,Damaged,refunded,446.14,2023-06-09
+2916,42763,2156,Arrived late,rejected,107.90,2024-03-07
+2917,42769,1018,Damaged,received,625.42,2024-02-24
+2918,42772,6540,Changed mind,received,1211.77,2023-05-09
+2919,42783,1469,Too small,refunded,512.01,2023-02-04
+2920,42788,6892,Not as described,refunded,77.87,2023-11-04
+2921,42802,7554,Wrong item,refunded,196.88,2024-06-14
+2922,42837,4053,Arrived late,received,157.18,2024-08-08
+2923,42839,3391,Too large,refunded,297.25,2024-07-02
+2924,42845,746,Wrong item,requested,542.71,2024-04-18
+2925,42851,6044,Too large,approved,18.97,2023-09-27
+2926,42854,368,Not as described,refunded,728.74,2023-06-10
+2927,42882,4364,Changed mind,received,667.98,2026-02-20
+2928,42916,9834,Wrong item,received,252.05,2023-12-15
+2929,42924,3153,Too large,approved,784.89,2024-10-09
+2930,42934,2693,Not as described,refunded,274.99,2024-06-16
+2931,42953,216,Wrong item,rejected,54.94,2025-08-19
+2932,42985,3467,Not as described,approved,505.39,2025-11-29
+2933,43001,2005,Too large,requested,470.34,2025-05-12
+2934,43019,657,Too large,received,1317.73,2025-02-11
+2935,43048,7456,Wrong item,received,916.57,2023-10-13
+2936,43095,417,Arrived late,refunded,1637.67,2023-08-27
+2937,43109,9080,Not as described,approved,60.95,2025-06-29
+2938,43117,4454,Too large,refunded,525.78,2024-11-15
+2939,43138,5544,Too small,approved,862.82,2024-09-04
+2940,43150,4085,Not as described,refunded,298.62,2026-01-11
+2941,43196,4295,Arrived late,received,748.54,2023-04-16
+2942,43247,2227,Arrived late,received,179.61,2024-08-18
+2943,43248,8791,Too large,refunded,199.10,2024-10-02
+2944,43253,5548,Arrived late,rejected,735.01,2025-05-18
+2945,43256,265,Arrived late,rejected,559.03,2024-01-24
+2946,43269,5243,Too small,refunded,196.87,2025-12-10
+2947,43273,8985,Arrived late,received,694.50,2025-08-10
+2948,43275,5112,Not as described,approved,494.11,2024-01-24
+2949,43283,9792,Too small,approved,334.18,2025-03-05
+2950,43289,2535,Not as described,requested,1652.31,2026-02-16
+2951,43299,3119,Arrived late,approved,686.84,2023-03-19
+2952,43319,8145,Too small,requested,178.23,2024-04-10
+2953,43345,6073,Changed mind,refunded,1579.98,2025-12-23
+2954,43350,9987,Damaged,received,201.79,2025-06-26
+2955,43372,6948,Changed mind,approved,427.17,2024-03-24
+2956,43389,4383,Too large,received,88.20,2023-12-03
+2957,43394,3499,Too large,refunded,56.67,2024-03-04
+2958,43401,6129,Changed mind,received,898.17,2025-07-14
+2959,43424,6581,Arrived late,received,89.00,2024-12-27
+2960,43432,4564,Too large,refunded,19.61,2023-05-09
+2961,43434,6045,Not as described,requested,29.13,2024-02-07
+2962,43438,3045,Too large,requested,1188.92,2023-03-27
+2963,43439,8523,Too small,requested,657.79,2023-10-11
+2964,43457,6818,Too large,refunded,660.88,2024-12-06
+2965,43459,9021,Too large,refunded,1887.53,2025-04-29
+2966,43464,8137,Damaged,refunded,940.46,2025-05-10
+2967,43484,2098,Too large,received,134.61,2025-05-16
+2968,43491,4963,Arrived late,approved,133.89,2024-06-13
+2969,43521,8079,Changed mind,refunded,189.32,2023-07-25
+2970,43532,4195,Wrong item,requested,142.46,2024-10-22
+2971,43538,188,Changed mind,refunded,1046.86,2025-08-26
+2972,43540,4812,Damaged,rejected,827.33,2023-11-04
+2973,43544,1231,Changed mind,approved,500.46,2024-12-08
+2974,43545,9270,Changed mind,approved,54.54,2023-04-29
+2975,43557,5540,Damaged,refunded,442.99,2025-06-15
+2976,43597,4408,Too small,refunded,331.91,2024-05-18
+2977,43609,988,Not as described,received,38.61,2024-02-09
+2978,43624,1442,Changed mind,refunded,274.12,2025-08-20
+2979,43629,9367,Not as described,approved,223.28,2024-05-21
+2980,43642,2875,Damaged,approved,397.55,2023-11-17
+2981,43649,5512,Arrived late,approved,261.29,2023-09-05
+2982,43671,7210,Changed mind,refunded,338.80,2025-05-15
+2983,43677,7770,Damaged,approved,165.05,2026-01-06
+2984,43714,6035,Damaged,refunded,204.65,2025-08-23
+2985,43721,4385,Too large,rejected,109.00,2023-12-01
+2986,43724,2800,Too small,received,55.97,2023-03-13
+2987,43726,4289,Damaged,requested,1411.85,2023-08-23
+2988,43768,3691,Wrong item,requested,697.41,2025-12-17
+2989,43772,7826,Not as described,received,435.58,2023-06-14
+2990,43776,7077,Changed mind,received,41.57,2023-11-29
+2991,43795,2195,Changed mind,received,58.64,2023-10-01
+2992,43822,5968,Too small,requested,2379.67,2025-06-08
+2993,43844,3103,Changed mind,rejected,99.42,2023-04-09
+2994,43853,5204,Changed mind,refunded,897.50,2024-10-24
+2995,43855,681,Not as described,received,117.17,2024-05-29
+2996,43862,8137,Wrong item,rejected,974.05,2026-02-06
+2997,43866,281,Wrong item,refunded,660.69,2024-12-14
+2998,43908,8320,Too large,refunded,73.78,2025-08-07
+2999,43938,3352,Not as described,refunded,169.74,2023-07-02
+3000,43956,4298,Too large,received,149.32,2023-07-11
+3001,43958,3082,Too small,approved,491.53,2024-02-04
+3002,43976,318,Not as described,refunded,2040.82,2025-12-20
+3003,44001,3356,Not as described,approved,922.51,2024-03-08
+3004,44007,207,Arrived late,rejected,299.96,2023-08-24
+3005,44039,2585,Wrong item,approved,1137.90,2024-08-06
+3006,44048,8786,Arrived late,approved,436.70,2023-08-07
+3007,44060,8651,Changed mind,requested,1267.79,2023-05-19
+3008,44087,8930,Too large,refunded,1543.14,2025-03-14
+3009,44096,8071,Wrong item,received,37.58,2024-08-19
+3010,44102,7618,Changed mind,received,90.92,2023-07-30
+3011,44107,4490,Too large,received,84.89,2025-10-07
+3012,44126,1478,Wrong item,requested,201.22,2025-01-15
+3013,44143,6597,Too large,refunded,549.89,2025-09-26
+3014,44149,534,Too large,requested,373.52,2025-09-15
+3015,44225,432,Wrong item,requested,1201.95,2023-07-07
+3016,44293,2189,Wrong item,approved,95.05,2023-06-30
+3017,44305,9708,Too small,rejected,476.70,2026-02-16
+3018,44324,3356,Changed mind,refunded,1535.95,2025-07-05
+3019,44342,2465,Damaged,refunded,144.82,2025-07-12
+3020,44350,9850,Changed mind,approved,136.10,2023-05-20
+3021,44354,3128,Not as described,approved,126.53,2025-06-08
+3022,44361,1772,Damaged,rejected,105.06,2023-05-16
+3023,44387,1660,Damaged,requested,477.14,2025-02-23
+3024,44396,4211,Changed mind,approved,440.44,2025-05-21
+3025,44405,9486,Changed mind,refunded,266.51,2024-02-26
+3026,44419,9211,Too small,refunded,93.01,2025-03-29
+3027,44430,4431,Not as described,refunded,1225.29,2025-05-03
+3028,44434,6886,Arrived late,rejected,828.58,2023-10-24
+3029,44440,9973,Too large,rejected,83.32,2025-04-12
+3030,44441,6301,Arrived late,approved,187.16,2024-09-12
+3031,44457,1883,Damaged,requested,1518.88,2024-10-25
+3032,44458,7369,Damaged,refunded,149.15,2024-04-21
+3033,44485,6614,Wrong item,received,219.65,2024-08-07
+3034,44508,4642,Not as described,rejected,12.70,2025-01-08
+3035,44513,7806,Not as described,received,58.87,2025-06-23
+3036,44523,6271,Arrived late,requested,1189.11,2024-12-19
+3037,44525,8719,Damaged,refunded,698.56,2025-01-21
+3038,44574,1074,Changed mind,approved,23.02,2023-09-16
+3039,44592,8299,Too small,requested,434.78,2023-10-28
+3040,44607,4069,Changed mind,requested,105.32,2024-10-28
+3041,44616,7727,Too large,requested,668.40,2024-02-03
+3042,44629,316,Changed mind,requested,718.72,2024-09-03
+3043,44634,799,Wrong item,received,65.14,2023-02-14
+3044,44641,9621,Wrong item,received,389.76,2024-03-06
+3045,44651,2333,Arrived late,refunded,129.18,2024-10-28
+3046,44657,8200,Damaged,refunded,135.60,2026-01-23
+3047,44663,5550,Not as described,received,693.23,2025-10-29
+3048,44731,7934,Changed mind,received,182.92,2023-10-24
+3049,44760,1976,Wrong item,approved,92.23,2025-12-18
+3050,44777,1660,Damaged,refunded,1021.80,2024-11-30
+3051,44793,5757,Wrong item,approved,398.76,2023-11-15
+3052,44797,5648,Wrong item,refunded,1093.64,2023-11-25
+3053,44812,4131,Damaged,received,64.12,2025-03-19
+3054,44824,1840,Wrong item,approved,200.02,2023-06-28
+3055,44829,6446,Too small,refunded,206.64,2025-09-03
+3056,44836,1656,Too large,approved,28.83,2024-06-22
+3057,44839,525,Wrong item,received,1353.35,2023-07-24
+3058,44841,3125,Wrong item,received,193.23,2025-03-03
+3059,44850,9394,Too small,approved,1437.39,2025-06-07
+3060,44851,1333,Damaged,approved,619.60,2025-05-26
+3061,44867,3982,Not as described,received,1453.67,2024-02-16
+3062,44874,3923,Wrong item,received,1274.33,2024-05-13
+3063,44893,4057,Changed mind,refunded,296.10,2023-10-29
+3064,44910,7279,Arrived late,refunded,225.04,2025-12-03
+3065,44914,5633,Too small,refunded,512.88,2025-08-14
+3066,44923,9940,Wrong item,requested,264.35,2025-11-27
+3067,44937,270,Changed mind,received,442.52,2025-04-08
+3068,44972,9200,Too large,refunded,262.47,2023-08-05
+3069,45007,9382,Too small,approved,132.57,2023-08-01
+3070,45037,5535,Wrong item,approved,261.65,2025-01-09
+3071,45039,7649,Not as described,refunded,109.55,2023-05-13
+3072,45052,7411,Arrived late,approved,231.35,2025-12-11
+3073,45068,4857,Changed mind,received,130.26,2025-10-31
+3074,45078,4658,Arrived late,refunded,174.47,2025-07-27
+3075,45079,4117,Wrong item,refunded,2494.16,2025-04-12
+3076,45083,3281,Damaged,refunded,424.41,2025-10-25
+3077,45088,2058,Not as described,refunded,342.92,2023-03-23
+3078,45096,5368,Too large,refunded,470.12,2024-09-09
+3079,45112,2263,Too large,approved,670.49,2024-05-06
+3080,45115,1717,Not as described,approved,2497.72,2023-07-08
+3081,45127,8070,Too small,approved,50.70,2024-02-07
+3082,45166,1844,Damaged,requested,157.53,2025-10-17
+3083,45184,6191,Wrong item,refunded,337.88,2026-01-17
+3084,45191,3715,Too small,received,238.30,2023-07-26
+3085,45264,6637,Not as described,rejected,303.37,2024-01-18
+3086,45284,5492,Not as described,approved,385.66,2023-09-29
+3087,45294,7321,Too small,received,662.13,2024-03-31
+3088,45298,3099,Not as described,refunded,342.92,2023-11-18
+3089,45300,6964,Damaged,refunded,1224.58,2025-04-15
+3090,45314,6745,Changed mind,refunded,325.72,2023-07-02
+3091,45333,6967,Too small,received,717.58,2025-07-22
+3092,45338,5159,Changed mind,requested,61.65,2025-07-12
+3093,45348,3984,Damaged,received,950.09,2024-07-13
+3094,45364,8046,Too small,approved,2000.43,2025-09-05
+3095,45367,1085,Damaged,refunded,1817.27,2023-11-16
+3096,45380,5826,Wrong item,requested,625.51,2024-11-13
+3097,45396,4112,Wrong item,received,2788.12,2024-07-16
+3098,45409,1797,Changed mind,requested,866.88,2023-12-19
+3099,45431,7861,Changed mind,received,473.29,2025-06-11
+3100,45437,7631,Wrong item,received,327.47,2023-07-27
+3101,45465,5712,Too large,refunded,41.03,2024-09-16
+3102,45477,4681,Damaged,approved,64.35,2024-04-02
+3103,45483,7360,Damaged,rejected,280.97,2024-06-06
+3104,45503,7704,Wrong item,approved,288.67,2023-11-02
+3105,45515,4392,Too small,rejected,129.91,2023-04-19
+3106,45532,5769,Arrived late,rejected,1407.93,2024-10-28
+3107,45571,4954,Arrived late,refunded,843.56,2025-05-13
+3108,45582,4989,Wrong item,approved,831.38,2026-02-23
+3109,45590,4774,Changed mind,requested,328.67,2024-12-19
+3110,45591,5707,Changed mind,refunded,186.64,2023-05-15
+3111,45595,5801,Damaged,refunded,277.12,2025-01-27
+3112,45602,2614,Not as described,refunded,135.54,2025-03-29
+3113,45610,6775,Too large,refunded,738.87,2023-07-01
+3114,45615,7234,Not as described,approved,166.68,2024-02-14
+3115,45642,1613,Too small,refunded,775.71,2023-04-09
+3116,45649,4613,Arrived late,approved,253.69,2023-11-29
+3117,45675,8841,Arrived late,received,500.20,2023-07-25
+3118,45677,9908,Arrived late,refunded,283.96,2026-01-16
+3119,45683,2716,Too small,rejected,379.41,2023-02-26
+3120,45724,7841,Too large,approved,349.98,2025-05-10
+3121,45735,261,Damaged,refunded,277.59,2025-12-12
+3122,45736,8547,Changed mind,refunded,23.43,2023-05-28
+3123,45738,5539,Not as described,refunded,123.24,2024-11-04
+3124,45754,4153,Too small,received,861.12,2024-09-17
+3125,45770,3619,Arrived late,refunded,322.25,2025-10-07
+3126,45801,2222,Not as described,refunded,168.27,2023-04-04
+3127,45812,2229,Damaged,requested,69.22,2025-09-19
+3128,45813,7653,Too large,refunded,963.60,2025-07-18
+3129,45818,2788,Too small,refunded,458.68,2024-11-29
+3130,45829,7842,Too large,requested,1115.50,2025-12-31
+3131,45840,7680,Too small,refunded,678.82,2025-02-09
+3132,45852,5419,Too small,received,242.57,2023-04-12
+3133,45898,3623,Changed mind,approved,427.98,2025-03-09
+3134,45905,4812,Changed mind,refunded,1970.17,2024-05-02
+3135,45923,5423,Arrived late,received,795.71,2023-05-24
+3136,45927,6741,Not as described,requested,273.61,2024-11-02
+3137,45936,9918,Damaged,received,200.96,2025-11-22
+3138,45959,3780,Too large,requested,676.18,2023-06-29
+3139,45966,4332,Too small,refunded,295.48,2024-01-06
+3140,45967,3365,Too large,refunded,515.98,2025-11-25
+3141,45983,8174,Wrong item,rejected,89.65,2025-01-19
+3142,45997,8724,Wrong item,refunded,1413.46,2023-08-23
+3143,46027,6948,Damaged,rejected,164.22,2024-05-26
+3144,46048,5509,Too large,rejected,863.89,2024-02-14
+3145,46056,5813,Too large,received,302.35,2023-03-26
+3146,46066,8792,Damaged,rejected,91.47,2025-04-02
+3147,46110,6987,Too large,refunded,3186.42,2025-05-06
+3148,46130,4840,Damaged,requested,1522.08,2023-05-24
+3149,46159,7887,Too small,refunded,1583.79,2025-05-16
+3150,46161,2718,Damaged,refunded,151.68,2024-03-14
+3151,46187,6411,Damaged,received,140.18,2023-02-10
+3152,46192,4900,Too large,refunded,1273.51,2025-09-25
+3153,46193,582,Not as described,received,191.36,2024-09-11
+3154,46197,2599,Too small,refunded,619.55,2025-10-02
+3155,46202,5675,Arrived late,approved,185.28,2023-07-12
+3156,46204,4755,Too small,refunded,797.05,2025-12-23
+3157,46217,499,Too large,refunded,197.26,2025-10-15
+3158,46218,4233,Not as described,approved,956.48,2023-11-27
+3159,46242,5699,Not as described,approved,2994.51,2024-02-03
+3160,46310,9689,Arrived late,rejected,2318.37,2024-04-07
+3161,46327,1772,Too small,approved,682.48,2023-03-26
+3162,46334,8015,Not as described,refunded,123.46,2025-05-15
+3163,46340,8679,Wrong item,refunded,765.62,2024-01-09
+3164,46347,9171,Changed mind,requested,703.03,2025-09-09
+3165,46352,8041,Arrived late,approved,1512.74,2023-03-17
+3166,46368,275,Too large,refunded,190.71,2024-02-25
+3167,46374,7858,Not as described,refunded,2007.92,2024-08-02
+3168,46390,7937,Too large,approved,297.12,2024-01-19
+3169,46400,6449,Damaged,refunded,782.63,2025-04-07
+3170,46403,7224,Changed mind,refunded,391.69,2023-07-22
+3171,46406,7225,Changed mind,refunded,119.92,2025-10-27
+3172,46407,4507,Too large,refunded,852.79,2023-02-04
+3173,46426,3325,Wrong item,rejected,128.46,2026-01-07
+3174,46432,4186,Wrong item,received,611.44,2024-04-12
+3175,46436,9272,Damaged,refunded,1090.98,2024-05-26
+3176,46450,7193,Damaged,requested,213.11,2023-09-03
+3177,46465,4508,Damaged,received,709.93,2025-03-13
+3178,46487,1210,Not as described,refunded,307.86,2024-10-16
+3179,46499,5314,Not as described,received,850.64,2023-08-12
+3180,46500,7832,Damaged,refunded,151.56,2024-09-06
+3181,46511,7122,Wrong item,received,677.45,2023-07-12
+3182,46565,8646,Too small,received,855.48,2023-06-15
+3183,46577,7785,Too large,received,357.33,2024-12-17
+3184,46594,5445,Wrong item,refunded,109.98,2025-12-18
+3185,46605,8730,Too large,approved,90.83,2024-06-26
+3186,46630,8186,Changed mind,refunded,198.13,2024-10-28
+3187,46631,3985,Changed mind,refunded,362.29,2024-10-02
+3188,46636,7993,Too small,requested,110.74,2025-08-07
+3189,46638,6791,Not as described,refunded,1972.18,2024-02-28
+3190,46674,4034,Wrong item,refunded,1316.95,2024-05-22
+3191,46676,7109,Changed mind,requested,338.31,2026-01-18
+3192,46689,255,Damaged,received,141.13,2023-04-15
+3193,46706,4150,Wrong item,refunded,118.49,2024-05-06
+3194,46749,7141,Not as described,received,218.53,2024-03-01
+3195,46751,9487,Damaged,rejected,842.68,2025-11-20
+3196,46777,5748,Not as described,refunded,79.27,2023-08-08
+3197,46780,9950,Too small,refunded,74.84,2024-07-24
+3198,46786,4658,Arrived late,rejected,476.98,2026-01-02
+3199,46817,3109,Too large,refunded,162.94,2024-07-07
+3200,46818,7583,Too small,rejected,682.56,2023-03-25
+3201,46849,2142,Arrived late,approved,2156.30,2024-01-18
+3202,46871,9300,Not as described,received,671.71,2024-05-21
+3203,46881,6555,Too small,rejected,331.67,2025-05-26
+3204,46902,9757,Changed mind,refunded,135.30,2025-01-15
+3205,46914,1761,Not as described,refunded,113.04,2025-02-05
+3206,46937,4270,Too small,rejected,44.07,2024-05-08
+3207,46955,8303,Not as described,approved,534.55,2023-10-23
+3208,46963,1658,Not as described,refunded,186.74,2025-06-18
+3209,46975,766,Changed mind,rejected,777.03,2024-10-21
+3210,46978,3017,Arrived late,approved,715.33,2023-12-25
+3211,46984,6638,Arrived late,refunded,798.68,2024-03-08
+3212,47034,9348,Too large,refunded,342.48,2024-02-26
+3213,47036,6114,Too small,refunded,189.25,2025-03-24
+3214,47037,4470,Too large,received,471.04,2025-12-24
+3215,47041,68,Not as described,approved,491.57,2025-07-23
+3216,47073,8700,Wrong item,refunded,936.57,2023-02-07
+3217,47098,5854,Arrived late,received,789.47,2025-08-27
+3218,47101,2064,Damaged,received,704.78,2024-10-28
+3219,47134,9745,Arrived late,refunded,425.92,2024-08-24
+3220,47145,9532,Too small,received,132.46,2024-03-15
+3221,47155,595,Wrong item,refunded,344.62,2024-07-03
+3222,47199,5429,Not as described,refunded,233.57,2024-10-27
+3223,47227,7779,Damaged,received,331.30,2025-03-27
+3224,47232,5935,Too small,approved,903.32,2024-03-01
+3225,47244,6520,Too large,refunded,330.73,2024-02-01
+3226,47254,5762,Damaged,requested,89.68,2025-12-18
+3227,47258,114,Wrong item,refunded,198.29,2024-10-27
+3228,47262,2488,Damaged,refunded,1903.45,2023-11-27
+3229,47278,2136,Changed mind,requested,160.31,2024-03-11
+3230,47280,8420,Too large,refunded,117.80,2023-07-10
+3231,47284,9233,Changed mind,refunded,436.74,2024-03-11
+3232,47293,525,Too small,refunded,56.85,2026-01-02
+3233,47311,681,Not as described,refunded,519.03,2024-08-13
+3234,47314,2865,Wrong item,approved,156.13,2023-03-28
+3235,47330,739,Damaged,approved,3029.93,2024-07-13
+3236,47340,1053,Damaged,refunded,769.74,2023-05-24
+3237,47345,5548,Too large,refunded,4213.61,2023-04-18
+3238,47353,1270,Arrived late,received,1009.38,2026-02-28
+3239,47355,2837,Too small,received,264.30,2026-01-23
+3240,47363,499,Too large,rejected,428.98,2024-11-25
+3241,47371,9436,Changed mind,received,239.58,2023-04-06
+3242,47372,2075,Changed mind,rejected,920.48,2024-01-07
+3243,47379,8459,Changed mind,refunded,297.48,2025-01-06
+3244,47387,7042,Arrived late,requested,392.09,2024-08-17
+3245,47398,2717,Damaged,received,748.68,2024-04-03
+3246,47401,1214,Too large,received,116.53,2023-05-09
+3247,47456,3472,Too small,refunded,263.44,2025-04-23
+3248,47458,427,Arrived late,approved,735.53,2024-01-31
+3249,47552,9887,Arrived late,refunded,465.34,2025-04-21
+3250,47554,8735,Changed mind,approved,85.43,2024-01-15
+3251,47568,1057,Damaged,refunded,539.52,2025-07-11
+3252,47575,1191,Wrong item,received,120.82,2023-03-02
+3253,47576,6319,Too small,approved,722.89,2025-07-24
+3254,47599,2800,Not as described,refunded,1193.44,2026-01-09
+3255,47627,8097,Damaged,requested,208.17,2025-07-14
+3256,47640,7661,Damaged,approved,92.60,2025-04-14
+3257,47644,145,Wrong item,approved,331.13,2025-04-24
+3258,47705,6994,Damaged,refunded,301.85,2025-03-26
+3259,47710,3780,Wrong item,approved,574.57,2023-12-19
+3260,47713,8936,Too small,refunded,192.23,2025-06-07
+3261,47717,3144,Too small,requested,327.24,2024-12-08
+3262,47727,6154,Changed mind,requested,97.74,2025-03-25
+3263,47734,6929,Damaged,received,502.29,2025-11-03
+3264,47756,7610,Too small,received,208.14,2025-05-15
+3265,47762,710,Changed mind,requested,60.92,2023-04-03
+3266,47790,193,Too small,refunded,347.48,2024-01-07
+3267,47792,1356,Too large,approved,216.51,2025-02-21
+3268,47816,4243,Wrong item,refunded,340.48,2025-08-06
+3269,47860,7950,Too small,rejected,225.90,2023-10-09
+3270,47879,3915,Wrong item,approved,86.01,2025-06-30
+3271,47886,3879,Damaged,refunded,513.66,2023-07-15
+3272,47889,3457,Damaged,received,263.62,2024-11-14
+3273,47893,2441,Not as described,refunded,737.03,2025-11-05
+3274,47898,274,Not as described,approved,1678.37,2023-12-06
+3275,47900,8195,Too large,refunded,70.90,2025-04-03
+3276,47945,6520,Changed mind,approved,1870.80,2025-05-21
+3277,47962,9156,Not as described,refunded,52.57,2025-03-16
+3278,47966,1879,Not as described,approved,110.86,2025-05-03
+3279,47999,4504,Arrived late,refunded,1693.44,2023-04-11
+3280,48000,8323,Not as described,refunded,141.82,2025-10-28
+3281,48001,1538,Arrived late,refunded,349.21,2024-11-30
+3282,48095,9224,Not as described,approved,345.31,2025-11-15
+3283,48097,5902,Changed mind,refunded,30.09,2025-12-31
+3284,48119,8726,Arrived late,received,41.01,2024-05-15
+3285,48123,8836,Changed mind,received,979.72,2023-11-26
+3286,48127,2318,Arrived late,approved,1206.88,2025-03-03
+3287,48130,2600,Changed mind,approved,2027.02,2026-01-16
+3288,48131,6750,Too small,approved,47.01,2023-09-18
+3289,48148,2472,Not as described,approved,515.52,2024-06-25
+3290,48180,656,Too small,requested,1118.13,2023-07-14
+3291,48187,4257,Too small,rejected,406.89,2025-07-20
+3292,48204,125,Arrived late,refunded,112.01,2023-05-14
+3293,48212,3550,Wrong item,refunded,365.47,2025-09-28
+3294,48214,43,Too large,requested,549.89,2025-08-02
+3295,48229,2278,Not as described,requested,195.51,2025-04-23
+3296,48237,4119,Wrong item,refunded,747.51,2024-01-15
+3297,48258,7035,Damaged,refunded,73.09,2024-09-12
+3298,48261,3808,Too small,approved,34.61,2025-09-18
+3299,48262,3694,Too large,received,27.17,2026-01-15
+3300,48290,1853,Not as described,requested,19.39,2023-04-02
+3301,48292,4353,Wrong item,refunded,25.44,2025-01-19
+3302,48363,5105,Wrong item,refunded,1197.11,2026-01-22
+3303,48383,1336,Wrong item,received,1323.93,2023-04-07
+3304,48406,2852,Damaged,approved,296.28,2025-06-03
+3305,48409,7610,Wrong item,rejected,470.69,2023-10-15
+3306,48410,203,Wrong item,received,399.11,2024-09-12
+3307,48426,3343,Changed mind,received,1397.72,2024-06-11
+3308,48446,1252,Arrived late,approved,231.56,2025-05-23
+3309,48464,4997,Arrived late,refunded,1668.96,2025-03-02
+3310,48471,9782,Wrong item,received,2131.21,2025-08-28
+3311,48522,1175,Arrived late,rejected,669.49,2024-03-07
+3312,48523,662,Too large,refunded,36.95,2023-05-02
+3313,48535,4631,Changed mind,rejected,93.57,2024-07-02
+3314,48583,7840,Too large,refunded,288.31,2024-04-23
+3315,48608,5679,Arrived late,approved,128.78,2025-07-03
+3316,48635,7262,Too small,received,383.70,2025-11-12
+3317,48677,2675,Too small,refunded,75.13,2023-03-17
+3318,48693,4068,Wrong item,refunded,183.73,2023-06-28
+3319,48706,4240,Not as described,requested,445.90,2023-03-10
+3320,48722,4436,Wrong item,received,39.41,2024-08-09
+3321,48731,4949,Wrong item,refunded,157.07,2024-06-23
+3322,48741,4300,Changed mind,refunded,445.03,2024-01-12
+3323,48748,9857,Wrong item,rejected,383.72,2024-02-15
+3324,48756,3055,Changed mind,refunded,263.12,2023-08-01
+3325,48758,1233,Too small,refunded,1400.43,2024-03-19
+3326,48771,8509,Too large,received,455.46,2023-03-22
+3327,48811,5212,Wrong item,refunded,460.22,2023-11-05
+3328,48824,2445,Wrong item,approved,1728.99,2023-04-02
+3329,48831,5173,Too large,refunded,903.39,2025-06-16
+3330,48833,6200,Not as described,received,1997.28,2024-08-17
+3331,48851,4922,Changed mind,refunded,67.03,2025-06-24
+3332,48852,6561,Changed mind,approved,704.49,2023-08-28
+3333,48873,6551,Arrived late,requested,811.87,2025-10-15
+3334,48884,1330,Too large,refunded,690.77,2024-01-04
+3335,48915,9731,Arrived late,approved,246.43,2025-08-27
+3336,48922,3954,Changed mind,received,254.59,2024-01-08
+3337,48948,4397,Damaged,rejected,979.75,2024-08-28
+3338,48985,5265,Damaged,refunded,1704.80,2024-06-29
+3339,49004,5108,Not as described,received,192.43,2024-12-21
+3340,49015,1541,Not as described,refunded,958.58,2024-07-01
+3341,49039,900,Not as described,refunded,20.80,2024-04-26
+3342,49073,61,Changed mind,approved,2070.44,2025-07-27
+3343,49076,2699,Wrong item,refunded,356.74,2025-01-31
+3344,49086,4,Wrong item,received,263.88,2025-12-01
+3345,49093,9837,Too large,refunded,367.77,2025-04-10
+3346,49095,5493,Changed mind,refunded,687.21,2024-04-26
+3347,49121,6601,Damaged,refunded,426.08,2026-01-15
+3348,49122,5018,Too small,refunded,1534.47,2023-03-31
+3349,49138,5521,Damaged,requested,666.06,2025-05-06
+3350,49150,8125,Too small,refunded,58.47,2023-11-13
+3351,49156,7578,Too large,received,89.44,2024-01-09
+3352,49166,7150,Changed mind,received,429.79,2023-06-10
+3353,49172,4513,Not as described,received,138.81,2023-07-15
+3354,49178,4933,Changed mind,requested,466.73,2025-07-22
+3355,49179,1702,Wrong item,approved,117.28,2023-05-30
+3356,49184,5188,Too large,refunded,70.13,2025-02-19
+3357,49207,7479,Arrived late,refunded,1234.82,2025-07-09
+3358,49233,3790,Wrong item,refunded,701.36,2025-05-14
+3359,49240,1624,Too large,approved,829.96,2024-12-03
+3360,49304,5604,Too small,refunded,845.12,2024-11-28
+3361,49308,5456,Damaged,received,168.82,2026-02-11
+3362,49312,4358,Not as described,refunded,404.19,2023-05-13
+3363,49368,4978,Damaged,received,831.38,2023-12-31
+3364,49383,6037,Too large,refunded,126.61,2024-04-19
+3365,49388,2630,Too large,approved,1693.08,2023-11-06
+3366,49392,6214,Too large,approved,319.85,2024-12-26
+3367,49402,1640,Arrived late,approved,1333.93,2025-06-19
+3368,49437,7111,Changed mind,received,310.12,2024-04-30
+3369,49443,3129,Changed mind,refunded,335.05,2023-11-18
+3370,49472,9487,Wrong item,received,59.50,2024-04-10
+3371,49474,1231,Too large,approved,325.07,2023-04-30
+3372,49482,1520,Too small,received,327.39,2023-10-25
+3373,49532,5075,Damaged,received,1069.20,2023-12-08
+3374,49545,9702,Arrived late,refunded,90.58,2023-09-11
+3375,49604,298,Damaged,received,30.69,2023-09-21
+3376,49608,2566,Not as described,received,178.48,2024-02-20
+3377,49616,7376,Damaged,received,47.05,2024-06-27
+3378,49624,3603,Changed mind,approved,249.06,2024-06-29
+3379,49688,5612,Too small,approved,1150.90,2025-06-20
+3380,49703,5437,Arrived late,rejected,1432.84,2025-05-08
+3381,49717,890,Changed mind,received,1057.71,2023-04-06
+3382,49720,7777,Arrived late,refunded,1103.01,2023-06-03
+3383,49748,222,Too small,refunded,270.48,2025-02-01
+3384,49757,9335,Too large,received,552.16,2025-10-13
+3385,49759,4081,Changed mind,received,2211.95,2025-09-12
+3386,49775,9113,Arrived late,received,348.10,2023-11-14
+3387,49780,6224,Changed mind,requested,830.89,2025-09-14
+3388,49819,4416,Not as described,rejected,3700.85,2023-10-23
+3389,49840,8602,Too large,approved,502.45,2024-10-08
+3390,49849,5192,Too large,approved,249.68,2023-06-17
+3391,49859,9925,Wrong item,refunded,24.56,2024-09-23
+3392,49873,6682,Too large,requested,1845.60,2025-05-14
+3393,49874,5407,Arrived late,refunded,333.53,2024-06-08
+3394,49885,1745,Arrived late,requested,465.92,2023-11-02
+3395,49890,1188,Damaged,refunded,1902.63,2024-08-08
+3396,49904,3078,Too large,refunded,20.11,2025-10-10
+3397,49922,3479,Wrong item,received,400.00,2023-01-29
+3398,49985,9465,Too large,refunded,36.01,2024-02-21
+3399,49988,223,Arrived late,refunded,916.57,2023-07-01

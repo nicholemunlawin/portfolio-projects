@@ -1,0 +1,6 @@
+# Keep CSV line endings stable so LOAD DATA uses the expected row terminator.
+data/*.csv text eol=crlf
+
+# Keep code and docs consistent across operating systems.
+*.sql text eol=lf
+*.md text eol=lf

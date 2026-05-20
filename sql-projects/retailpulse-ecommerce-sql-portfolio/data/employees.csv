@@ -1,0 +1,121 @@
+employee_id,first_name,last_name,department,job_title,warehouse_id,hire_date,status
+1,Sandra,Adams,Sales,Manager,4,2024-03-19,active
+2,Kenneth,Moore,Marketing,Manager,7,2023-06-11,active
+3,James,Lopez,Warehouse,Director,3,2025-05-10,active
+4,Barbara,Smith,Marketing,Associate,1,2023-04-27,active
+5,Sandra,Lee,Support,Senior Associate,8,2025-12-06,active
+6,Joseph,Scott,Support,Senior Associate,,2023-01-15,active
+7,Jessica,Adams,Warehouse,Director,,2024-07-31,active
+8,Donald,Davis,Support,Associate,,2025-07-13,inactive
+9,Timothy,Campbell,Marketing,Senior Associate,5,2024-12-22,active
+10,Jennifer,Williams,Support,Senior Associate,,2025-08-05,active
+11,Dorothy,Davis,Finance,Senior Associate,6,2025-12-23,active
+12,Michelle,Carter,Operations,Manager,8,2023-10-23,active
+13,Paul,Wright,Support,Director,3,2025-09-24,active
+14,Thomas,Wright,Marketing,Manager,5,2024-11-24,active
+15,Jessica,Ramirez,Marketing,Manager,1,2023-03-14,active
+16,George,Carter,Marketing,Senior Associate,2,2023-08-21,active
+17,James,Miller,Warehouse,Associate,7,2025-08-26,inactive
+18,Thomas,Green,Marketing,Associate,,2023-02-12,active
+19,Steven,Williams,Operations,Associate,1,2025-07-28,active
+20,George,Martin,Marketing,Associate,,2025-09-02,active
+21,Thomas,Rivera,Operations,Senior Associate,,2025-07-27,inactive
+22,Melissa,King,Support,Associate,4,2025-12-13,active
+23,Margaret,Walker,Marketing,Manager,,2025-12-14,active
+24,James,Mitchell,Warehouse,Manager,7,2025-01-12,active
+25,Andrew,Rodriguez,Finance,Associate,,2024-07-16,active
+26,Donald,Lee,Support,Senior Associate,4,2025-09-06,active
+27,Sandra,Young,Finance,Manager,,2024-12-02,active
+28,Timothy,Hall,Warehouse,Director,4,2025-06-12,active
+29,Nancy,Rodriguez,Sales,Associate,,2023-03-15,active
+30,William,Nelson,Finance,Senior Associate,2,2024-02-07,active
+31,Sarah,Taylor,Sales,Manager,8,2024-03-01,active
+32,Richard,Walker,Marketing,Senior Associate,,2025-06-28,active
+33,Patricia,Jackson,Sales,Senior Associate,1,2025-06-05,inactive
+34,Donald,Adams,Marketing,Director,1,2023-05-20,active
+35,Emily,Wright,Finance,Director,,2025-02-19,active
+36,Jennifer,Hernandez,Warehouse,Associate,,2024-01-23,active
+37,Deborah,Green,Operations,Senior Associate,4,2025-08-21,active
+38,Steven,Lee,Support,Associate,2,2024-01-05,active
+39,Amanda,Nelson,Sales,Senior Associate,3,2024-10-30,active
+40,Paul,Ramirez,Support,Manager,4,2023-01-28,active
+41,Melissa,Taylor,Sales,Associate,7,2024-06-22,active
+42,Kevin,King,Sales,Manager,,2025-12-07,active
+43,Nancy,Ramirez,Finance,Associate,1,2025-05-25,active
+44,Elizabeth,Young,Support,Senior Associate,,2024-04-05,active
+45,Joseph,Robinson,Sales,Associate,2,2023-11-28,active
+46,Kevin,Flores,Marketing,Senior Associate,8,2025-12-19,active
+47,Andrew,Brown,Marketing,Manager,8,2023-04-12,active
+48,Timothy,Harris,Marketing,Senior Associate,,2025-05-05,active
+49,David,Hall,Warehouse,Director,5,2023-08-07,active
+50,Donald,Hall,Warehouse,Associate,8,2025-06-02,active
+51,Dorothy,Anderson,Support,Associate,3,2025-09-07,active
+52,Thomas,Smith,Marketing,Director,7,2024-06-03,active
+53,George,Campbell,Warehouse,Manager,,2025-02-01,active
+54,Carol,Robinson,Warehouse,Senior Associate,,2024-08-26,active
+55,Michelle,Rodriguez,Finance,Manager,7,2024-12-06,inactive
+56,Paul,Wilson,Finance,Associate,,2023-11-19,active
+57,Daniel,Taylor,Operations,Director,2,2025-09-06,active
+58,Donna,Gonzalez,Finance,Associate,,2024-11-16,active
+59,Donald,Scott,Sales,Associate,,2023-07-27,active
+60,Carol,Wright,Operations,Senior Associate,7,2023-04-19,active
+61,Dorothy,Allen,Sales,Manager,,2024-12-24,active
+62,Susan,Nguyen,Warehouse,Director,4,2025-08-01,active
+63,Kevin,Lee,Finance,Director,4,2025-07-05,active
+64,George,Walker,Marketing,Senior Associate,,2025-04-03,active
+65,Thomas,Lewis,Warehouse,Senior Associate,,2025-10-07,active
+66,John,Miller,Sales,Manager,2,2023-02-23,active
+67,Mary,Wilson,Finance,Manager,,2025-06-03,active
+68,David,King,Marketing,Director,2,2024-12-06,active
+69,Joshua,Davis,Support,Director,8,2024-03-22,inactive
+70,Kimberly,White,Support,Senior Associate,8,2025-09-19,active
+71,Anthony,Anderson,Sales,Senior Associate,,2024-04-26,active
+72,James,Robinson,Support,Director,6,2025-11-06,inactive
+73,Joseph,Scott,Operations,Manager,,2024-07-04,active
+74,Elizabeth,Taylor,Warehouse,Associate,1,2025-05-21,active
+75,Kevin,Thompson,Warehouse,Senior Associate,7,2023-09-14,active
+76,Jessica,White,Finance,Senior Associate,,2023-04-12,active
+77,Daniel,Baker,Support,Manager,5,2023-02-14,active
+78,Matthew,Jackson,Marketing,Manager,5,2023-08-01,active
+79,Susan,Robinson,Marketing,Senior Associate,6,2023-07-15,inactive
+80,Joseph,Lee,Warehouse,Director,,2025-04-09,active
+81,Margaret,Walker,Operations,Director,,2025-12-02,active
+82,Barbara,Lee,Sales,Director,2,2024-04-05,active
+83,Mark,Scott,Warehouse,Senior Associate,3,2023-01-02,inactive
+84,Dorothy,Allen,Support,Senior Associate,4,2025-02-03,active
+85,Margaret,Lewis,Operations,Director,5,2024-03-07,active
+86,Andrew,Jackson,Operations,Senior Associate,,2023-03-10,active
+87,Margaret,Roberts,Finance,Associate,,2023-09-23,active
+88,John,Nelson,Warehouse,Senior Associate,,2024-09-22,inactive
+89,Patricia,Clark,Sales,Senior Associate,,2024-06-05,active
+90,Barbara,Anderson,Sales,Associate,7,2023-11-04,active
+91,Kenneth,Miller,Marketing,Associate,,2023-05-14,active
+92,Linda,Rodriguez,Finance,Manager,,2023-07-29,active
+93,Anthony,Anderson,Operations,Senior Associate,,2025-07-30,active
+94,Karen,Brown,Warehouse,Associate,3,2025-12-14,active
+95,Sandra,Young,Warehouse,Manager,6,2025-10-04,active
+96,Karen,Johnson,Support,Senior Associate,,2023-03-29,active
+97,Joseph,Rivera,Operations,Senior Associate,,2023-11-15,active
+98,Ashley,Gonzalez,Support,Associate,8,2024-09-13,active
+99,Joseph,Johnson,Marketing,Manager,3,2023-08-03,active
+100,Nancy,Davis,Support,Director,5,2025-12-21,inactive
+101,Barbara,Garcia,Operations,Director,,2024-06-24,active
+102,Emily,Anderson,Marketing,Associate,5,2025-08-23,active
+103,John,Lee,Marketing,Director,8,2024-02-29,active
+104,Dorothy,Garcia,Sales,Associate,6,2023-10-11,active
+105,Susan,Mitchell,Operations,Director,5,2025-08-14,active
+106,Nancy,Carter,Sales,Director,6,2024-04-03,active
+107,Amanda,Lewis,Operations,Manager,1,2023-05-08,active
+108,Lisa,Mitchell,Warehouse,Senior Associate,1,2023-08-29,active
+109,Mark,Robinson,Support,Director,2,2024-10-31,active
+110,Donald,Carter,Sales,Director,,2023-04-24,active
+111,Linda,Moore,Marketing,Manager,8,2023-03-30,active
+112,Robert,Jones,Marketing,Associate,8,2025-01-05,active
+113,Jennifer,Wright,Operations,Associate,,2025-03-24,active
+114,Deborah,Gonzalez,Finance,Associate,1,2025-05-25,active
+115,Donna,Miller,Operations,Director,,2025-01-17,inactive
+116,Christopher,Thompson,Support,Senior Associate,3,2024-11-05,active
+117,Barbara,Anderson,Finance,Associate,,2023-10-16,active
+118,William,Wright,Marketing,Senior Associate,,2023-05-06,active
+119,Kevin,Walker,Finance,Director,6,2023-08-29,active
+120,David,Brown,Marketing,Manager,7,2025-04-13,active
