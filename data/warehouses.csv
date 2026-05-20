@@ -1,0 +1,9 @@
+warehouse_id,warehouse_name,city,state,capacity_units
+1,Warehouse 1 - Jacksonville,Jacksonville,FL,39996
+2,Warehouse 2 - New York,New York,NY,40203
+3,Warehouse 3 - Los Angeles,Los Angeles,CA,40129
+4,Warehouse 4 - Miami,Miami,FL,40537
+5,Warehouse 5 - Seattle,Seattle,WA,28691
+6,Warehouse 6 - Houston,Houston,TX,26879
+7,Warehouse 7 - Dallas,Dallas,TX,44130
+8,Warehouse 8 - San Diego,San Diego,CA,37644

@@ -1,0 +1,24 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+
+# Local environment files
+.env
+.env.*
+
+# Generated outputs
+exports/
+screenshots/
+.mysql-smoke-test/
+*.log
+*.tmp
+
+# Local database dumps/backups
+*.sql.gz
+*.dump
+*.bak
+
+# Notes
+*.txt

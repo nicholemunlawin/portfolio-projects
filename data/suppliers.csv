@@ -1,0 +1,81 @@
+supplier_id,supplier_name,contact_email,city,state,country
+1,EverPeak Supply Co 1,contact1@supplierdemo.com,Las Vegas,NV,Canada
+2,ZenHaus Supply Co 2,contact2@supplierdemo.com,San Antonio,TX,Canada
+3,UrbanEdge Supply Co 3,contact3@supplierdemo.com,Philadelphia,PA,USA
+4,EcoSphere Supply Co 4,contact4@supplierdemo.com,Columbus,OH,Canada
+5,Northstar Supply Co 5,contact5@supplierdemo.com,Columbus,OH,USA
+6,Vividly Supply Co 6,contact6@supplierdemo.com,Miami,FL,Canada
+7,CoreFlex Supply Co 7,contact7@supplierdemo.com,Denver,CO,USA
+8,SwiftPro Supply Co 8,contact8@supplierdemo.com,Charlotte,NC,Mexico
+9,SwiftPro Supply Co 9,contact9@supplierdemo.com,Fort Worth,TX,Mexico
+10,TerraWorks Supply Co 10,contact10@supplierdemo.com,Las Vegas,NV,USA
+11,NovaCraft Supply Co 11,contact11@supplierdemo.com,San Diego,CA,Canada
+12,Lumina Supply Co 12,contact12@supplierdemo.com,Boston,MA,USA
+13,EverPeak Supply Co 13,contact13@supplierdemo.com,Phoenix,AZ,USA
+14,EcoSphere Supply Co 14,contact14@supplierdemo.com,Phoenix,AZ,Canada
+15,EcoSphere Supply Co 15,contact15@supplierdemo.com,Washington,DC,USA
+16,UrbanEdge Supply Co 16,contact16@supplierdemo.com,Washington,DC,Mexico
+17,Vividly Supply Co 17,contact17@supplierdemo.com,Dallas,TX,Mexico
+18,Vividly Supply Co 18,contact18@supplierdemo.com,San Francisco,CA,Mexico
+19,CoreFlex Supply Co 19,contact19@supplierdemo.com,San Jose,CA,Mexico
+20,Purely Supply Co 20,contact20@supplierdemo.com,Charlotte,NC,USA
+21,SwiftPro Supply Co 21,contact21@supplierdemo.com,Seattle,WA,Canada
+22,UrbanEdge Supply Co 22,contact22@supplierdemo.com,Philadelphia,PA,Mexico
+23,NovaCraft Supply Co 23,contact23@supplierdemo.com,Nashville,TN,Mexico
+24,Apex Supply Co 24,contact24@supplierdemo.com,Austin,TX,Canada
+25,Purely Supply Co 25,contact25@supplierdemo.com,Charlotte,NC,USA
+26,Purely Supply Co 26,contact26@supplierdemo.com,San Francisco,CA,USA
+27,ZenHaus Supply Co 27,contact27@supplierdemo.com,Los Angeles,CA,Canada
+28,EcoSphere Supply Co 28,contact28@supplierdemo.com,Philadelphia,PA,Canada
+29,ZenHaus Supply Co 29,contact29@supplierdemo.com,San Diego,CA,Canada
+30,EverPeak Supply Co 30,contact30@supplierdemo.com,Seattle,WA,USA
+31,SwiftPro Supply Co 31,contact31@supplierdemo.com,Columbus,OH,Mexico
+32,Apex Supply Co 32,contact32@supplierdemo.com,Fort Worth,TX,Mexico
+33,SwiftPro Supply Co 33,contact33@supplierdemo.com,Denver,CO,USA
+34,CoreFlex Supply Co 34,contact34@supplierdemo.com,Seattle,WA,Mexico
+35,CoreFlex Supply Co 35,contact35@supplierdemo.com,Miami,FL,USA
+36,CoreFlex Supply Co 36,contact36@supplierdemo.com,Washington,DC,Canada
+37,Northstar Supply Co 37,contact37@supplierdemo.com,Las Vegas,NV,USA
+38,Purely Supply Co 38,contact38@supplierdemo.com,Denver,CO,USA
+39,TerraWorks Supply Co 39,contact39@supplierdemo.com,Miami,FL,Mexico
+40,BlueNest Supply Co 40,contact40@supplierdemo.com,Phoenix,AZ,Mexico
+41,Apex Supply Co 41,contact41@supplierdemo.com,Las Vegas,NV,USA
+42,Purely Supply Co 42,contact42@supplierdemo.com,Dallas,TX,USA
+43,Northstar Supply Co 43,contact43@supplierdemo.com,Denver,CO,Canada
+44,BrightPath Supply Co 44,contact44@supplierdemo.com,Washington,DC,USA
+45,UrbanEdge Supply Co 45,contact45@supplierdemo.com,San Jose,CA,Canada
+46,EverPeak Supply Co 46,contact46@supplierdemo.com,New York,NY,USA
+47,CoreFlex Supply Co 47,contact47@supplierdemo.com,Nashville,TN,Mexico
+48,Lumina Supply Co 48,contact48@supplierdemo.com,San Jose,CA,Canada
+49,EcoSphere Supply Co 49,contact49@supplierdemo.com,San Francisco,CA,Mexico
+50,EverPeak Supply Co 50,contact50@supplierdemo.com,Los Angeles,CA,Mexico
+51,Apex Supply Co 51,contact51@supplierdemo.com,Miami,FL,Canada
+52,Northstar Supply Co 52,contact52@supplierdemo.com,Boston,MA,USA
+53,EcoSphere Supply Co 53,contact53@supplierdemo.com,Phoenix,AZ,USA
+54,SwiftPro Supply Co 54,contact54@supplierdemo.com,Washington,DC,Canada
+55,SwiftPro Supply Co 55,contact55@supplierdemo.com,Chicago,IL,Mexico
+56,ZenHaus Supply Co 56,contact56@supplierdemo.com,San Antonio,TX,Canada
+57,Northstar Supply Co 57,contact57@supplierdemo.com,San Antonio,TX,Mexico
+58,BrightPath Supply Co 58,contact58@supplierdemo.com,San Jose,CA,Canada
+59,BrightPath Supply Co 59,contact59@supplierdemo.com,San Francisco,CA,USA
+60,Apex Supply Co 60,contact60@supplierdemo.com,Columbus,OH,Mexico
+61,BlueNest Supply Co 61,contact61@supplierdemo.com,Fort Worth,TX,USA
+62,Purely Supply Co 62,contact62@supplierdemo.com,San Francisco,CA,USA
+63,ZenHaus Supply Co 63,contact63@supplierdemo.com,Miami,FL,Mexico
+64,BrightPath Supply Co 64,contact64@supplierdemo.com,Austin,TX,USA
+65,Apex Supply Co 65,contact65@supplierdemo.com,Boston,MA,Mexico
+66,NovaCraft Supply Co 66,contact66@supplierdemo.com,Los Angeles,CA,Canada
+67,SwiftPro Supply Co 67,contact67@supplierdemo.com,Portland,OR,Canada
+68,CoreFlex Supply Co 68,contact68@supplierdemo.com,San Diego,CA,Canada
+69,EverPeak Supply Co 69,contact69@supplierdemo.com,San Jose,CA,Mexico
+70,TerraWorks Supply Co 70,contact70@supplierdemo.com,Chicago,IL,USA
+71,UrbanEdge Supply Co 71,contact71@supplierdemo.com,Denver,CO,Canada
+72,SwiftPro Supply Co 72,contact72@supplierdemo.com,Denver,CO,USA
+73,SwiftPro Supply Co 73,contact73@supplierdemo.com,Chicago,IL,Mexico
+74,Purely Supply Co 74,contact74@supplierdemo.com,Portland,OR,Canada
+75,Northstar Supply Co 75,contact75@supplierdemo.com,Jacksonville,FL,USA
+76,Northstar Supply Co 76,contact76@supplierdemo.com,Portland,OR,Mexico
+77,EverPeak Supply Co 77,contact77@supplierdemo.com,Chicago,IL,Canada
+78,ZenHaus Supply Co 78,contact78@supplierdemo.com,Denver,CO,Canada
+79,BrightPath Supply Co 79,contact79@supplierdemo.com,Philadelphia,PA,Mexico
+80,UrbanEdge Supply Co 80,contact80@supplierdemo.com,San Antonio,TX,Canada

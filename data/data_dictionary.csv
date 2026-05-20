@@ -1,0 +1,111 @@
+table_name,column_name,table_description
+customers,customer_id,Customer profile and acquisition data
+customers,first_name,Customer profile and acquisition data
+customers,last_name,Customer profile and acquisition data
+customers,email,Customer profile and acquisition data
+customers,acquisition_channel,Customer profile and acquisition data
+customers,customer_segment,Customer profile and acquisition data
+customers,city,Customer profile and acquisition data
+customers,state,Customer profile and acquisition data
+customers,signup_date,Customer profile and acquisition data
+customers,status,Customer profile and acquisition data
+addresses,address_id,Billing and shipping addresses
+addresses,customer_id,Billing and shipping addresses
+addresses,address_type,Billing and shipping addresses
+addresses,street_address,Billing and shipping addresses
+addresses,city,Billing and shipping addresses
+addresses,state,Billing and shipping addresses
+addresses,postal_code,Billing and shipping addresses
+addresses,country,Billing and shipping addresses
+addresses,is_default,Billing and shipping addresses
+categories,category_id,Product category lookup
+categories,category_name,Product category lookup
+categories,description,Product category lookup
+suppliers,supplier_id,Supplier lookup
+suppliers,supplier_name,Supplier lookup
+suppliers,contact_email,Supplier lookup
+suppliers,city,Supplier lookup
+suppliers,state,Supplier lookup
+suppliers,country,Supplier lookup
+products,product_id,Product catalog
+products,product_name,Product catalog
+products,category_id,Product catalog
+products,supplier_id,Product catalog
+products,brand,Product catalog
+products,unit_cost,Product catalog
+products,unit_price,Product catalog
+products,status,Product catalog
+products,created_date,Product catalog
+warehouses,warehouse_id,Fulfillment warehouse lookup
+warehouses,warehouse_name,Fulfillment warehouse lookup
+warehouses,city,Fulfillment warehouse lookup
+warehouses,state,Fulfillment warehouse lookup
+warehouses,capacity_units,Fulfillment warehouse lookup
+inventory,product_id,Product stock by warehouse
+inventory,warehouse_id,Product stock by warehouse
+inventory,quantity_on_hand,Product stock by warehouse
+inventory,reorder_level,Product stock by warehouse
+inventory,last_stock_check_date,Product stock by warehouse
+employees,employee_id,"Employees in support, sales, and operations"
+employees,first_name,"Employees in support, sales, and operations"
+employees,last_name,"Employees in support, sales, and operations"
+employees,department,"Employees in support, sales, and operations"
+employees,job_title,"Employees in support, sales, and operations"
+employees,warehouse_id,"Employees in support, sales, and operations"
+employees,hire_date,"Employees in support, sales, and operations"
+employees,status,"Employees in support, sales, and operations"
+orders,order_id,Order header facts
+orders,customer_id,Order header facts
+orders,order_datetime,Order header facts
+orders,order_status,Order header facts
+orders,sales_channel,Order header facts
+orders,subtotal,Order header facts
+orders,discount_amount,Order header facts
+orders,tax_amount,Order header facts
+orders,shipping_fee,Order header facts
+orders,total_amount,Order header facts
+orders,sales_rep_id,Order header facts
+order_items,order_item_id,Order line-item facts
+order_items,order_id,Order line-item facts
+order_items,product_id,Order line-item facts
+order_items,quantity,Order line-item facts
+order_items,unit_price,Order line-item facts
+order_items,discount_amount,Order line-item facts
+order_items,line_total,Order line-item facts
+payments,payment_id,Payment transactions
+payments,order_id,Payment transactions
+payments,payment_method,Payment transactions
+payments,payment_status,Payment transactions
+payments,amount,Payment transactions
+payments,payment_datetime,Payment transactions
+shipments,shipment_id,Shipment and delivery facts
+shipments,order_id,Shipment and delivery facts
+shipments,warehouse_id,Shipment and delivery facts
+shipments,shipping_method,Shipment and delivery facts
+shipments,carrier,Shipment and delivery facts
+shipments,shipped_datetime,Shipment and delivery facts
+shipments,delivered_datetime,Shipment and delivery facts
+shipments,shipment_status,Shipment and delivery facts
+reviews,review_id,Customer product reviews
+reviews,customer_id,Customer product reviews
+reviews,product_id,Customer product reviews
+reviews,order_id,Customer product reviews
+reviews,rating,Customer product reviews
+reviews,review_text,Customer product reviews
+reviews,review_date,Customer product reviews
+support_tickets,ticket_id,Customer support cases
+support_tickets,customer_id,Customer support cases
+support_tickets,order_id,Customer support cases
+support_tickets,topic,Customer support cases
+support_tickets,ticket_status,Customer support cases
+support_tickets,priority,Customer support cases
+support_tickets,opened_datetime,Customer support cases
+support_tickets,closed_datetime,Customer support cases
+support_tickets,assigned_employee_id,Customer support cases
+returns,return_id,Returned orders and refunds
+returns,order_id,Returned orders and refunds
+returns,customer_id,Returned orders and refunds
+returns,return_reason,Returned orders and refunds
+returns,return_status,Returned orders and refunds
+returns,refund_amount,Returned orders and refunds
+returns,return_date,Returned orders and refunds

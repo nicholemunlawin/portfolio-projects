@@ -1,0 +1,501 @@
+product_id,product_name,category_id,supplier_id,brand,unit_cost,unit_price,status,created_date
+1,NovaCraft Pet Bed 1,6,19,NovaCraft,161.45,266.30,active,2023-05-20
+2,Lumina Cookware Set 2,6,67,Lumina,188.59,419.56,active,2025-02-16
+3,CoreFlex Coffee Maker 3,9,25,CoreFlex,188.64,408.51,active,2024-03-21
+4,ZenHaus Running Shoes 4,6,79,ZenHaus,128.03,280.71,active,2025-09-16
+5,UrbanEdge Coffee Maker 5,5,1,UrbanEdge,145.08,279.46,active,2025-12-30
+6,TerraWorks Face Serum 6,11,37,TerraWorks,190.16,463.84,active,2024-07-20
+7,Purely Face Serum 7,3,28,Purely,63.65,104.78,active,2025-11-12
+8,SwiftPro Running Shoes 8,1,36,SwiftPro,10.21,16.55,active,2025-11-05
+9,EcoSphere Sunglasses 9,8,8,EcoSphere,65.17,158.06,active,2024-12-08
+10,EcoSphere Board Game 10,7,57,EcoSphere,50.28,76.25,active,2024-11-05
+11,BlueNest Desk Lamp 11,4,31,BlueNest,150.87,276.19,active,2024-03-20
+12,BrightPath Face Serum 12,2,40,BrightPath,62.53,137.84,active,2025-08-02
+13,SwiftPro Bluetooth Speaker 13,11,13,SwiftPro,183.64,503.90,active,2023-06-01
+14,BlueNest Sunglasses 14,4,38,BlueNest,48.54,131.52,active,2024-09-15
+15,SwiftPro Garden Hose 15,2,37,SwiftPro,177.14,428.75,active,2025-09-05
+16,EverPeak Garden Hose 16,10,28,EverPeak,98.13,221.05,active,2023-04-24
+17,BrightPath Desk Lamp 17,11,31,BrightPath,213.89,307.64,active,2025-08-12
+18,BlueNest Board Game 18,8,47,BlueNest,196.43,544.84,active,2025-06-28
+19,UrbanEdge Water Bottle 19,3,66,UrbanEdge,141.20,330.11,active,2025-09-30
+20,EverPeak Coffee Maker 20,7,10,EverPeak,7.13,9.28,active,2025-08-13
+21,Lumina Car Charger 21,1,10,Lumina,48.85,129.75,active,2025-04-18
+22,NovaCraft Garden Hose 22,6,23,NovaCraft,70.34,152.91,active,2023-06-19
+23,Lumina Office Chair 23,9,29,Lumina,77.12,181.47,active,2025-07-21
+24,EcoSphere Bluetooth Speaker 24,10,76,EcoSphere,88.74,215.91,active,2024-01-08
+25,UrbanEdge Mixer 25,2,44,UrbanEdge,103.43,262.05,discontinued,2023-03-31
+26,TerraWorks Desk Lamp 26,2,48,TerraWorks,211.11,335.67,active,2023-02-09
+27,BlueNest Headphones 27,8,33,BlueNest,122.88,227.97,active,2025-11-10
+28,TerraWorks Mixer 28,12,26,TerraWorks,219.77,332.98,active,2023-08-11
+29,BlueNest Smart Watch 29,9,33,BlueNest,154.18,211.16,active,2024-06-27
+30,Purely Bluetooth Speaker 30,9,5,Purely,126.31,159.68,active,2023-03-13
+31,EcoSphere Pet Bed 31,4,46,EcoSphere,134.86,253.60,active,2024-10-12
+32,BlueNest Smart Watch 32,1,42,BlueNest,58.57,133.08,active,2024-09-29
+33,ZenHaus Face Serum 33,9,11,ZenHaus,193.02,396.06,active,2025-11-07
+34,BrightPath Headphones 34,11,52,BrightPath,109.92,219.12,active,2025-05-02
+35,TerraWorks Office Chair 35,11,29,TerraWorks,217.62,419.00,active,2023-04-22
+36,Northstar Headphones 36,11,21,Northstar,86.98,135.10,active,2024-12-23
+37,BlueNest Face Serum 37,5,25,BlueNest,173.91,370.53,active,2025-12-18
+38,EverPeak Pet Bed 38,6,13,EverPeak,189.89,512.57,active,2023-11-16
+39,BlueNest Pet Bed 39,11,17,BlueNest,62.24,152.68,active,2024-05-09
+40,Apex Mixer 40,11,48,Apex,50.93,92.83,active,2025-10-18
+41,CoreFlex Pet Bed 41,11,67,CoreFlex,109.29,263.29,active,2024-08-31
+42,NovaCraft Running Shoes 42,5,73,NovaCraft,8.96,19.66,active,2023-02-02
+43,TerraWorks Running Shoes 43,7,54,TerraWorks,152.13,380.78,active,2024-01-02
+44,BrightPath Garden Hose 44,2,57,BrightPath,67.11,151.07,active,2025-10-22
+45,Purely Face Serum 45,5,38,Purely,9.84,25.34,active,2023-01-17
+46,Lumina Sunglasses 46,11,9,Lumina,154.15,360.00,active,2025-12-21
+47,SwiftPro Running Shoes 47,6,78,SwiftPro,130.35,297.84,active,2024-01-16
+48,Vividly Smart Watch 48,8,28,Vividly,110.60,231.70,active,2023-07-22
+49,UrbanEdge Board Game 49,8,33,UrbanEdge,76.27,105.18,active,2025-03-26
+50,SwiftPro Desk Lamp 50,12,68,SwiftPro,158.36,421.55,active,2025-09-26
+51,NovaCraft Car Charger 51,8,37,NovaCraft,217.80,335.66,active,2023-01-28
+52,UrbanEdge Face Serum 52,11,72,UrbanEdge,77.90,148.37,active,2025-05-30
+53,NovaCraft Office Chair 53,4,25,NovaCraft,92.51,184.46,active,2024-02-28
+54,BlueNest Desk Lamp 54,10,55,BlueNest,194.86,374.07,active,2025-02-22
+55,UrbanEdge Pet Bed 55,3,56,UrbanEdge,155.48,277.26,active,2024-08-23
+56,BrightPath Face Serum 56,11,26,BrightPath,161.43,249.99,active,2025-09-15
+57,SwiftPro Pet Bed 57,2,16,SwiftPro,214.60,392.51,active,2025-04-03
+58,Vividly Backpack 58,6,13,Vividly,100.83,199.87,active,2023-10-24
+59,Vividly Coffee Maker 59,4,22,Vividly,109.51,220.58,active,2025-05-18
+60,Purely Garden Hose 60,3,33,Purely,126.68,237.37,active,2024-01-26
+61,Lumina Backpack 61,9,43,Lumina,191.12,284.85,active,2024-01-08
+62,Lumina Car Charger 62,11,80,Lumina,33.41,59.70,active,2023-10-05
+63,BrightPath Cookware Set 63,4,17,BrightPath,198.67,531.56,active,2025-12-02
+64,NovaCraft Cookware Set 64,8,8,NovaCraft,146.18,259.15,active,2023-10-26
+65,Lumina Face Serum 65,6,23,Lumina,217.01,428.71,active,2023-01-04
+66,Vividly Board Game 66,7,5,Vividly,214.08,423.03,active,2023-04-24
+67,Northstar Desk Lamp 67,11,75,Northstar,159.93,249.67,active,2025-04-07
+68,SwiftPro Headphones 68,12,75,SwiftPro,139.50,338.66,active,2025-11-01
+69,Northstar Board Game 69,6,26,Northstar,79.03,149.57,active,2025-09-30
+70,BrightPath Backpack 70,7,58,BrightPath,207.59,403.01,active,2025-04-27
+71,Vividly Pet Bed 71,9,44,Vividly,31.75,82.16,active,2025-11-01
+72,UrbanEdge Smart Watch 72,2,9,UrbanEdge,96.36,269.48,active,2023-05-20
+73,Apex Smart Watch 73,12,52,Apex,154.73,381.94,discontinued,2025-12-04
+74,CoreFlex Notebook 74,7,28,CoreFlex,6.91,18.63,active,2024-03-30
+75,Apex Mixer 75,5,27,Apex,10.29,25.99,active,2025-05-19
+76,EcoSphere Mixer 76,2,51,EcoSphere,36.29,80.61,active,2025-11-19
+77,BlueNest Bluetooth Speaker 77,7,62,BlueNest,111.49,270.12,active,2024-11-02
+78,TerraWorks Face Serum 78,3,50,TerraWorks,112.75,201.21,active,2024-12-03
+79,EcoSphere Car Charger 79,12,56,EcoSphere,14.76,20.29,discontinued,2023-12-06
+80,BrightPath Smart Watch 80,3,4,BrightPath,173.26,313.35,active,2025-09-09
+81,ZenHaus Pet Bed 81,8,57,ZenHaus,4.96,11.66,active,2023-03-23
+82,Apex Running Shoes 82,8,58,Apex,100.82,231.91,active,2024-07-20
+83,Northstar Smart Watch 83,12,38,Northstar,22.49,36.92,discontinued,2025-04-17
+84,CoreFlex Desk Lamp 84,3,67,CoreFlex,207.31,538.51,active,2024-10-08
+85,BrightPath Desk Lamp 85,11,1,BrightPath,57.37,126.61,active,2023-03-10
+86,Lumina Desk Lamp 86,4,30,Lumina,27.50,57.25,active,2023-12-12
+87,BrightPath Bluetooth Speaker 87,3,60,BrightPath,96.31,193.42,active,2025-12-22
+88,Northstar Garden Hose 88,9,12,Northstar,29.75,79.02,discontinued,2025-06-29
+89,Apex Office Chair 89,9,45,Apex,205.58,342.67,active,2025-11-04
+90,Northstar Running Shoes 90,9,30,Northstar,138.84,366.46,active,2025-06-13
+91,BrightPath Headphones 91,2,33,BrightPath,146.01,234.07,active,2025-02-26
+92,EcoSphere Smart Watch 92,8,11,EcoSphere,55.99,80.95,active,2025-03-01
+93,BrightPath Sunglasses 93,11,44,BrightPath,159.22,335.30,active,2024-12-31
+94,Apex Notebook 94,2,3,Apex,11.72,18.90,active,2025-12-10
+95,Purely Mixer 95,3,67,Purely,165.78,316.18,active,2024-09-05
+96,SwiftPro Desk Lamp 96,5,44,SwiftPro,103.64,218.94,active,2025-03-24
+97,BrightPath Water Bottle 97,5,45,BrightPath,133.76,218.64,active,2023-11-14
+98,Apex Board Game 98,12,15,Apex,160.30,396.79,active,2025-02-11
+99,Purely Smart Watch 99,5,74,Purely,14.59,27.85,active,2024-06-12
+100,NovaCraft Car Charger 100,4,18,NovaCraft,5.73,10.98,discontinued,2024-04-20
+101,SwiftPro Coffee Maker 101,1,31,SwiftPro,209.15,325.57,active,2023-07-14
+102,SwiftPro Mixer 102,12,17,SwiftPro,18.60,47.27,active,2025-09-20
+103,EverPeak Car Charger 103,4,53,EverPeak,16.95,39.32,active,2025-01-19
+104,UrbanEdge Notebook 104,10,7,UrbanEdge,177.38,222.40,discontinued,2024-03-26
+105,CoreFlex Backpack 105,7,44,CoreFlex,194.49,484.35,discontinued,2024-05-08
+106,BrightPath Water Bottle 106,7,19,BrightPath,55.96,95.56,active,2023-04-25
+107,Northstar Smart Watch 107,12,46,Northstar,140.89,231.36,active,2025-09-23
+108,TerraWorks Backpack 108,9,65,TerraWorks,43.04,109.49,active,2025-04-03
+109,Northstar Bluetooth Speaker 109,10,35,Northstar,216.16,577.76,active,2024-12-25
+110,Apex Yoga Mat 110,5,38,Apex,100.44,269.71,active,2025-12-21
+111,Apex Desk Lamp 111,2,21,Apex,173.38,468.02,active,2024-07-25
+112,Lumina Mixer 112,10,74,Lumina,218.27,354.94,active,2023-01-31
+113,EcoSphere Car Charger 113,11,53,EcoSphere,81.06,148.39,discontinued,2024-01-31
+114,UrbanEdge Smart Watch 114,4,7,UrbanEdge,205.51,286.34,active,2023-10-10
+115,Northstar Sunglasses 115,2,67,Northstar,191.35,450.73,active,2023-02-23
+116,Vividly Headphones 116,3,4,Vividly,205.06,335.03,active,2025-09-25
+117,EcoSphere Bluetooth Speaker 117,12,12,EcoSphere,155.95,382.11,discontinued,2023-05-25
+118,BlueNest Car Charger 118,8,70,BlueNest,171.97,272.10,active,2024-02-24
+119,BrightPath Travel Mug 119,10,60,BrightPath,23.15,63.78,active,2025-01-02
+120,NovaCraft Board Game 120,4,36,NovaCraft,87.35,118.53,active,2025-07-28
+121,Purely Face Serum 121,6,73,Purely,82.77,131.84,discontinued,2024-01-06
+122,Northstar Running Shoes 122,7,38,Northstar,27.96,43.20,active,2023-03-03
+123,EverPeak Sunglasses 123,3,41,EverPeak,212.49,482.21,active,2024-11-20
+124,TerraWorks Backpack 124,2,30,TerraWorks,109.92,248.69,active,2023-07-05
+125,Northstar Yoga Mat 125,3,57,Northstar,139.98,260.71,active,2024-06-29
+126,UrbanEdge Sunglasses 126,3,38,UrbanEdge,10.73,18.28,active,2024-01-27
+127,BrightPath Headphones 127,11,44,BrightPath,147.97,308.02,active,2023-06-07
+128,Purely Pet Bed 128,12,44,Purely,50.05,111.42,discontinued,2023-03-05
+129,BrightPath Travel Mug 129,10,36,BrightPath,175.14,410.82,active,2024-12-01
+130,ZenHaus Face Serum 130,5,12,ZenHaus,191.07,381.30,active,2023-12-24
+131,BrightPath Yoga Mat 131,2,64,BrightPath,46.77,110.86,active,2025-07-22
+132,EverPeak Office Chair 132,5,49,EverPeak,189.72,442.88,active,2024-12-26
+133,EcoSphere Garden Hose 133,2,69,EcoSphere,210.28,480.67,active,2025-07-15
+134,UrbanEdge Notebook 134,11,28,UrbanEdge,58.14,103.68,active,2025-01-11
+135,Lumina Desk Lamp 135,7,44,Lumina,82.92,226.97,active,2024-03-04
+136,Apex Board Game 136,9,71,Apex,27.87,62.78,active,2024-05-12
+137,NovaCraft Board Game 137,7,30,NovaCraft,204.69,345.20,active,2025-02-02
+138,ZenHaus Pet Bed 138,10,44,ZenHaus,141.40,309.61,active,2025-08-09
+139,EcoSphere Cookware Set 139,5,16,EcoSphere,14.86,37.54,active,2025-05-04
+140,Northstar Backpack 140,3,59,Northstar,44.11,77.75,active,2025-11-02
+141,BrightPath Garden Hose 141,4,53,BrightPath,167.87,468.41,active,2024-02-13
+142,Northstar Backpack 142,2,14,Northstar,156.43,229.13,active,2024-10-31
+143,NovaCraft Travel Mug 143,11,40,NovaCraft,42.17,72.87,active,2024-03-04
+144,EcoSphere Travel Mug 144,12,56,EcoSphere,167.80,238.89,active,2025-08-10
+145,Purely Mixer 145,9,23,Purely,208.91,561.07,active,2024-02-01
+146,Purely Coffee Maker 146,6,36,Purely,150.27,218.22,active,2025-08-06
+147,BrightPath Desk Lamp 147,8,65,BrightPath,202.66,300.86,active,2024-02-25
+148,Lumina Desk Lamp 148,5,31,Lumina,53.82,125.68,active,2023-08-05
+149,NovaCraft Sunglasses 149,9,22,NovaCraft,207.37,336.19,active,2025-09-14
+150,Apex Yoga Mat 150,3,1,Apex,24.57,33.43,active,2025-11-16
+151,ZenHaus Cookware Set 151,12,80,ZenHaus,57.96,98.13,active,2024-02-04
+152,BrightPath Smart Watch 152,2,16,BrightPath,169.85,378.63,active,2023-08-25
+153,Lumina Board Game 153,5,11,Lumina,192.74,407.66,active,2024-03-22
+154,EcoSphere Car Charger 154,3,14,EcoSphere,56.23,116.84,active,2025-02-26
+155,Vividly Face Serum 155,11,65,Vividly,145.90,319.62,active,2023-12-19
+156,EverPeak Water Bottle 156,10,80,EverPeak,155.86,319.26,active,2024-10-26
+157,TerraWorks Water Bottle 157,1,24,TerraWorks,203.21,481.95,active,2024-08-13
+158,NovaCraft Travel Mug 158,6,25,NovaCraft,65.61,171.61,active,2023-12-24
+159,Apex Pet Bed 159,6,31,Apex,40.15,52.62,active,2023-11-28
+160,BlueNest Pet Bed 160,6,38,BlueNest,170.99,279.44,active,2023-09-27
+161,EverPeak Backpack 161,9,54,EverPeak,171.27,415.93,active,2023-12-30
+162,ZenHaus Running Shoes 162,4,27,ZenHaus,155.84,301.75,active,2023-02-01
+163,EverPeak Yoga Mat 163,4,42,EverPeak,216.46,301.41,active,2024-11-28
+164,UrbanEdge Headphones 164,3,49,UrbanEdge,177.52,337.63,active,2023-01-16
+165,UrbanEdge Face Serum 165,12,69,UrbanEdge,213.82,301.06,active,2025-01-25
+166,SwiftPro Water Bottle 166,7,73,SwiftPro,29.53,50.10,active,2025-06-20
+167,EverPeak Mixer 167,4,10,EverPeak,185.71,446.06,active,2023-12-02
+168,NovaCraft Smart Watch 168,12,66,NovaCraft,99.73,246.26,active,2024-05-20
+169,SwiftPro Headphones 169,2,69,SwiftPro,111.87,287.02,active,2025-04-23
+170,Lumina Smart Watch 170,9,72,Lumina,173.63,381.62,active,2025-04-12
+171,SwiftPro Travel Mug 171,8,51,SwiftPro,180.51,432.44,active,2025-09-16
+172,Vividly Headphones 172,12,73,Vividly,129.33,217.83,active,2024-01-14
+173,SwiftPro Backpack 173,2,74,SwiftPro,18.68,47.40,active,2023-11-21
+174,EcoSphere Desk Lamp 174,10,31,EcoSphere,60.24,125.36,active,2024-08-27
+175,SwiftPro Water Bottle 175,3,58,SwiftPro,116.96,303.90,active,2025-03-21
+176,NovaCraft Running Shoes 176,5,23,NovaCraft,77.32,192.57,active,2025-07-09
+177,UrbanEdge Headphones 177,3,8,UrbanEdge,118.01,289.59,active,2023-01-19
+178,Apex Smart Watch 178,9,24,Apex,176.70,350.46,active,2024-02-29
+179,BlueNest Pet Bed 179,12,33,BlueNest,199.87,341.85,active,2024-09-12
+180,TerraWorks Notebook 180,7,7,TerraWorks,170.41,302.81,active,2023-01-21
+181,CoreFlex Running Shoes 181,6,62,CoreFlex,11.43,28.73,active,2024-09-07
+182,EcoSphere Board Game 182,8,57,EcoSphere,107.84,255.54,active,2024-07-29
+183,TerraWorks Headphones 183,1,40,TerraWorks,69.44,100.17,active,2023-04-26
+184,SwiftPro Pet Bed 184,4,56,SwiftPro,162.38,410.30,active,2023-05-10
+185,BlueNest Garden Hose 185,12,73,BlueNest,6.07,13.63,active,2024-09-10
+186,Purely Coffee Maker 186,2,63,Purely,129.31,214.55,active,2023-02-23
+187,Northstar Notebook 187,3,42,Northstar,103.27,139.62,active,2023-01-30
+188,ZenHaus Pet Bed 188,12,77,ZenHaus,53.09,91.12,active,2025-06-25
+189,CoreFlex Face Serum 189,2,66,CoreFlex,198.07,284.81,active,2025-03-16
+190,Purely Yoga Mat 190,11,45,Purely,21.64,52.74,active,2025-08-10
+191,NovaCraft Yoga Mat 191,7,66,NovaCraft,99.07,212.89,active,2025-02-10
+192,BlueNest Headphones 192,10,76,BlueNest,5.21,8.49,active,2024-05-25
+193,SwiftPro Coffee Maker 193,1,39,SwiftPro,36.72,98.54,active,2024-05-30
+194,ZenHaus Garden Hose 194,3,80,ZenHaus,98.15,148.03,active,2024-09-01
+195,BlueNest Board Game 195,1,53,BlueNest,67.75,141.53,active,2024-03-02
+196,UrbanEdge Office Chair 196,4,4,UrbanEdge,62.94,111.33,active,2025-11-15
+197,EcoSphere Bluetooth Speaker 197,10,65,EcoSphere,212.13,573.58,active,2024-04-20
+198,Vividly Travel Mug 198,1,21,Vividly,34.56,59.36,active,2025-03-30
+199,ZenHaus Desk Lamp 199,1,42,ZenHaus,181.65,311.45,active,2024-04-07
+200,ZenHaus Garden Hose 200,5,37,ZenHaus,178.79,435.09,active,2023-05-30
+201,EcoSphere Backpack 201,9,62,EcoSphere,200.20,285.93,active,2023-02-19
+202,ZenHaus Backpack 202,11,23,ZenHaus,169.78,410.27,active,2023-11-10
+203,ZenHaus Pet Bed 203,9,35,ZenHaus,179.65,436.02,discontinued,2023-04-03
+204,Apex Bluetooth Speaker 204,5,17,Apex,117.52,216.59,active,2023-03-03
+205,Northstar Headphones 205,3,14,Northstar,93.29,187.79,active,2023-10-26
+206,EcoSphere Office Chair 206,12,10,EcoSphere,110.51,262.52,discontinued,2024-03-05
+207,UrbanEdge Smart Watch 207,7,74,UrbanEdge,95.55,249.69,active,2023-06-12
+208,EcoSphere Sunglasses 208,11,16,EcoSphere,80.47,166.61,active,2024-06-19
+209,TerraWorks Face Serum 209,8,58,TerraWorks,98.77,131.45,active,2023-07-07
+210,Apex Car Charger 210,2,25,Apex,219.69,415.80,active,2024-01-11
+211,EverPeak Travel Mug 211,6,45,EverPeak,62.04,151.99,active,2024-02-09
+212,Lumina Sunglasses 212,6,66,Lumina,33.16,50.86,active,2024-11-20
+213,Apex Smart Watch 213,3,60,Apex,163.86,213.65,active,2024-07-25
+214,Vividly Desk Lamp 214,9,33,Vividly,204.59,424.83,active,2025-12-23
+215,BlueNest Car Charger 215,12,33,BlueNest,199.62,368.85,active,2024-03-28
+216,SwiftPro Desk Lamp 216,10,21,SwiftPro,158.20,389.92,active,2025-02-15
+217,EcoSphere Car Charger 217,4,58,EcoSphere,65.82,104.65,active,2023-11-06
+218,SwiftPro Desk Lamp 218,8,55,SwiftPro,128.56,257.96,active,2023-12-02
+219,NovaCraft Car Charger 219,10,36,NovaCraft,105.61,266.03,discontinued,2025-05-31
+220,ZenHaus Sunglasses 220,7,43,ZenHaus,137.56,291.99,active,2025-08-18
+221,BlueNest Garden Hose 221,11,43,BlueNest,5.08,8.08,active,2023-02-18
+222,UrbanEdge Backpack 222,4,21,UrbanEdge,114.39,252.19,active,2023-03-07
+223,ZenHaus Coffee Maker 223,11,61,ZenHaus,109.97,261.63,active,2025-04-20
+224,BrightPath Backpack 224,6,65,BrightPath,140.84,345.38,active,2023-05-28
+225,BlueNest Running Shoes 225,6,21,BlueNest,147.02,230.03,active,2025-12-18
+226,EverPeak Sunglasses 226,11,18,EverPeak,44.08,109.09,active,2023-02-12
+227,Apex Running Shoes 227,5,15,Apex,52.31,105.41,active,2025-03-02
+228,UrbanEdge Garden Hose 228,8,13,UrbanEdge,29.45,37.31,active,2024-10-30
+229,BlueNest Bluetooth Speaker 229,1,51,BlueNest,145.42,229.17,active,2025-09-16
+230,NovaCraft Yoga Mat 230,12,41,NovaCraft,152.00,329.63,active,2025-07-12
+231,UrbanEdge Notebook 231,3,24,UrbanEdge,54.00,69.07,active,2023-08-24
+232,EverPeak Backpack 232,12,7,EverPeak,152.48,223.07,active,2025-07-13
+233,EcoSphere Office Chair 233,7,51,EcoSphere,17.00,37.02,active,2025-03-13
+234,Northstar Mixer 234,8,9,Northstar,143.53,265.83,active,2025-01-19
+235,TerraWorks Running Shoes 235,6,50,TerraWorks,120.37,165.85,active,2023-12-18
+236,BrightPath Mixer 236,11,60,BrightPath,139.16,264.82,active,2025-08-21
+237,BrightPath Cookware Set 237,11,40,BrightPath,41.64,59.04,active,2024-12-29
+238,Apex Yoga Mat 238,3,3,Apex,218.75,301.39,discontinued,2023-09-02
+239,Northstar Desk Lamp 239,9,68,Northstar,131.43,246.53,active,2023-09-26
+240,CoreFlex Cookware Set 240,4,12,CoreFlex,120.97,263.65,active,2024-05-07
+241,CoreFlex Face Serum 241,5,48,CoreFlex,198.53,520.53,active,2025-06-02
+242,BlueNest Yoga Mat 242,9,41,BlueNest,10.14,27.35,active,2024-08-12
+243,UrbanEdge Face Serum 243,6,16,UrbanEdge,39.67,83.00,active,2023-10-14
+244,UrbanEdge Mixer 244,7,77,UrbanEdge,26.33,43.50,active,2024-04-05
+245,UrbanEdge Travel Mug 245,1,20,UrbanEdge,214.17,500.63,active,2024-06-30
+246,SwiftPro Car Charger 246,2,64,SwiftPro,27.08,46.89,active,2023-04-09
+247,UrbanEdge Running Shoes 247,9,30,UrbanEdge,216.28,385.04,active,2024-02-10
+248,Purely Desk Lamp 248,4,26,Purely,41.19,110.65,active,2024-12-29
+249,Northstar Water Bottle 249,3,5,Northstar,137.89,327.19,active,2023-09-13
+250,Lumina Face Serum 250,11,33,Lumina,32.37,43.81,active,2023-03-28
+251,UrbanEdge Backpack 251,4,62,UrbanEdge,28.73,61.03,active,2023-12-10
+252,CoreFlex Headphones 252,8,17,CoreFlex,219.45,307.37,active,2024-06-20
+253,Apex Mixer 253,1,43,Apex,13.17,28.53,active,2024-04-10
+254,ZenHaus Garden Hose 254,10,41,ZenHaus,178.69,406.26,active,2024-04-06
+255,CoreFlex Yoga Mat 255,9,61,CoreFlex,103.15,210.04,active,2023-10-11
+256,Vividly Backpack 256,7,47,Vividly,110.83,305.73,active,2025-12-25
+257,Purely Board Game 257,5,9,Purely,193.74,396.51,active,2025-02-01
+258,UrbanEdge Cookware Set 258,12,26,UrbanEdge,72.67,196.33,active,2023-05-29
+259,Lumina Desk Lamp 259,9,58,Lumina,114.30,254.83,active,2023-11-13
+260,CoreFlex Car Charger 260,9,22,CoreFlex,54.30,141.78,active,2024-01-09
+261,Lumina Smart Watch 261,10,24,Lumina,126.77,324.83,active,2024-08-08
+262,NovaCraft Mixer 262,1,55,NovaCraft,6.19,8.40,active,2024-01-06
+263,ZenHaus Garden Hose 263,10,29,ZenHaus,64.08,178.96,active,2024-03-20
+264,Vividly Bluetooth Speaker 264,3,25,Vividly,127.29,189.77,active,2024-11-23
+265,EcoSphere Coffee Maker 265,6,11,EcoSphere,113.56,160.42,active,2025-04-16
+266,BlueNest Running Shoes 266,8,44,BlueNest,80.92,149.04,active,2025-05-19
+267,Vividly Yoga Mat 267,5,40,Vividly,78.30,161.98,active,2025-09-23
+268,ZenHaus Pet Bed 268,6,58,ZenHaus,25.87,38.06,active,2023-10-19
+269,Apex Board Game 269,9,24,Apex,130.91,253.17,active,2023-10-28
+270,BlueNest Headphones 270,2,70,BlueNest,132.71,175.25,active,2023-05-13
+271,TerraWorks Office Chair 271,3,74,TerraWorks,155.76,210.34,active,2025-10-11
+272,EcoSphere Car Charger 272,10,62,EcoSphere,97.19,197.11,active,2024-01-02
+273,EcoSphere Desk Lamp 273,2,52,EcoSphere,64.18,92.87,active,2024-09-03
+274,NovaCraft Cookware Set 274,9,78,NovaCraft,194.20,329.39,active,2023-12-26
+275,Northstar Smart Watch 275,7,7,Northstar,163.54,408.46,active,2023-10-28
+276,CoreFlex Water Bottle 276,10,60,CoreFlex,144.84,303.33,active,2024-02-21
+277,BrightPath Office Chair 277,3,52,BrightPath,25.38,70.97,active,2024-03-25
+278,Northstar Backpack 278,9,54,Northstar,157.15,290.03,active,2024-10-16
+279,EcoSphere Face Serum 279,5,41,EcoSphere,97.40,267.40,active,2025-08-20
+280,BlueNest Smart Watch 280,2,25,BlueNest,64.91,171.53,active,2024-07-28
+281,BrightPath Sunglasses 281,10,11,BrightPath,100.91,166.17,active,2024-07-04
+282,EverPeak Pet Bed 282,7,21,EverPeak,207.13,331.89,active,2024-12-02
+283,Lumina Mixer 283,5,1,Lumina,212.98,428.16,active,2025-09-24
+284,Purely Face Serum 284,9,74,Purely,147.37,359.22,active,2025-03-03
+285,Purely Office Chair 285,6,9,Purely,36.03,54.23,active,2023-04-01
+286,Purely Car Charger 286,9,49,Purely,174.45,428.44,active,2024-09-18
+287,UrbanEdge Sunglasses 287,7,75,UrbanEdge,154.51,370.92,active,2023-03-27
+288,Northstar Face Serum 288,12,22,Northstar,86.56,146.58,discontinued,2024-05-29
+289,EcoSphere Running Shoes 289,4,49,EcoSphere,3.58,7.64,active,2025-12-11
+290,ZenHaus Cookware Set 290,6,77,ZenHaus,36.15,74.62,active,2023-05-18
+291,Purely Backpack 291,5,52,Purely,189.23,254.13,active,2024-11-22
+292,UrbanEdge Face Serum 292,5,53,UrbanEdge,169.09,274.67,active,2024-06-30
+293,EcoSphere Bluetooth Speaker 293,3,8,EcoSphere,25.04,49.29,active,2023-08-07
+294,NovaCraft Water Bottle 294,4,28,NovaCraft,40.91,106.00,active,2023-03-11
+295,EverPeak Office Chair 295,6,57,EverPeak,122.83,277.28,active,2024-07-21
+296,BlueNest Backpack 296,7,68,BlueNest,119.32,324.20,active,2025-12-07
+297,EverPeak Coffee Maker 297,7,55,EverPeak,114.57,172.52,active,2025-06-20
+298,NovaCraft Board Game 298,12,45,NovaCraft,105.26,139.88,active,2024-08-26
+299,EcoSphere Face Serum 299,2,59,EcoSphere,181.04,454.83,active,2025-05-13
+300,UrbanEdge Smart Watch 300,12,38,UrbanEdge,180.58,471.83,active,2024-10-19
+301,NovaCraft Office Chair 301,10,41,NovaCraft,13.39,21.71,active,2025-01-02
+302,BlueNest Headphones 302,7,20,BlueNest,161.89,409.76,active,2025-10-06
+303,UrbanEdge Notebook 303,11,29,UrbanEdge,197.19,418.51,active,2025-08-31
+304,UrbanEdge Yoga Mat 304,11,11,UrbanEdge,185.89,412.37,active,2025-09-02
+305,TerraWorks Smart Watch 305,5,46,TerraWorks,134.60,301.32,active,2024-09-22
+306,ZenHaus Mixer 306,8,70,ZenHaus,92.87,210.74,active,2023-11-25
+307,CoreFlex Mixer 307,9,79,CoreFlex,167.29,315.44,active,2023-02-22
+308,Northstar Sunglasses 308,7,13,Northstar,72.75,98.84,active,2024-06-21
+309,Apex Coffee Maker 309,6,1,Apex,145.31,391.89,active,2024-07-21
+310,UrbanEdge Smart Watch 310,4,44,UrbanEdge,119.88,321.32,active,2023-09-19
+311,NovaCraft Board Game 311,3,21,NovaCraft,114.69,264.41,active,2024-10-03
+312,BrightPath Mixer 312,1,9,BrightPath,143.28,390.57,active,2023-02-28
+313,UrbanEdge Coffee Maker 313,6,9,UrbanEdge,93.36,201.96,active,2024-12-25
+314,BrightPath Car Charger 314,1,23,BrightPath,188.13,314.52,active,2025-07-27
+315,Vividly Smart Watch 315,9,32,Vividly,40.72,82.03,active,2025-09-19
+316,CoreFlex Pet Bed 316,7,23,CoreFlex,186.47,279.94,active,2024-08-17
+317,Apex Board Game 317,8,60,Apex,145.79,317.26,active,2023-08-30
+318,Vividly Travel Mug 318,6,28,Vividly,185.15,299.96,active,2025-01-27
+319,Lumina Backpack 319,4,69,Lumina,113.56,271.81,active,2023-08-09
+320,BrightPath Car Charger 320,4,59,BrightPath,126.66,193.50,active,2025-08-05
+321,Apex Desk Lamp 321,1,72,Apex,148.14,259.73,active,2024-01-07
+322,Apex Notebook 322,11,67,Apex,93.72,225.80,active,2023-10-12
+323,Vividly Yoga Mat 323,1,13,Vividly,110.18,293.51,active,2024-11-26
+324,ZenHaus Car Charger 324,5,36,ZenHaus,143.71,233.46,active,2025-04-21
+325,TerraWorks Board Game 325,6,65,TerraWorks,12.81,19.72,active,2025-05-07
+326,UrbanEdge Board Game 326,1,18,UrbanEdge,216.67,569.90,active,2025-12-28
+327,Northstar Cookware Set 327,4,22,Northstar,69.11,112.69,active,2023-06-18
+328,CoreFlex Board Game 328,2,4,CoreFlex,88.96,137.31,active,2025-03-12
+329,BrightPath Smart Watch 329,4,37,BrightPath,119.76,290.60,active,2023-09-10
+330,Vividly Car Charger 330,10,34,Vividly,34.95,49.43,active,2024-02-19
+331,NovaCraft Yoga Mat 331,6,38,NovaCraft,66.97,150.63,active,2023-08-18
+332,Apex Notebook 332,1,16,Apex,81.05,146.68,active,2023-05-03
+333,TerraWorks Sunglasses 333,9,23,TerraWorks,128.08,206.27,active,2024-09-10
+334,Northstar Headphones 334,9,43,Northstar,103.00,284.77,active,2025-02-18
+335,BrightPath Yoga Mat 335,6,36,BrightPath,204.99,449.86,active,2024-12-09
+336,BlueNest Mixer 336,1,1,BlueNest,137.50,345.29,active,2023-12-26
+337,UrbanEdge Office Chair 337,6,38,UrbanEdge,95.37,167.64,active,2024-05-10
+338,Purely Pet Bed 338,3,76,Purely,83.51,146.78,discontinued,2023-10-25
+339,EcoSphere Notebook 339,5,78,EcoSphere,93.24,131.60,active,2024-07-03
+340,NovaCraft Backpack 340,4,29,NovaCraft,95.51,248.85,active,2023-01-09
+341,ZenHaus Backpack 341,3,43,ZenHaus,48.14,104.19,active,2024-01-17
+342,BlueNest Car Charger 342,1,23,BlueNest,184.05,366.10,active,2024-10-02
+343,SwiftPro Headphones 343,4,75,SwiftPro,131.28,234.24,active,2023-07-30
+344,Northstar Smart Watch 344,10,6,Northstar,43.11,68.12,active,2023-11-28
+345,Vividly Board Game 345,1,27,Vividly,109.76,203.76,active,2025-10-09
+346,BlueNest Coffee Maker 346,3,69,BlueNest,196.11,394.15,active,2023-10-17
+347,BlueNest Sunglasses 347,3,59,BlueNest,93.33,166.95,active,2023-03-11
+348,CoreFlex Mixer 348,2,77,CoreFlex,85.74,198.98,active,2023-10-11
+349,EcoSphere Pet Bed 349,1,27,EcoSphere,106.69,273.48,active,2024-02-22
+350,CoreFlex Smart Watch 350,3,12,CoreFlex,171.21,271.75,active,2023-08-27
+351,BlueNest Travel Mug 351,8,22,BlueNest,146.45,265.21,active,2024-04-24
+352,NovaCraft Running Shoes 352,2,51,NovaCraft,78.07,198.34,active,2025-11-18
+353,BrightPath Car Charger 353,2,57,BrightPath,112.27,147.78,active,2024-10-26
+354,Vividly Yoga Mat 354,12,47,Vividly,98.17,140.91,active,2025-06-29
+355,NovaCraft Smart Watch 355,6,14,NovaCraft,20.59,25.86,active,2023-08-02
+356,Lumina Desk Lamp 356,1,3,Lumina,48.58,86.45,active,2025-09-04
+357,ZenHaus Yoga Mat 357,5,47,ZenHaus,90.25,251.24,active,2025-01-06
+358,CoreFlex Bluetooth Speaker 358,8,51,CoreFlex,112.63,199.85,active,2025-04-26
+359,Vividly Car Charger 359,11,15,Vividly,160.55,337.02,active,2024-11-07
+360,Northstar Board Game 360,3,67,Northstar,68.81,178.93,active,2025-09-10
+361,SwiftPro Desk Lamp 361,7,4,SwiftPro,180.50,498.73,active,2024-05-24
+362,EcoSphere Desk Lamp 362,3,23,EcoSphere,107.93,145.65,active,2024-08-07
+363,BlueNest Coffee Maker 363,12,3,BlueNest,130.70,230.71,active,2023-07-23
+364,SwiftPro Face Serum 364,8,72,SwiftPro,168.30,450.02,discontinued,2023-02-03
+365,EcoSphere Bluetooth Speaker 365,6,1,EcoSphere,198.04,336.92,active,2024-12-05
+366,Vividly Pet Bed 366,2,3,Vividly,213.84,304.94,active,2023-04-03
+367,BlueNest Board Game 367,10,30,BlueNest,92.42,253.89,active,2023-01-25
+368,EcoSphere Bluetooth Speaker 368,10,22,EcoSphere,147.76,208.96,active,2023-12-27
+369,BlueNest Face Serum 369,3,67,BlueNest,102.51,128.45,active,2025-06-09
+370,EcoSphere Running Shoes 370,8,3,EcoSphere,17.31,35.46,active,2025-07-12
+371,Purely Headphones 371,1,5,Purely,131.02,299.07,active,2024-01-27
+372,EverPeak Car Charger 372,12,46,EverPeak,217.60,434.43,active,2023-03-02
+373,SwiftPro Garden Hose 373,2,18,SwiftPro,205.90,495.26,active,2024-02-21
+374,Apex Headphones 374,9,4,Apex,132.53,239.72,active,2025-01-22
+375,Vividly Car Charger 375,2,73,Vividly,184.35,498.52,active,2024-05-22
+376,Apex Water Bottle 376,1,3,Apex,8.74,16.37,active,2024-07-20
+377,EverPeak Notebook 377,9,32,EverPeak,136.14,328.40,active,2025-08-24
+378,EcoSphere Pet Bed 378,5,1,EcoSphere,5.81,8.94,active,2025-08-09
+379,BlueNest Coffee Maker 379,4,3,BlueNest,5.53,11.48,active,2024-09-30
+380,EverPeak Running Shoes 380,11,44,EverPeak,94.76,133.11,active,2024-05-26
+381,Vividly Coffee Maker 381,1,40,Vividly,12.62,34.80,active,2025-10-25
+382,Purely Headphones 382,4,67,Purely,26.82,56.12,active,2024-03-05
+383,EcoSphere Cookware Set 383,2,7,EcoSphere,195.15,474.15,active,2023-09-19
+384,CoreFlex Office Chair 384,6,59,CoreFlex,196.10,320.35,active,2024-07-30
+385,Lumina Board Game 385,10,17,Lumina,79.05,124.48,active,2023-11-21
+386,BlueNest Smart Watch 386,3,7,BlueNest,192.27,424.76,active,2023-06-29
+387,Lumina Travel Mug 387,9,49,Lumina,16.22,43.49,active,2023-07-18
+388,Northstar Travel Mug 388,7,59,Northstar,10.39,14.96,active,2025-12-23
+389,EverPeak Sunglasses 389,10,72,EverPeak,196.44,438.57,active,2025-10-13
+390,Northstar Backpack 390,9,38,Northstar,80.42,156.46,active,2023-12-11
+391,Apex Garden Hose 391,12,58,Apex,180.07,336.17,active,2024-08-02
+392,NovaCraft Face Serum 392,3,29,NovaCraft,118.68,327.46,active,2023-04-28
+393,SwiftPro Running Shoes 393,12,26,SwiftPro,111.54,287.60,active,2025-12-14
+394,BrightPath Backpack 394,9,17,BrightPath,11.47,19.22,active,2023-12-31
+395,CoreFlex Cookware Set 395,9,35,CoreFlex,218.39,380.40,active,2023-05-23
+396,Purely Travel Mug 396,12,57,Purely,142.47,208.28,active,2023-07-18
+397,NovaCraft Backpack 397,6,51,NovaCraft,172.24,389.13,active,2023-08-08
+398,Apex Cookware Set 398,10,18,Apex,208.01,427.72,active,2025-03-17
+399,UrbanEdge Yoga Mat 399,1,34,UrbanEdge,63.37,157.36,active,2023-01-23
+400,Lumina Desk Lamp 400,6,75,Lumina,126.68,254.08,active,2024-05-02
+401,Vividly Cookware Set 401,3,64,Vividly,164.22,232.94,active,2024-08-18
+402,ZenHaus Backpack 402,10,33,ZenHaus,47.36,63.00,active,2025-03-06
+403,EcoSphere Running Shoes 403,4,64,EcoSphere,66.61,172.60,active,2024-09-20
+404,NovaCraft Water Bottle 404,10,58,NovaCraft,160.05,418.59,active,2023-05-22
+405,Vividly Travel Mug 405,6,13,Vividly,116.64,292.86,active,2023-09-08
+406,BrightPath Desk Lamp 406,10,29,BrightPath,80.91,217.54,active,2024-05-02
+407,EcoSphere Notebook 407,10,39,EcoSphere,70.50,160.34,active,2023-12-03
+408,Apex Notebook 408,9,8,Apex,105.34,210.70,discontinued,2024-08-14
+409,ZenHaus Backpack 409,4,66,ZenHaus,53.40,127.13,active,2024-05-11
+410,Lumina Sunglasses 410,9,22,Lumina,111.44,253.40,active,2023-09-04
+411,ZenHaus Mixer 411,9,79,ZenHaus,52.91,123.77,active,2025-08-26
+412,EverPeak Face Serum 412,12,29,EverPeak,64.87,163.67,active,2024-07-11
+413,SwiftPro Backpack 413,9,25,SwiftPro,189.85,374.96,active,2023-01-27
+414,Northstar Desk Lamp 414,6,26,Northstar,103.99,145.40,active,2025-05-24
+415,Purely Notebook 415,5,39,Purely,179.77,483.24,active,2025-12-18
+416,TerraWorks Garden Hose 416,9,28,TerraWorks,127.82,271.55,active,2024-03-02
+417,UrbanEdge Board Game 417,11,11,UrbanEdge,218.15,595.34,active,2025-06-29
+418,BrightPath Mixer 418,11,77,BrightPath,155.89,411.93,active,2025-05-16
+419,Northstar Coffee Maker 419,3,10,Northstar,218.13,590.96,active,2025-09-01
+420,TerraWorks Mixer 420,5,30,TerraWorks,63.03,128.11,active,2025-10-06
+421,Lumina Cookware Set 421,10,66,Lumina,129.14,355.54,active,2023-08-21
+422,EcoSphere Mixer 422,2,80,EcoSphere,65.81,88.60,active,2024-07-31
+423,EverPeak Mixer 423,6,25,EverPeak,115.19,238.73,active,2024-10-05
+424,NovaCraft Bluetooth Speaker 424,11,9,NovaCraft,101.26,266.52,active,2025-08-28
+425,Vividly Car Charger 425,11,51,Vividly,141.91,274.21,active,2025-12-25
+426,Northstar Face Serum 426,9,72,Northstar,24.66,46.76,active,2024-06-24
+427,Vividly Coffee Maker 427,9,37,Vividly,19.21,44.19,active,2024-04-20
+428,BrightPath Water Bottle 428,8,17,BrightPath,7.19,17.82,active,2023-12-18
+429,ZenHaus Water Bottle 429,4,58,ZenHaus,74.75,176.86,active,2025-03-01
+430,UrbanEdge Notebook 430,3,27,UrbanEdge,200.62,287.25,active,2024-09-30
+431,ZenHaus Garden Hose 431,10,43,ZenHaus,44.97,122.94,active,2023-05-23
+432,UrbanEdge Cookware Set 432,7,72,UrbanEdge,123.00,159.47,active,2024-10-23
+433,ZenHaus Running Shoes 433,2,19,ZenHaus,6.04,9.59,active,2025-10-25
+434,NovaCraft Running Shoes 434,12,71,NovaCraft,184.39,294.69,active,2025-08-06
+435,BlueNest Notebook 435,4,60,BlueNest,62.49,173.56,active,2023-03-27
+436,Northstar Mixer 436,12,15,Northstar,83.52,153.84,active,2024-08-15
+437,TerraWorks Board Game 437,6,63,TerraWorks,167.66,345.38,active,2025-11-06
+438,Apex Face Serum 438,7,27,Apex,112.97,300.14,active,2023-04-26
+439,NovaCraft Coffee Maker 439,12,18,NovaCraft,121.39,305.28,active,2024-04-28
+440,EverPeak Backpack 440,8,67,EverPeak,41.65,52.93,active,2023-11-06
+441,Vividly Backpack 441,1,62,Vividly,27.74,49.85,active,2024-04-07
+442,BlueNest Car Charger 442,10,23,BlueNest,209.38,291.90,active,2023-05-23
+443,BlueNest Sunglasses 443,10,43,BlueNest,77.39,194.27,active,2023-01-04
+444,BrightPath Mixer 444,9,5,BrightPath,96.00,232.67,discontinued,2023-10-01
+445,NovaCraft Cookware Set 445,9,44,NovaCraft,116.40,213.09,active,2025-06-30
+446,NovaCraft Coffee Maker 446,2,10,NovaCraft,156.20,358.30,discontinued,2023-12-19
+447,Apex Backpack 447,3,62,Apex,106.59,229.50,active,2025-11-02
+448,EcoSphere Mixer 448,12,63,EcoSphere,76.68,185.25,discontinued,2025-05-14
+449,Vividly Smart Watch 449,8,12,Vividly,168.62,327.63,active,2024-06-14
+450,ZenHaus Yoga Mat 450,1,36,ZenHaus,90.12,166.52,active,2024-03-04
+451,NovaCraft Yoga Mat 451,1,29,NovaCraft,85.50,156.84,active,2025-07-18
+452,CoreFlex Sunglasses 452,11,22,CoreFlex,59.05,76.89,active,2023-04-20
+453,Northstar Car Charger 453,3,66,Northstar,215.40,500.15,active,2025-08-07
+454,Apex Backpack 454,10,79,Apex,146.10,307.86,active,2025-11-29
+455,TerraWorks Car Charger 455,8,65,TerraWorks,53.87,117.95,active,2025-08-27
+456,SwiftPro Smart Watch 456,8,77,SwiftPro,160.34,224.86,active,2025-05-15
+457,BrightPath Desk Lamp 457,7,53,BrightPath,93.69,236.30,active,2025-08-28
+458,ZenHaus Bluetooth Speaker 458,6,27,ZenHaus,129.86,221.40,active,2024-03-09
+459,SwiftPro Mixer 459,4,53,SwiftPro,206.48,388.13,active,2023-07-19
+460,Apex Cookware Set 460,11,31,Apex,108.22,274.64,active,2025-11-09
+461,EcoSphere Pet Bed 461,11,47,EcoSphere,189.95,397.26,active,2023-06-01
+462,TerraWorks Headphones 462,8,73,TerraWorks,147.37,184.89,active,2024-01-14
+463,ZenHaus Smart Watch 463,7,7,ZenHaus,51.39,124.95,active,2025-02-11
+464,Apex Running Shoes 464,5,23,Apex,156.57,338.41,active,2023-05-21
+465,Northstar Notebook 465,10,58,Northstar,132.81,248.78,active,2024-06-09
+466,BrightPath Face Serum 466,8,29,BrightPath,75.75,122.91,active,2023-11-20
+467,CoreFlex Garden Hose 467,3,66,CoreFlex,159.87,425.36,active,2025-03-19
+468,ZenHaus Garden Hose 468,11,25,ZenHaus,191.45,288.32,active,2025-05-13
+469,EcoSphere Yoga Mat 469,12,67,EcoSphere,206.14,495.99,active,2024-08-09
+470,SwiftPro Mixer 470,11,31,SwiftPro,80.09,220.14,active,2024-03-05
+471,Purely Headphones 471,9,9,Purely,136.89,302.67,active,2025-04-27
+472,Northstar Pet Bed 472,2,23,Northstar,187.51,385.14,active,2024-02-18
+473,Vividly Cookware Set 473,1,73,Vividly,145.82,318.66,active,2024-01-23
+474,EcoSphere Garden Hose 474,4,10,EcoSphere,6.53,11.21,active,2024-06-02
+475,BrightPath Water Bottle 475,7,68,BrightPath,175.35,244.94,active,2023-02-04
+476,BlueNest Smart Watch 476,3,10,BlueNest,42.81,85.72,active,2023-12-13
+477,TerraWorks Coffee Maker 477,9,75,TerraWorks,43.07,99.91,active,2023-06-23
+478,SwiftPro Smart Watch 478,10,39,SwiftPro,10.26,18.10,active,2024-05-20
+479,Purely Office Chair 479,6,22,Purely,79.28,157.87,active,2023-03-28
+480,TerraWorks Coffee Maker 480,11,41,TerraWorks,193.36,367.55,active,2024-02-03
+481,EcoSphere Headphones 481,1,14,EcoSphere,202.85,419.38,active,2023-02-21
+482,Vividly Running Shoes 482,7,25,Vividly,44.28,91.36,active,2024-04-03
+483,TerraWorks Travel Mug 483,9,62,TerraWorks,92.26,228.47,active,2024-07-18
+484,EverPeak Headphones 484,10,46,EverPeak,185.19,337.22,active,2023-09-28
+485,NovaCraft Garden Hose 485,5,79,NovaCraft,198.29,307.44,active,2025-07-15
+486,Lumina Headphones 486,12,62,Lumina,133.07,360.69,active,2023-05-05
+487,CoreFlex Notebook 487,2,20,CoreFlex,65.52,179.02,active,2024-10-17
+488,CoreFlex Notebook 488,7,48,CoreFlex,24.07,39.86,active,2024-06-27
+489,SwiftPro Face Serum 489,9,49,SwiftPro,121.19,334.53,active,2024-02-13
+490,Vividly Backpack 490,9,31,Vividly,57.55,102.84,active,2025-06-01
+491,Purely Smart Watch 491,8,57,Purely,89.63,232.66,active,2024-09-01
+492,CoreFlex Face Serum 492,12,48,CoreFlex,96.28,156.05,active,2024-10-21
+493,Apex Travel Mug 493,1,72,Apex,108.59,259.83,discontinued,2024-04-27
+494,CoreFlex Cookware Set 494,6,40,CoreFlex,216.48,556.99,active,2025-04-23
+495,BlueNest Coffee Maker 495,6,25,BlueNest,183.84,260.60,active,2023-11-25
+496,CoreFlex Running Shoes 496,12,35,CoreFlex,65.31,148.36,active,2024-12-09
+497,BlueNest Running Shoes 497,3,45,BlueNest,174.28,459.69,active,2023-04-28
+498,EverPeak Headphones 498,6,55,EverPeak,33.35,85.36,active,2024-12-09
+499,Northstar Yoga Mat 499,10,34,Northstar,133.61,330.82,active,2024-03-23
+500,SwiftPro Smart Watch 500,5,29,SwiftPro,185.66,413.66,active,2023-09-08
