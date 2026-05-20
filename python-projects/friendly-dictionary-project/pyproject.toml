@@ -1,0 +1,7 @@
+[project]
+name = "dictionary-app-project"
+version = "0.1.0"
+description = "A user-friendly desktop dictionary app powered by a free public API."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
