@@ -26,6 +26,16 @@ Excel dashboard project for workforce analytics, attrition monitoring, employee 
 
 ## Project Write-Up
 
+### Selected Analysis Highlights
+
+| Business question | Insight | Implication | Suggested action |
+|---|---|---|---|
+| How healthy is the overall workforce base? | Total headcount is 700, with 628 active employees, 10.3% attrition, 3.5 engagement, and 56.0 months average tenure. | The workforce is sizeable and mostly active, but the current attrition level still creates a meaningful retention-management need. | Track attrition and engagement monthly; set a target threshold and review movement by department and role level. |
+| Where is retention risk most concentrated by department? | Engineering has the highest department attrition at 15.0% with 23 terminations. | The highest-risk department combines a high attrition rate with meaningful headcount impact, so improvements there can materially reduce overall turnover. | Prioritize exit-interview themes, manager check-ins, and retention actions for the highest-attrition department. |
+| Which departments appear to be retention strengths? | Marketing has the lowest department attrition at 5.0%. | Low-attrition teams may have practices, manager behaviors, or work-design conditions worth replicating elsewhere. | Interview leaders in the lowest-attrition departments and translate their practices into repeatable retention playbooks. |
+| Is attrition concentrated by job level? | Senior has the highest job-level attrition at 11.6% vs. overall attrition of 10.3%. | Attrition at specific levels can signal career-path, compensation, manager-readiness, or workload issues that averages hide. | Review promotion velocity, compensation competitiveness, and manager support for the highest-attrition job level. |
+| What does tenure suggest about turnover timing? | Terminated employees average 25.3 months tenure vs. 59.5 months for active employees. | Departures are occurring much earlier than the tenure profile of active employees, highlighting an early/mid-tenure retention window. | Strengthen onboarding, first-year career conversations, stay interviews, and 24-month retention checkpoints. |
+
 ### The Dataset
 
 This project uses a synthetically generated HR analytics dataset included directly in the workbook on the `Employee_Data` sheet. The data represents fictional employee records across departments, job levels, locations, salary, tenure, performance, engagement, training, overtime, absence, promotion, and attrition fields. It does not contain real employee, company, or personally identifiable information, and is safe to publish publicly. No external data connection is required.

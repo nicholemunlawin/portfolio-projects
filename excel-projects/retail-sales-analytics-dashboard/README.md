@@ -28,6 +28,16 @@ Excel dashboard project for retail sales, profit, returns, customer experience, 
 
 ## Project Write-Up
 
+### Selected Analysis Highlights
+
+| Business question | Insight | Implication | Suggested action |
+|---|---|---|---|
+| How is the business performing overall? | Performance is strong but uneven across categories, regions, and months. | Revenue and profit are led by Electronics and the East region, while Office Supplies, North returns, and softer months create avoidable performance drag. | Protect the strongest profit drivers while fixing underperforming categories, high-return regions, and weaker months through targeted pricing, operations, and promotion actions. |
+| Which product category is driving most revenue and profit? | Electronics is the top-performing category. | Electronics generated the highest sales, about PHP 5.73M, and the highest profit, about PHP 852.9K. | Increase inventory, prioritize marketing spend, and identify the best-selling electronics items to scale further. |
+| Which category needs pricing, cost, or demand review? | Office Supplies is losing money. | Office Supplies had low sales, about PHP 126K, and a negative profit of about -PHP 17.7K. | Review supplier costs, pricing, discounts, and product mix. Consider reducing low-margin items or bundling them with stronger categories. |
+| Which region should be used as a benchmark for strong performance? | East is the best-performing region. | East had the highest sales, highest profit, and the lowest return rate at 3.7%. | Study East's sales strategy, customer service process, and fulfillment practices, then apply the best practices to other regions. |
+| Where should we investigate customer dissatisfaction, product issues, or fulfillment problems? | North has the highest return rate. | North's return rate is 5.3%, higher than other regions. | Check return reasons, delivery issues, product quality, and customer feedback in the North region. Focus on reducing avoidable returns. |
+
 ### The Dataset
 
 This project uses a synthetically generated retail sales and customer experience dataset included directly in the workbook on the `Sales_Data` sheet. The dataset contains fictional order-level records with order dates, shipping dates, customer segments, regions, cities, product categories, product names, sales channels, payment methods, sales, profit, return status, delivery days, and customer ratings. It does not contain real customer, company, transaction, or personally identifiable information, and is safe to publish publicly. No external data connection is required.

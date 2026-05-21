@@ -27,6 +27,16 @@ Compact Excel dashboard project using sample retail-style data across transactio
 
 ## Project Write-Up
 
+### Selected Analysis Highlights
+
+| Business question | Insight | Implication | Suggested action |
+|---|---|---|---|
+| How is the business performing overall? | Dashboard shows total sales of 277,677 and profit of 114,402, a 41.2% profit margin. Completed orders are 60%, returned orders 21%, cancelled orders 19%, and average satisfaction is 2.88 / 5. | Profitability is strong, but 40% of orders not completing cleanly and a below-neutral satisfaction score create meaningful leakage risk. | Prioritize reducing returns and cancellations while investigating satisfaction drivers by product, region, and fulfillment step. |
+| Which region leads sales? | North leads with 82,149 sales and 34,104 profit, or 29.6% of total sales. Central is close behind with 80,334 sales and 34,164 profit. | Revenue is concentrated in North and Central, suggesting these markets have the strongest current demand and execution. | Protect stock availability and service levels in North/Central, then replicate their channel or promotion playbook in lower-performing regions. |
+| Which category drives revenue? | Electronics generates 187,857 sales and 72,967 profit, representing 67.7% of total sales. | The business is highly dependent on Electronics, creating concentration risk if demand, inventory, or supplier economics shift. | Maintain Electronics availability and campaigns, but diversify growth into profitable non-Electronics categories. |
+| Are order outcomes healthy? | Only 60% of orders are completed, while 21% are returned and 19% are cancelled. | A 40% non-completion rate suggests substantial revenue leakage and possible customer experience issues. | Set a near-term target to lift completed orders above 75% by reducing top cancellation and return causes. |
+| What is the highest-priority growth lever? | The clearest opportunity is to improve South-region performance, grow high-margin non-Electronics categories, and reduce order leakage. | These three levers can improve both revenue resilience and profitability without relying only on Electronics growth. | Launch a 90-day action plan with KPIs for South sales, non-Electronics mix, completion rate, return rate, cancellation rate, and satisfaction. |
+
 ### The Dataset
 
 This project uses a compact synthetically generated sample dataset included directly in the workbook across the `Transactions`, `Customers`, and `Products` sheets. The dataset represents fictional retail-style transactions linked to customer and product reference tables, including order dates, customers, products, channels, payment methods, quantities, prices, discounts, costs, profit, order status, and satisfaction scores. It does not contain real customer, company, transaction, or personally identifiable information, and is safe to publish publicly. No external data connection is required.
