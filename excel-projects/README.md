@@ -12,7 +12,5 @@ This folder has been split into separate GitHub-ready projects. Each project fol
 
 ## Upload Options
 
-- Upload each project folder as a separate GitHub repository.
-- Keep this parent folder only as a local staging area if you want to manage all dashboard projects together.
 - Each project folder includes its own `README.md`, `DATA_DICTIONARY.md`, `.gitignore`, and `.gitattributes`.
 - Each project folder includes a `LICENSE` file using Creative Commons Attribution 4.0 International for reuse with attribution.
