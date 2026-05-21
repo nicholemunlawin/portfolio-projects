@@ -2,14 +2,14 @@
 
 Excel dashboard project for retail sales, profit, returns, customer experience, product category performance, regional performance, channels, and monthly trends.
 
-![Retail Sales Dashboard](<Retail Sales (Dashboard) Capture.png>)
+![Retail Sales Dashboard](<Retail Sales Analytics (Dashboard) Capture.png>)
 
 ## Files
 
 | File | Purpose |
 |---|---|
-| `Retail Sales (Dashboard).xlsx` | Main Excel workbook containing the dashboard, sales source data, analysis, lookup lists, and supporting summary sheets. |
-| `Retail Sales (Dashboard) Capture.png` | Dashboard preview image for GitHub. |
+| `Retail Sales Analytics (Dashboard).xlsx` | Main Excel workbook containing the dashboard, sales source data, analysis, lookup lists, and supporting summary sheets. |
+| `Retail Sales Analytics (Dashboard) Capture.png` | Dashboard preview image for GitHub. |
 | `DATA_DICTIONARY.md` | Sheet catalog and key field descriptions. |
 | `.gitignore` | Excludes local Excel lock files, OS files, editor folders, and generated exports. |
 | `.gitattributes` | Marks workbook and image assets as binary files. |
@@ -43,7 +43,7 @@ Advanced Excel features used in this workbook include Excel tables, pivot tables
 ## How to Use
 
 1. Download or clone this repository.
-2. Open `Retail Sales (Dashboard).xlsx` in Microsoft Excel.
+2. Open `Retail Sales Analytics (Dashboard).xlsx` in Microsoft Excel.
 3. Start with the `Dashboard` sheet for the visual summary.
 4. Review `Analysis` for business interpretation and recommended actions.
 5. Use `Sales_Data` and the supporting summary sheets for validation or deeper exploration.

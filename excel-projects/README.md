@@ -7,8 +7,8 @@ This folder has been split into separate GitHub-ready projects. Each project fol
 | Folder | Project |
 |---|---|
 | [`hr-analytics-dashboard`](<hr-analytics-dashboard>) | HR analytics dashboard workbook with employee data, metrics, analysis, and dashboard preview. |
-| [`retail-sales-dashboard`](<retail-sales-dashboard>) | Retail sales and customer experience dashboard workbook with sales data, summaries, analysis, and preview. |
-| [`small-dummy-data-dashboard`](<small-dummy-data-dashboard>) | Compact sample retail dashboard workbook with transactions, customers, products, analysis, and preview. |
+| [`retail-sales-analytics-dashboard`](<retail-sales-analytics-dashboard>) | Retail sales and customer experience dashboard workbook with sales data, summaries, analysis, and preview. |
+| [`small-dummy-data-analytics-dashboard`](<small-dummy-data-analytics-dashboard>) | Compact sample retail dashboard workbook with transactions, customers, products, analysis, and preview. |
 
 ## Upload Options
 

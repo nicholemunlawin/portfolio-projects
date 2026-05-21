@@ -2,14 +2,14 @@
 
 Compact Excel dashboard project using sample retail-style data across transactions, customers, and products.
 
-![Small Dummy Data Dashboard](small-dummy-data-dashboard-capture.png)
+![Small Dummy Data Dashboard](<Small Dummy Data Analytics (Dashboard) Capture.png>)
 
 ## Files
 
 | File | Purpose |
 |---|---|
-| `Small Dummy Data (Dashboard).xlsx` | Main Excel workbook containing the dashboard, analysis, transactions, customers, products, and supporting summaries. |
-| `small-dummy-data-dashboard-capture.png` | Dashboard preview image for GitHub. |
+| `Small Dummy Data Analytics (Dashboard).xlsx` | Main Excel workbook containing the dashboard, analysis, transactions, customers, products, and supporting summaries. |
+| `Small Dummy Data Analytics (Dashboard) Capture.png` | Dashboard preview image for GitHub. |
 | `DATA_DICTIONARY.md` | Sheet catalog and key field descriptions. |
 | `.gitignore` | Excludes local Excel lock files, OS files, editor folders, and generated exports. |
 | `.gitattributes` | Marks workbook and image assets as binary files. |
@@ -42,7 +42,7 @@ Advanced Excel features used in this workbook include Excel tables, pivot tables
 ## How to Use
 
 1. Download or clone this repository.
-2. Open `Small Dummy Data (Dashboard).xlsx` in Microsoft Excel.
+2. Open `Small Dummy Data Analytics (Dashboard).xlsx` in Microsoft Excel.
 3. Start with the `Dashboard` sheet for the visual summary.
 4. Review `Analysis` for business interpretation and recommended actions.
 5. Use `Transactions`, `Customers`, and `Products` for validation or deeper exploration.
