@@ -1,0 +1,29 @@
+Revenue = SUM(kpi_summary[revenue])
+
+Fulfilled Orders = SUM(kpi_summary[fulfilled_orders])
+
+Average Order Value = DIVIDE([Revenue], [Fulfilled Orders])
+
+Purchasing Customers = SUM(kpi_summary[purchasing_customers])
+
+Returns = SUM(kpi_summary[returns])
+
+Return Rate % = DIVIDE([Returns], [Fulfilled Orders])
+
+Monthly Revenue = SUM(sales_monthly_channel[revenue])
+
+Monthly Orders = SUM(sales_monthly_channel[orders])
+
+Gross Profit = SUM(category_performance[gross_profit])
+
+Gross Margin % = DIVIDE([Gross Profit], SUM(category_performance[revenue]))
+
+Units Sold = SUM(product_performance[units_sold])
+
+Inventory Units Below Reorder = SUM(inventory_reorder[units_below_reorder])
+
+Average Delivery Days = AVERAGE(delivery_performance[avg_delivery_days])
+
+Support Tickets = SUM(support_resolution[tickets])
+
+Average Hours To Close = AVERAGE(support_resolution[avg_hours_to_close])

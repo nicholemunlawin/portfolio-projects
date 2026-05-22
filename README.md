@@ -46,6 +46,7 @@ Each project is kept in its own folder, and the original Git history is preserve
 | Project | Description | Technologies |
 |---|---|---|
 | [Data Professional Survey Dashboard](power-bi-projects/data-professional-survey) | Power BI dashboard exploring survey responses from data professionals, including roles, salary bands, programming languages, career switching, job priorities, and satisfaction scores. | Power BI, Power Query, DAX, Excel, CSV |
+| [RetailPulse Power BI Dashboard](power-bi-projects/retailpulse-powerbi-dashboard) | Power BI dashboard built from my RetailPulse SQL ecommerce project, covering sales trends, customer value, product performance, inventory, delivery, returns, and support resolution. | Power BI, DAX, MySQL, SQL, CSV |
 
 ## Web Projects
 

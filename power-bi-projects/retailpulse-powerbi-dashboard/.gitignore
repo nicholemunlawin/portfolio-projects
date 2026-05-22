@@ -1,0 +1,17 @@
+# Power BI local/cache artifacts
+*.pbitmp
+*.tmp
+*.bak
+~$*
+
+# OS/editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Local notes or exports not intended for the portfolio repo
+local/
+exports/
+*.log

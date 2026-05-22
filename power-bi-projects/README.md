@@ -7,6 +7,7 @@ This folder contains my Power BI dashboard projects.
 | Folder | Project |
 |---|---|
 | [`data-professional-survey`](<data-professional-survey>) | Power BI dashboard exploring survey responses from data professionals, including roles, salary bands, tools, career switching, job priorities, and satisfaction scores. |
+| [`retailpulse-powerbi-dashboard`](<retailpulse-powerbi-dashboard>) | Power BI dashboard built from my RetailPulse SQL ecommerce project, covering sales trends, customer value, product performance, inventory, delivery, returns, and support resolution. |
 
 ## Notes
 

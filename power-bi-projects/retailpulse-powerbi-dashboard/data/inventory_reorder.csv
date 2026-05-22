@@ -1,0 +1,289 @@
+warehouse_name,product_id,product_name,category_name,quantity_on_hand,reorder_level,units_below_reorder
+Warehouse 1 - Jacksonville,305,TerraWorks Smart Watch 305,Sports,1,50,49
+Warehouse 2 - New York,443,BlueNest Sunglasses 443,Office,1,49,48
+Warehouse 8 - San Diego,328,CoreFlex Board Game 328,Home & Kitchen,4,50,46
+Warehouse 5 - Seattle,356,Lumina Desk Lamp 356,Electronics,0,46,46
+Warehouse 4 - Miami,243,UrbanEdge Face Serum 243,Books,0,45,45
+Warehouse 3 - Los Angeles,39,BlueNest Pet Bed 39,Pets,1,45,44
+Warehouse 4 - Miami,479,Purely Office Chair 479,Books,5,49,44
+Warehouse 6 - Houston,428,BrightPath Water Bottle 428,Automotive,6,49,43
+Warehouse 1 - Jacksonville,445,NovaCraft Cookware Set 445,Garden,6,49,43
+Warehouse 3 - Los Angeles,493,Apex Travel Mug 493,Electronics,5,48,43
+Warehouse 5 - Seattle,388,Northstar Travel Mug 388,Toys,6,48,42
+Warehouse 5 - Seattle,373,SwiftPro Garden Hose 373,Home & Kitchen,5,46,41
+Warehouse 3 - Los Angeles,256,Vividly Backpack 256,Toys,10,50,40
+Warehouse 3 - Los Angeles,331,NovaCraft Yoga Mat 331,Books,10,50,40
+Warehouse 7 - Dallas,10,EcoSphere Board Game 10,Toys,7,46,39
+Warehouse 3 - Los Angeles,18,BlueNest Board Game 18,Automotive,5,44,39
+Warehouse 8 - San Diego,214,Vividly Desk Lamp 214,Garden,11,50,39
+Warehouse 6 - Houston,319,Lumina Backpack 319,Beauty,9,48,39
+Warehouse 7 - Dallas,256,Vividly Backpack 256,Toys,3,41,38
+Warehouse 5 - Seattle,386,BlueNest Smart Watch 386,Fashion,10,48,38
+Warehouse 5 - Seattle,44,BrightPath Garden Hose 44,Home & Kitchen,11,48,37
+Warehouse 6 - Houston,94,Apex Notebook 94,Home & Kitchen,0,37,37
+Warehouse 8 - San Diego,200,ZenHaus Garden Hose 200,Sports,7,43,36
+Warehouse 5 - Seattle,236,BrightPath Mixer 236,Pets,13,49,36
+Warehouse 6 - Houston,84,CoreFlex Desk Lamp 84,Fashion,9,44,35
+Warehouse 2 - New York,93,BrightPath Sunglasses 93,Pets,15,50,35
+Warehouse 8 - San Diego,120,NovaCraft Board Game 120,Beauty,0,35,35
+Warehouse 6 - Houston,215,BlueNest Car Charger 215,Health,9,44,35
+Warehouse 5 - Seattle,310,UrbanEdge Smart Watch 310,Beauty,8,43,35
+Warehouse 8 - San Diego,456,SwiftPro Smart Watch 456,Automotive,7,42,35
+Warehouse 3 - Los Angeles,116,Vividly Headphones 116,Fashion,4,38,34
+Warehouse 3 - Los Angeles,232,EverPeak Backpack 232,Health,13,47,34
+Warehouse 1 - Jacksonville,284,Purely Face Serum 284,Garden,4,38,34
+Warehouse 5 - Seattle,80,BrightPath Smart Watch 80,Fashion,4,37,33
+Warehouse 7 - Dallas,124,TerraWorks Backpack 124,Home & Kitchen,12,45,33
+Warehouse 2 - New York,128,Purely Pet Bed 128,Health,16,49,33
+Warehouse 4 - Miami,195,BlueNest Board Game 195,Electronics,7,40,33
+Warehouse 5 - Seattle,422,EcoSphere Mixer 422,Home & Kitchen,6,39,33
+Warehouse 7 - Dallas,444,BrightPath Mixer 444,Garden,3,36,33
+Warehouse 5 - Seattle,17,BrightPath Desk Lamp 17,Pets,6,38,32
+Warehouse 1 - Jacksonville,26,TerraWorks Desk Lamp 26,Home & Kitchen,16,48,32
+Warehouse 6 - Houston,55,UrbanEdge Pet Bed 55,Fashion,9,41,32
+Warehouse 6 - Houston,160,BlueNest Pet Bed 160,Books,13,45,32
+Warehouse 8 - San Diego,313,UrbanEdge Coffee Maker 313,Books,17,49,32
+Warehouse 3 - Los Angeles,499,Northstar Yoga Mat 499,Office,16,48,32
+Warehouse 3 - Los Angeles,60,Purely Garden Hose 60,Fashion,7,38,31
+Warehouse 2 - New York,121,Purely Face Serum 121,Books,7,38,31
+Warehouse 6 - Houston,181,CoreFlex Running Shoes 181,Books,17,48,31
+Warehouse 7 - Dallas,325,TerraWorks Board Game 325,Books,2,33,31
+Warehouse 6 - Houston,380,EverPeak Running Shoes 380,Pets,8,39,31
+Warehouse 8 - San Diego,103,EverPeak Car Charger 103,Beauty,1,31,30
+Warehouse 1 - Jacksonville,249,Northstar Water Bottle 249,Fashion,15,45,30
+Warehouse 3 - Los Angeles,277,BrightPath Office Chair 277,Fashion,12,42,30
+Warehouse 3 - Los Angeles,280,BlueNest Smart Watch 280,Home & Kitchen,8,38,30
+Warehouse 7 - Dallas,299,EcoSphere Face Serum 299,Home & Kitchen,16,46,30
+Warehouse 6 - Houston,344,Northstar Smart Watch 344,Office,13,43,30
+Warehouse 7 - Dallas,347,BlueNest Sunglasses 347,Fashion,18,48,30
+Warehouse 3 - Los Angeles,20,EverPeak Coffee Maker 20,Toys,14,43,29
+Warehouse 8 - San Diego,66,Vividly Board Game 66,Toys,9,38,29
+Warehouse 5 - Seattle,74,CoreFlex Notebook 74,Toys,6,35,29
+Warehouse 4 - Miami,148,Lumina Desk Lamp 148,Sports,3,32,29
+Warehouse 1 - Jacksonville,245,UrbanEdge Travel Mug 245,Electronics,6,35,29
+Warehouse 5 - Seattle,352,NovaCraft Running Shoes 352,Home & Kitchen,5,34,29
+Warehouse 2 - New York,370,EcoSphere Running Shoes 370,Automotive,10,39,29
+Warehouse 2 - New York,55,UrbanEdge Pet Bed 55,Fashion,22,50,28
+Warehouse 2 - New York,71,Vividly Pet Bed 71,Garden,15,43,28
+Warehouse 5 - Seattle,108,TerraWorks Backpack 108,Garden,13,41,28
+Warehouse 5 - Seattle,284,Purely Face Serum 284,Garden,22,50,28
+Warehouse 1 - Jacksonville,404,NovaCraft Water Bottle 404,Office,8,36,28
+Warehouse 7 - Dallas,36,Northstar Headphones 36,Pets,13,40,27
+Warehouse 8 - San Diego,40,Apex Mixer 40,Pets,14,41,27
+Warehouse 2 - New York,107,Northstar Smart Watch 107,Health,11,38,27
+Warehouse 8 - San Diego,232,EverPeak Backpack 232,Health,22,49,27
+Warehouse 5 - Seattle,494,CoreFlex Cookware Set 494,Books,9,36,27
+Warehouse 3 - Los Angeles,117,EcoSphere Bluetooth Speaker 117,Health,3,29,26
+Warehouse 2 - New York,140,Northstar Backpack 140,Fashion,16,42,26
+Warehouse 3 - Los Angeles,167,EverPeak Mixer 167,Beauty,24,50,26
+Warehouse 1 - Jacksonville,209,TerraWorks Face Serum 209,Automotive,17,43,26
+Warehouse 4 - Miami,302,BlueNest Headphones 302,Toys,7,33,26
+Warehouse 8 - San Diego,352,NovaCraft Running Shoes 352,Home & Kitchen,8,34,26
+Warehouse 3 - Los Angeles,451,NovaCraft Yoga Mat 451,Electronics,4,30,26
+Warehouse 6 - Houston,80,BrightPath Smart Watch 80,Fashion,7,32,25
+Warehouse 3 - Los Angeles,124,TerraWorks Backpack 124,Home & Kitchen,5,30,25
+Warehouse 6 - Houston,144,EcoSphere Travel Mug 144,Health,25,50,25
+Warehouse 7 - Dallas,326,UrbanEdge Board Game 326,Electronics,8,33,25
+Warehouse 7 - Dallas,391,Apex Garden Hose 391,Health,12,37,25
+Warehouse 5 - Seattle,477,TerraWorks Coffee Maker 477,Garden,6,31,25
+Warehouse 5 - Seattle,12,BrightPath Face Serum 12,Home & Kitchen,10,34,24
+Warehouse 5 - Seattle,14,BlueNest Sunglasses 14,Beauty,15,39,24
+Warehouse 5 - Seattle,232,EverPeak Backpack 232,Health,12,36,24
+Warehouse 6 - Houston,272,EcoSphere Car Charger 272,Office,17,41,24
+Warehouse 3 - Los Angeles,313,UrbanEdge Coffee Maker 313,Books,0,24,24
+Warehouse 2 - New York,392,NovaCraft Face Serum 392,Fashion,12,36,24
+Warehouse 6 - Houston,409,ZenHaus Backpack 409,Beauty,6,30,24
+Warehouse 7 - Dallas,409,ZenHaus Backpack 409,Beauty,1,25,24
+Warehouse 4 - Miami,483,TerraWorks Travel Mug 483,Garden,20,44,24
+Warehouse 8 - San Diego,486,Lumina Headphones 486,Health,24,48,24
+Warehouse 2 - New York,6,TerraWorks Face Serum 6,Pets,22,45,23
+Warehouse 2 - New York,19,UrbanEdge Water Bottle 19,Fashion,5,28,23
+Warehouse 4 - Miami,50,SwiftPro Desk Lamp 50,Health,27,50,23
+Warehouse 6 - Houston,145,Purely Mixer 145,Garden,11,34,23
+Warehouse 6 - Houston,187,Northstar Notebook 187,Fashion,12,35,23
+Warehouse 4 - Miami,222,UrbanEdge Backpack 222,Beauty,16,39,23
+Warehouse 7 - Dallas,364,SwiftPro Face Serum 364,Automotive,4,27,23
+Warehouse 3 - Los Angeles,378,EcoSphere Pet Bed 378,Sports,1,24,23
+Warehouse 8 - San Diego,396,Purely Travel Mug 396,Health,8,31,23
+Warehouse 1 - Jacksonville,414,Northstar Desk Lamp 414,Books,12,35,23
+Warehouse 2 - New York,419,Northstar Coffee Maker 419,Fashion,25,48,23
+Warehouse 1 - Jacksonville,20,EverPeak Coffee Maker 20,Toys,14,36,22
+Warehouse 8 - San Diego,65,Lumina Face Serum 65,Books,3,25,22
+Warehouse 2 - New York,382,Purely Headphones 382,Beauty,15,37,22
+Warehouse 7 - Dallas,415,Purely Notebook 415,Sports,19,41,22
+Warehouse 8 - San Diego,441,Vividly Backpack 441,Electronics,24,46,22
+Warehouse 7 - Dallas,152,BrightPath Smart Watch 152,Home & Kitchen,7,28,21
+Warehouse 2 - New York,166,SwiftPro Water Bottle 166,Toys,17,38,21
+Warehouse 8 - San Diego,212,Lumina Sunglasses 212,Books,4,25,21
+Warehouse 8 - San Diego,226,EverPeak Sunglasses 226,Pets,2,23,21
+Warehouse 3 - Los Angeles,287,UrbanEdge Sunglasses 287,Toys,29,50,21
+Warehouse 8 - San Diego,298,NovaCraft Board Game 298,Health,14,35,21
+Warehouse 3 - Los Angeles,403,EcoSphere Running Shoes 403,Beauty,6,27,21
+Warehouse 3 - Los Angeles,432,UrbanEdge Cookware Set 432,Toys,16,37,21
+Warehouse 2 - New York,117,EcoSphere Bluetooth Speaker 117,Health,13,33,20
+Warehouse 5 - Seattle,261,Lumina Smart Watch 261,Office,23,43,20
+Warehouse 1 - Jacksonville,312,BrightPath Mixer 312,Electronics,27,47,20
+Warehouse 8 - San Diego,60,Purely Garden Hose 60,Fashion,18,37,19
+Warehouse 6 - Houston,61,Lumina Backpack 61,Garden,29,48,19
+Warehouse 6 - Houston,82,Apex Running Shoes 82,Automotive,29,48,19
+Warehouse 4 - Miami,86,Lumina Desk Lamp 86,Beauty,4,23,19
+Warehouse 3 - Los Angeles,125,Northstar Yoga Mat 125,Fashion,12,31,19
+Warehouse 6 - Houston,142,Northstar Backpack 142,Home & Kitchen,2,21,19
+Warehouse 1 - Jacksonville,147,BrightPath Desk Lamp 147,Automotive,15,34,19
+Warehouse 3 - Los Angeles,164,UrbanEdge Headphones 164,Fashion,0,19,19
+Warehouse 5 - Seattle,265,EcoSphere Coffee Maker 265,Books,25,44,19
+Warehouse 8 - San Diego,300,UrbanEdge Smart Watch 300,Health,12,31,19
+Warehouse 2 - New York,326,UrbanEdge Board Game 326,Electronics,29,48,19
+Warehouse 4 - Miami,336,BlueNest Mixer 336,Electronics,15,34,19
+Warehouse 5 - Seattle,351,BlueNest Travel Mug 351,Automotive,11,30,19
+Warehouse 6 - Houston,352,NovaCraft Running Shoes 352,Home & Kitchen,1,20,19
+Warehouse 2 - New York,378,EcoSphere Pet Bed 378,Sports,5,24,19
+Warehouse 1 - Jacksonville,434,NovaCraft Running Shoes 434,Health,29,48,19
+Warehouse 7 - Dallas,158,NovaCraft Travel Mug 158,Books,4,22,18
+Warehouse 3 - Los Angeles,192,BlueNest Headphones 192,Office,32,50,18
+Warehouse 7 - Dallas,221,BlueNest Garden Hose 221,Pets,23,41,18
+Warehouse 3 - Los Angeles,261,Lumina Smart Watch 261,Office,8,26,18
+Warehouse 8 - San Diego,314,BrightPath Car Charger 314,Electronics,2,20,18
+Warehouse 6 - Houston,363,BlueNest Coffee Maker 363,Health,1,19,18
+Warehouse 6 - Houston,466,BrightPath Face Serum 466,Automotive,4,22,18
+Warehouse 2 - New York,104,UrbanEdge Notebook 104,Office,14,31,17
+Warehouse 5 - Seattle,177,UrbanEdge Headphones 177,Fashion,9,26,17
+Warehouse 3 - Los Angeles,210,Apex Car Charger 210,Home & Kitchen,21,38,17
+Warehouse 4 - Miami,235,TerraWorks Running Shoes 235,Books,14,31,17
+Warehouse 4 - Miami,466,BrightPath Face Serum 466,Automotive,10,27,17
+Warehouse 4 - Miami,474,EcoSphere Garden Hose 474,Beauty,19,36,17
+Warehouse 1 - Jacksonville,6,TerraWorks Face Serum 6,Pets,3,19,16
+Warehouse 2 - New York,47,SwiftPro Running Shoes 47,Books,13,29,16
+Warehouse 1 - Jacksonville,230,NovaCraft Yoga Mat 230,Health,22,38,16
+Warehouse 7 - Dallas,304,UrbanEdge Yoga Mat 304,Pets,5,21,16
+Warehouse 7 - Dallas,367,BlueNest Board Game 367,Office,20,36,16
+Warehouse 3 - Los Angeles,398,Apex Cookware Set 398,Office,9,25,16
+Warehouse 6 - Houston,476,BlueNest Smart Watch 476,Fashion,4,20,16
+Warehouse 4 - Miami,106,BrightPath Water Bottle 106,Toys,16,31,15
+Warehouse 7 - Dallas,153,Lumina Board Game 153,Sports,10,25,15
+Warehouse 5 - Seattle,159,Apex Pet Bed 159,Books,34,49,15
+Warehouse 1 - Jacksonville,232,EverPeak Backpack 232,Health,22,37,15
+Warehouse 2 - New York,312,BrightPath Mixer 312,Electronics,34,49,15
+Warehouse 8 - San Diego,413,SwiftPro Backpack 413,Garden,31,46,15
+Warehouse 8 - San Diego,491,Purely Smart Watch 491,Automotive,21,36,15
+Warehouse 6 - Houston,95,Purely Mixer 95,Fashion,12,26,14
+Warehouse 6 - Houston,102,SwiftPro Mixer 102,Health,23,37,14
+Warehouse 6 - Houston,188,ZenHaus Pet Bed 188,Health,26,40,14
+Warehouse 3 - Los Angeles,196,UrbanEdge Office Chair 196,Beauty,27,41,14
+Warehouse 6 - Houston,209,TerraWorks Face Serum 209,Automotive,14,28,14
+Warehouse 6 - Houston,245,UrbanEdge Travel Mug 245,Electronics,22,36,14
+Warehouse 7 - Dallas,263,ZenHaus Garden Hose 263,Office,29,43,14
+Warehouse 7 - Dallas,276,CoreFlex Water Bottle 276,Office,19,33,14
+Warehouse 5 - Seattle,393,SwiftPro Running Shoes 393,Health,31,45,14
+Warehouse 1 - Jacksonville,447,Apex Backpack 447,Fashion,6,20,14
+Warehouse 6 - Houston,482,Vividly Running Shoes 482,Toys,16,30,14
+Warehouse 4 - Miami,33,ZenHaus Face Serum 33,Garden,36,49,13
+Warehouse 8 - San Diego,35,TerraWorks Office Chair 35,Pets,16,29,13
+Warehouse 3 - Los Angeles,79,EcoSphere Car Charger 79,Health,27,40,13
+Warehouse 2 - New York,165,UrbanEdge Face Serum 165,Health,20,33,13
+Warehouse 2 - New York,193,SwiftPro Coffee Maker 193,Electronics,29,42,13
+Warehouse 6 - Houston,202,ZenHaus Backpack 202,Pets,10,23,13
+Warehouse 3 - Los Angeles,325,TerraWorks Board Game 325,Books,32,45,13
+Warehouse 2 - New York,367,BlueNest Board Game 367,Office,22,35,13
+Warehouse 8 - San Diego,387,Lumina Travel Mug 387,Garden,36,49,13
+Warehouse 4 - Miami,27,BlueNest Headphones 27,Automotive,30,42,12
+Warehouse 7 - Dallas,207,UrbanEdge Smart Watch 207,Toys,3,15,12
+Warehouse 8 - San Diego,229,BlueNest Bluetooth Speaker 229,Electronics,24,36,12
+Warehouse 8 - San Diego,235,TerraWorks Running Shoes 235,Books,8,20,12
+Warehouse 2 - New York,261,Lumina Smart Watch 261,Office,23,35,12
+Warehouse 3 - Los Angeles,282,EverPeak Pet Bed 282,Toys,11,23,12
+Warehouse 7 - Dallas,318,Vividly Travel Mug 318,Books,10,22,12
+Warehouse 3 - Los Angeles,405,Vividly Travel Mug 405,Books,17,29,12
+Warehouse 4 - Miami,418,BrightPath Mixer 418,Pets,33,45,12
+Warehouse 6 - Houston,463,ZenHaus Smart Watch 463,Toys,18,30,12
+Warehouse 4 - Miami,60,Purely Garden Hose 60,Fashion,5,16,11
+Warehouse 5 - Seattle,95,Purely Mixer 95,Fashion,5,16,11
+Warehouse 2 - New York,1,NovaCraft Pet Bed 1,Books,11,21,10
+Warehouse 1 - Jacksonville,4,ZenHaus Running Shoes 4,Books,37,47,10
+Warehouse 6 - Houston,6,TerraWorks Face Serum 6,Pets,17,27,10
+Warehouse 5 - Seattle,56,BrightPath Face Serum 56,Pets,11,21,10
+Warehouse 6 - Houston,118,BlueNest Car Charger 118,Automotive,2,12,10
+Warehouse 6 - Houston,166,SwiftPro Water Bottle 166,Toys,38,48,10
+Warehouse 5 - Seattle,247,UrbanEdge Running Shoes 247,Garden,15,25,10
+Warehouse 6 - Houston,309,Apex Coffee Maker 309,Books,27,37,10
+Warehouse 3 - Los Angeles,361,SwiftPro Desk Lamp 361,Toys,35,45,10
+Warehouse 6 - Houston,394,BrightPath Backpack 394,Garden,9,19,10
+Warehouse 5 - Seattle,58,Vividly Backpack 58,Books,13,22,9
+Warehouse 1 - Jacksonville,120,NovaCraft Board Game 120,Beauty,36,45,9
+Warehouse 3 - Los Angeles,141,BrightPath Garden Hose 141,Beauty,30,39,9
+Warehouse 1 - Jacksonville,155,Vividly Face Serum 155,Pets,18,27,9
+Warehouse 7 - Dallas,194,ZenHaus Garden Hose 194,Fashion,5,14,9
+Warehouse 6 - Houston,326,UrbanEdge Board Game 326,Electronics,18,27,9
+Warehouse 6 - Houston,333,TerraWorks Sunglasses 333,Garden,40,49,9
+Warehouse 4 - Miami,454,Apex Backpack 454,Office,1,10,9
+Warehouse 8 - San Diego,12,BrightPath Face Serum 12,Home & Kitchen,13,21,8
+Warehouse 6 - Houston,44,BrightPath Garden Hose 44,Home & Kitchen,12,20,8
+Warehouse 8 - San Diego,84,CoreFlex Desk Lamp 84,Fashion,30,38,8
+Warehouse 2 - New York,102,SwiftPro Mixer 102,Health,42,50,8
+Warehouse 7 - Dallas,105,CoreFlex Backpack 105,Toys,15,23,8
+Warehouse 4 - Miami,149,NovaCraft Sunglasses 149,Garden,26,34,8
+Warehouse 8 - San Diego,196,UrbanEdge Office Chair 196,Beauty,28,36,8
+Warehouse 7 - Dallas,228,UrbanEdge Garden Hose 228,Automotive,9,17,8
+Warehouse 2 - New York,233,EcoSphere Office Chair 233,Toys,14,22,8
+Warehouse 1 - Jacksonville,277,BrightPath Office Chair 277,Fashion,17,25,8
+Warehouse 5 - Seattle,291,Purely Backpack 291,Sports,37,45,8
+Warehouse 8 - San Diego,350,CoreFlex Smart Watch 350,Fashion,8,16,8
+Warehouse 4 - Miami,496,CoreFlex Running Shoes 496,Health,11,19,8
+Warehouse 6 - Houston,62,Lumina Car Charger 62,Pets,39,46,7
+Warehouse 4 - Miami,91,BrightPath Headphones 91,Home & Kitchen,18,25,7
+Warehouse 4 - Miami,128,Purely Pet Bed 128,Health,33,40,7
+Warehouse 4 - Miami,224,BrightPath Backpack 224,Books,38,45,7
+Warehouse 3 - Los Angeles,341,ZenHaus Backpack 341,Fashion,7,14,7
+Warehouse 4 - Miami,414,Northstar Desk Lamp 414,Books,18,25,7
+Warehouse 3 - Los Angeles,42,NovaCraft Running Shoes 42,Sports,23,29,6
+Warehouse 2 - New York,54,BlueNest Desk Lamp 54,Office,24,30,6
+Warehouse 8 - San Diego,71,Vividly Pet Bed 71,Garden,31,37,6
+Warehouse 2 - New York,158,NovaCraft Travel Mug 158,Books,23,29,6
+Warehouse 4 - Miami,207,UrbanEdge Smart Watch 207,Toys,27,33,6
+Warehouse 7 - Dallas,230,NovaCraft Yoga Mat 230,Health,32,38,6
+Warehouse 1 - Jacksonville,264,Vividly Bluetooth Speaker 264,Fashion,14,20,6
+Warehouse 5 - Seattle,293,EcoSphere Bluetooth Speaker 293,Fashion,11,17,6
+Warehouse 8 - San Diego,307,CoreFlex Mixer 307,Garden,38,44,6
+Warehouse 6 - Houston,366,Vividly Pet Bed 366,Home & Kitchen,5,11,6
+Warehouse 5 - Seattle,433,ZenHaus Running Shoes 433,Home & Kitchen,29,35,6
+Warehouse 1 - Jacksonville,28,TerraWorks Mixer 28,Health,41,46,5
+Warehouse 4 - Miami,80,BrightPath Smart Watch 80,Fashion,35,40,5
+Warehouse 5 - Seattle,102,SwiftPro Mixer 102,Health,20,25,5
+Warehouse 1 - Jacksonville,107,Northstar Smart Watch 107,Health,17,22,5
+Warehouse 8 - San Diego,333,TerraWorks Sunglasses 333,Garden,18,23,5
+Warehouse 1 - Jacksonville,354,Vividly Yoga Mat 354,Health,21,26,5
+Warehouse 8 - San Diego,379,BlueNest Coffee Maker 379,Beauty,29,34,5
+Warehouse 5 - Seattle,401,Vividly Cookware Set 401,Fashion,38,43,5
+Warehouse 8 - San Diego,470,SwiftPro Mixer 470,Pets,26,31,5
+Warehouse 7 - Dallas,496,CoreFlex Running Shoes 496,Health,34,39,5
+Warehouse 1 - Jacksonville,59,Vividly Coffee Maker 59,Beauty,9,13,4
+Warehouse 5 - Seattle,85,BrightPath Desk Lamp 85,Pets,26,30,4
+Warehouse 6 - Houston,191,NovaCraft Yoga Mat 191,Toys,36,40,4
+Warehouse 7 - Dallas,302,BlueNest Headphones 302,Toys,46,50,4
+Warehouse 4 - Miami,349,EcoSphere Pet Bed 349,Electronics,43,47,4
+Warehouse 6 - Houston,436,Northstar Mixer 436,Health,43,47,4
+Warehouse 4 - Miami,14,BlueNest Sunglasses 14,Beauty,41,44,3
+Warehouse 8 - San Diego,20,EverPeak Coffee Maker 20,Toys,18,21,3
+Warehouse 8 - San Diego,69,Northstar Board Game 69,Books,7,10,3
+Warehouse 8 - San Diego,79,EcoSphere Car Charger 79,Health,35,38,3
+Warehouse 6 - Houston,132,EverPeak Office Chair 132,Sports,24,27,3
+Warehouse 4 - Miami,212,Lumina Sunglasses 212,Books,12,15,3
+Warehouse 4 - Miami,228,UrbanEdge Garden Hose 228,Automotive,13,16,3
+Warehouse 2 - New York,253,Apex Mixer 253,Electronics,18,21,3
+Warehouse 8 - San Diego,386,BlueNest Smart Watch 386,Fashion,18,21,3
+Warehouse 4 - Miami,416,TerraWorks Garden Hose 416,Garden,39,42,3
+Warehouse 1 - Jacksonville,15,SwiftPro Garden Hose 15,Home & Kitchen,22,24,2
+Warehouse 7 - Dallas,95,Purely Mixer 95,Fashion,25,27,2
+Warehouse 3 - Los Angeles,98,Apex Board Game 98,Health,23,25,2
+Warehouse 8 - San Diego,131,BrightPath Yoga Mat 131,Home & Kitchen,21,23,2
+Warehouse 7 - Dallas,161,EverPeak Backpack 161,Garden,30,32,2
+Warehouse 5 - Seattle,224,BrightPath Backpack 224,Books,45,47,2
+Warehouse 1 - Jacksonville,248,Purely Desk Lamp 248,Beauty,28,30,2
+Warehouse 6 - Houston,327,Northstar Cookware Set 327,Beauty,39,41,2
+Warehouse 2 - New York,389,EverPeak Sunglasses 389,Office,28,30,2
+Warehouse 6 - Houston,391,Apex Garden Hose 391,Health,12,14,2
+Warehouse 8 - San Diego,448,EcoSphere Mixer 448,Health,48,50,2
+Warehouse 3 - Los Angeles,19,UrbanEdge Water Bottle 19,Fashion,29,30,1
+Warehouse 2 - New York,37,BlueNest Face Serum 37,Sports,47,48,1
+Warehouse 1 - Jacksonville,82,Apex Running Shoes 82,Automotive,26,27,1
+Warehouse 1 - Jacksonville,98,Apex Board Game 98,Health,49,50,1

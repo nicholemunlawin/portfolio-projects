@@ -1,0 +1,501 @@
+product_id,product_name,category_name,brand,units_sold,revenue,estimated_cost,gross_profit
+494,CoreFlex Cookware Set 494,Books,CoreFlex,420,221709.69,90921.60,130788.09
+417,UrbanEdge Board Game 417,Pets,UrbanEdge,378,214143.90,82460.70,131683.20
+197,EcoSphere Bluetooth Speaker 197,Office,EcoSphere,380,208238.12,80609.40,127628.72
+419,Northstar Coffee Maker 419,Fashion,Northstar,365,205860.88,79617.45,126243.43
+145,Purely Mixer 145,Garden,Purely,357,190286.92,74580.87,115706.05
+109,Northstar Bluetooth Speaker 109,Office,Northstar,337,185807.54,72845.92,112961.62
+18,BlueNest Board Game 18,Automotive,BlueNest,350,182003.88,68750.50,113253.38
+105,CoreFlex Backpack 105,Toys,CoreFlex,388,179281.98,75462.12,103819.86
+375,Vividly Car Charger 375,Home & Kitchen,Vividly,368,173833.80,67840.80,105993.00
+383,EcoSphere Cookware Set 383,Home & Kitchen,EcoSphere,380,169911.84,74157.00,95754.84
+216,SwiftPro Desk Lamp 216,Office,SwiftPro,459,169556.66,72613.80,96942.86
+364,SwiftPro Face Serum 364,Automotive,SwiftPro,394,169005.18,66310.20,102694.98
+13,SwiftPro Bluetooth Speaker 13,Pets,SwiftPro,352,168630.18,64641.28,103988.90
+469,EcoSphere Yoga Mat 469,Health,EcoSphere,357,167222.85,73591.98,93630.87
+241,CoreFlex Face Serum 241,Sports,CoreFlex,332,164070.95,65911.96,98158.99
+63,BrightPath Cookware Set 63,Beauty,BrightPath,323,163906.47,64170.41,99736.06
+361,SwiftPro Desk Lamp 361,Toys,SwiftPro,343,163259.21,61911.50,101347.71
+133,EcoSphere Garden Hose 133,Home & Kitchen,EcoSphere,357,162778.95,75069.96,87708.99
+38,EverPeak Pet Bed 38,Books,EverPeak,332,161741.28,63043.48,98697.80
+373,SwiftPro Garden Hose 373,Home & Kitchen,SwiftPro,336,158161.18,69182.40,88978.78
+300,UrbanEdge Smart Watch 300,Health,UrbanEdge,350,158133.95,63203.00,94930.95
+326,UrbanEdge Board Game 326,Electronics,UrbanEdge,291,157919.31,63050.97,94868.34
+84,CoreFlex Desk Lamp 84,Fashion,CoreFlex,305,156733.31,63229.55,93503.76
+245,UrbanEdge Travel Mug 245,Electronics,UrbanEdge,328,156447.06,70247.76,86199.30
+286,Purely Car Charger 286,Garden,Purely,381,155673.77,66465.45,89208.32
+372,EverPeak Car Charger 372,Health,EverPeak,373,155634.72,81164.80,74469.92
+299,EcoSphere Face Serum 299,Home & Kitchen,EcoSphere,359,153869.19,64993.36,88875.83
+415,Purely Notebook 415,Sports,Purely,335,153452.95,60222.95,93230.00
+335,BrightPath Yoga Mat 335,Books,BrightPath,353,151625.24,72361.47,79263.77
+275,Northstar Smart Watch 275,Toys,Northstar,389,151293.49,63617.06,87676.43
+389,EverPeak Sunglasses 389,Office,EverPeak,362,150582.85,71111.28,79471.57
+2,Lumina Cookware Set 2,Books,Lumina,379,150475.15,71475.61,78999.54
+111,Apex Desk Lamp 111,Home & Kitchen,Apex,337,150117.51,58429.06,91688.45
+157,TerraWorks Water Bottle 157,Electronics,TerraWorks,323,148344.07,65636.83,82707.24
+123,EverPeak Sunglasses 123,Fashion,EverPeak,325,148327.93,69059.25,79268.68
+115,Northstar Sunglasses 115,Home & Kitchen,Northstar,347,148132.37,66398.45,81733.92
+35,TerraWorks Office Chair 35,Pets,TerraWorks,369,147676.55,80301.78,67374.77
+129,BrightPath Travel Mug 129,Office,BrightPath,372,146847.75,65152.08,81695.67
+497,BlueNest Running Shoes 497,Fashion,BlueNest,336,146549.26,58558.08,87991.18
+15,SwiftPro Garden Hose 15,Home & Kitchen,SwiftPro,360,146075.04,63770.40,82304.64
+65,Lumina Face Serum 65,Books,Lumina,359,145825.61,77906.59,67919.02
+481,EcoSphere Headphones 481,Electronics,EcoSphere,363,144014.93,73634.55,70380.38
+6,TerraWorks Face Serum 6,Pets,TerraWorks,331,143929.59,62942.96,80986.63
+283,Lumina Mixer 283,Sports,Lumina,352,143326.47,74968.96,68357.51
+73,Apex Smart Watch 73,Health,Apex,395,142501.99,61118.35,81383.64
+141,BrightPath Garden Hose 141,Beauty,BrightPath,321,142396.75,53886.27,88510.48
+202,ZenHaus Backpack 202,Pets,ZenHaus,362,141912.45,61460.36,80452.09
+161,EverPeak Backpack 161,Garden,EverPeak,358,141104.20,61314.66,79789.54
+312,BrightPath Mixer 312,Electronics,BrightPath,379,141015.11,54303.12,86711.99
+254,ZenHaus Garden Hose 254,Office,ZenHaus,367,141012.77,65579.23,75433.54
+453,Northstar Car Charger 453,Fashion,Northstar,298,140942.21,64189.20,76753.01
+398,Apex Cookware Set 398,Office,Apex,347,140805.38,72179.47,68625.91
+167,EverPeak Mixer 167,Beauty,EverPeak,331,139750.49,61470.01,78280.48
+132,EverPeak Office Chair 132,Sports,EverPeak,327,138045.79,62038.44,76007.35
+50,SwiftPro Desk Lamp 50,Health,SwiftPro,345,137277.59,54634.20,82643.39
+203,ZenHaus Pet Bed 203,Garden,ZenHaus,333,136823.22,59823.45,76999.77
+215,BlueNest Car Charger 215,Health,BlueNest,388,136806.26,77452.56,59353.70
+43,TerraWorks Running Shoes 43,Toys,TerraWorks,376,136376.19,57200.88,79175.31
+170,Lumina Smart Watch 170,Garden,Lumina,374,136066.75,64937.62,71129.13
+418,BrightPath Mixer 418,Pets,BrightPath,350,135936.88,54561.50,81375.38
+397,NovaCraft Backpack 397,Books,NovaCraft,365,135572.88,62867.60,72705.28
+214,Vividly Desk Lamp 214,Garden,Vividly,336,135266.06,68742.24,66523.82
+153,Lumina Board Game 153,Sports,Lumina,345,135261.54,66495.30,68766.24
+404,NovaCraft Water Bottle 404,Office,NovaCraft,338,134283.52,54096.90,80186.62
+459,SwiftPro Mixer 459,Beauty,SwiftPro,358,133012.09,73919.84,59092.25
+500,SwiftPro Smart Watch 500,Sports,SwiftPro,337,132557.30,62567.42,69989.88
+467,CoreFlex Garden Hose 467,Fashion,CoreFlex,324,132499.59,51797.88,80701.71
+386,BlueNest Smart Watch 386,Fashion,BlueNest,330,132270.21,63449.10,68821.11
+480,TerraWorks Coffee Maker 480,Pets,TerraWorks,378,131748.12,73090.08,58658.04
+130,ZenHaus Face Serum 130,Sports,ZenHaus,363,131719.87,69358.41,62361.46
+210,Apex Car Charger 210,Home & Kitchen,Apex,334,131621.49,73376.46,58245.03
+247,UrbanEdge Running Shoes 247,Garden,UrbanEdge,356,131529.70,76995.68,54534.02
+303,UrbanEdge Notebook 303,Pets,UrbanEdge,330,130575.03,65072.70,65502.33
+184,SwiftPro Pet Bed 184,Beauty,SwiftPro,330,130331.63,53585.40,76746.23
+282,EverPeak Pet Bed 282,Toys,EverPeak,412,130217.14,85337.56,44879.58
+461,EcoSphere Pet Bed 461,Pets,EcoSphere,343,130122.45,65152.85,64969.60
+178,Apex Smart Watch 178,Garden,Apex,388,130003.03,68559.60,61443.43
+66,Vividly Board Game 66,Toys,Vividly,319,128812.85,68291.52,60521.33
+117,EcoSphere Bluetooth Speaker 117,Health,EcoSphere,352,128197.89,54894.40,73303.49
+486,Lumina Headphones 486,Health,Lumina,376,128063.08,50034.32,78028.76
+37,BlueNest Face Serum 37,Sports,BlueNest,363,128018.04,63129.33,64888.71
+116,Vividly Headphones 116,Fashion,Vividly,403,127797.41,82639.18,45158.23
+317,Apex Board Game 317,Automotive,Apex,416,126459.77,60648.64,65811.13
+171,SwiftPro Travel Mug 171,Automotive,SwiftPro,307,126186.05,55416.57,70769.48
+309,Apex Coffee Maker 309,Books,Apex,336,125561.68,48824.16,76737.52
+33,ZenHaus Face Serum 33,Garden,ZenHaus,333,125352.94,64275.66,61077.28
+421,Lumina Cookware Set 421,Office,Lumina,367,124563.47,47394.38,77169.09
+3,CoreFlex Coffee Maker 3,Garden,CoreFlex,316,124248.27,59610.24,64638.03
+302,BlueNest Headphones 302,Toys,BlueNest,319,124075.27,51642.91,72432.36
+200,ZenHaus Garden Hose 200,Sports,ZenHaus,301,124000.74,53815.79,70184.95
+365,EcoSphere Bluetooth Speaker 365,Books,EcoSphere,384,123818.00,76047.36,47770.64
+112,Lumina Mixer 112,Office,Lumina,367,123678.91,80105.09,43573.82
+296,BlueNest Backpack 296,Toys,BlueNest,402,123617.46,47966.64,75650.82
+472,Northstar Pet Bed 472,Home & Kitchen,Northstar,338,123533.74,63378.38,60155.36
+57,SwiftPro Pet Bed 57,Home & Kitchen,SwiftPro,333,122266.76,71461.80,50804.96
+392,NovaCraft Face Serum 392,Fashion,NovaCraft,391,121962.41,46403.88,75558.53
+90,Northstar Running Shoes 90,Garden,Northstar,347,121811.25,48177.48,73633.77
+342,BlueNest Car Charger 342,Electronics,BlueNest,347,121014.27,63865.35,57148.92
+346,BlueNest Coffee Maker 346,Fashion,BlueNest,322,120649.53,63147.42,57502.11
+51,NovaCraft Car Charger 51,Automotive,NovaCraft,375,120636.15,81675.00,38961.15
+274,NovaCraft Cookware Set 274,Garden,NovaCraft,383,120589.56,74378.60,46210.96
+384,CoreFlex Office Chair 384,Books,CoreFlex,395,120355.34,77459.50,42895.84
+46,Lumina Sunglasses 46,Pets,Lumina,351,119700.00,54106.65,65593.35
+54,BlueNest Desk Lamp 54,Office,BlueNest,339,119534.12,66057.54,53476.58
+395,CoreFlex Cookware Set 395,Garden,CoreFlex,329,118304.40,71850.31,46454.09
+304,UrbanEdge Yoga Mat 304,Pets,UrbanEdge,300,117978.94,55767.00,62211.94
+98,Apex Board Game 98,Health,Apex,313,117945.69,50173.90,67771.79
+224,BrightPath Backpack 224,Books,BrightPath,361,117757.16,50843.24,66913.92
+70,BrightPath Backpack 70,Toys,BrightPath,308,117538.02,63937.72,53600.30
+489,SwiftPro Face Serum 489,Garden,SwiftPro,370,117018.56,44840.30,72178.26
+180,TerraWorks Notebook 180,Toys,TerraWorks,407,116869.67,69356.87,47512.80
+464,Apex Running Shoes 464,Sports,Apex,359,115837.85,56208.63,59629.22
+287,UrbanEdge Sunglasses 287,Toys,UrbanEdge,331,115615.68,51142.81,64472.87
+230,NovaCraft Yoga Mat 230,Health,NovaCraft,369,115601.42,56088.00,59513.42
+68,SwiftPro Headphones 68,Health,SwiftPro,359,115364.41,50080.50,65283.91
+276,CoreFlex Water Bottle 276,Office,CoreFlex,395,114522.20,57211.80,57310.40
+377,EverPeak Notebook 377,Garden,EverPeak,364,113971.22,49554.96,64416.26
+359,Vividly Car Charger 359,Pets,Vividly,355,113542.23,56995.25,56546.98
+413,SwiftPro Backpack 413,Garden,SwiftPro,317,113481.59,60182.45,53299.14
+314,BrightPath Car Charger 314,Electronics,BrightPath,377,113085.56,70925.01,42160.55
+446,NovaCraft Coffee Maker 446,Home & Kitchen,NovaCraft,330,112846.53,51546.00,61300.53
+179,BlueNest Pet Bed 179,Health,BlueNest,344,112553.91,68755.28,43798.63
+152,BrightPath Smart Watch 152,Home & Kitchen,BrightPath,311,111942.15,52823.35,59118.80
+405,Vividly Travel Mug 405,Books,Vividly,401,110862.05,46772.64,64089.41
+473,Vividly Cookware Set 473,Electronics,Vividly,367,110813.90,53515.94,57297.96
+257,Purely Board Game 257,Sports,Purely,294,110467.60,56959.56,53508.04
+164,UrbanEdge Headphones 164,Fashion,UrbanEdge,337,108176.82,59824.24,48352.58
+127,BrightPath Headphones 127,Pets,BrightPath,369,108176.74,54600.93,53575.81
+220,ZenHaus Sunglasses 220,Toys,ZenHaus,389,107963.14,53510.84,54452.30
+366,Vividly Pet Bed 366,Home & Kitchen,Vividly,373,107659.13,79762.32,27896.81
+454,Apex Backpack 454,Office,Apex,368,107643.16,53764.80,53878.36
+391,Apex Garden Hose 391,Health,Apex,335,107338.89,60323.45,47015.44
+430,UrbanEdge Notebook 430,Fashion,UrbanEdge,391,107115.36,78442.42,28672.94
+28,TerraWorks Mixer 28,Health,TerraWorks,338,107069.57,74282.26,32787.31
+177,UrbanEdge Headphones 177,Fashion,UrbanEdge,388,106366.21,45787.88,60578.33
+137,NovaCraft Board Game 137,Toys,NovaCraft,326,106304.34,66728.94,39575.40
+19,UrbanEdge Water Bottle 19,Fashion,UrbanEdge,340,106113.75,48008.00,58105.75
+305,TerraWorks Smart Watch 305,Sports,TerraWorks,373,106064.61,50205.80,55858.81
+484,EverPeak Headphones 484,Office,EverPeak,328,105904.07,60742.32,45161.75
+249,Northstar Water Bottle 249,Fashion,Northstar,341,105338.65,47020.49,58318.16
+26,TerraWorks Desk Lamp 26,Home & Kitchen,TerraWorks,331,105064.79,69877.41,35187.38
+93,BrightPath Sunglasses 93,Pets,BrightPath,329,104931.98,52383.38,52548.60
+156,EverPeak Water Bottle 156,Office,EverPeak,344,104892.81,53615.84,51276.97
+238,Apex Yoga Mat 238,Fashion,Apex,368,104657.50,80500.00,24157.50
+110,Apex Yoga Mat 110,Sports,Apex,407,104633.89,40879.08,63754.81
+95,Purely Mixer 95,Fashion,Purely,347,104623.84,57525.66,47098.18
+5,UrbanEdge Coffee Maker 5,Sports,UrbanEdge,394,104462.04,57161.52,47300.52
+160,BlueNest Pet Bed 160,Books,BlueNest,390,103462.73,66686.10,36776.63
+162,ZenHaus Running Shoes 162,Beauty,ZenHaus,360,103258.70,56102.40,47156.30
+284,Purely Face Serum 284,Garden,Purely,300,103096.28,44211.00,58885.28
+485,NovaCraft Garden Hose 485,Sports,NovaCraft,353,102977.08,69996.37,32980.71
+295,EverPeak Office Chair 295,Books,EverPeak,388,102579.78,47658.04,54921.74
+310,UrbanEdge Smart Watch 310,Beauty,UrbanEdge,333,102131.52,39920.04,62211.48
+434,NovaCraft Running Shoes 434,Health,NovaCraft,362,101874.41,66749.18,35125.23
+499,Northstar Yoga Mat 499,Office,Northstar,322,101429.56,43022.42,58407.14
+423,EverPeak Mixer 423,Books,EverPeak,446,101233.41,51374.74,49858.67
+261,Lumina Smart Watch 261,Office,Lumina,329,101217.20,41707.33,59509.87
+334,Northstar Headphones 334,Garden,Northstar,376,101021.97,38728.00,62293.97
+149,NovaCraft Sunglasses 149,Garden,NovaCraft,317,100688.78,65736.29,34952.49
+349,EcoSphere Pet Bed 349,Electronics,EcoSphere,385,100572.33,41075.65,59496.68
+182,EcoSphere Board Game 182,Automotive,EcoSphere,414,100555.13,44645.76,55909.37
+101,SwiftPro Coffee Maker 101,Electronics,SwiftPro,324,100438.18,67764.60,32673.58
+449,Vividly Smart Watch 449,Automotive,Vividly,321,100418.79,54127.02,46291.77
+336,BlueNest Mixer 336,Electronics,BlueNest,305,100341.37,41937.50,58403.87
+80,BrightPath Smart Watch 80,Fashion,BrightPath,337,100193.47,58388.62,41804.85
+279,EcoSphere Face Serum 279,Sports,EcoSphere,390,99873.90,37986.00,61887.90
+147,BrightPath Desk Lamp 147,Automotive,BrightPath,348,99810.20,70525.68,29284.52
+61,Lumina Backpack 61,Garden,Lumina,368,99341.25,70332.16,29009.09
+437,TerraWorks Board Game 437,Books,TerraWorks,303,99192.99,50800.98,48392.01
+1,NovaCraft Pet Bed 1,Books,NovaCraft,393,99076.68,63449.85,35626.83
+163,EverPeak Yoga Mat 163,Beauty,EverPeak,344,98531.08,74462.24,24068.84
+329,BrightPath Smart Watch 329,Beauty,BrightPath,358,98513.40,42874.08,55639.32
+4,ZenHaus Running Shoes 4,Books,ZenHaus,369,98487.01,47243.07,51243.94
+89,Apex Office Chair 89,Garden,Apex,304,98243.57,62496.32,35747.25
+77,BlueNest Bluetooth Speaker 77,Toys,BlueNest,375,96932.51,41808.75,55123.76
+175,SwiftPro Water Bottle 175,Fashion,SwiftPro,334,96928.89,39064.64,57864.25
+371,Purely Headphones 371,Electronics,Purely,342,96913.67,44808.84,52104.83
+319,Lumina Backpack 319,Beauty,Lumina,376,96628.63,42698.56,53930.07
+439,NovaCraft Coffee Maker 439,Health,NovaCraft,332,96590.62,40301.48,56289.14
+169,SwiftPro Headphones 169,Home & Kitchen,SwiftPro,351,96324.04,39266.37,57057.67
+189,CoreFlex Face Serum 189,Home & Kitchen,CoreFlex,354,96294.39,70116.78,26177.61
+323,Vividly Yoga Mat 323,Electronics,Vividly,342,95875.00,37681.56,58193.44
+307,CoreFlex Mixer 307,Garden,CoreFlex,317,95247.13,53030.93,42216.20
+199,ZenHaus Desk Lamp 199,Electronics,ZenHaus,320,95210.38,58128.00,37082.38
+155,Vividly Face Serum 155,Pets,Vividly,315,95150.97,45958.50,49192.47
+41,CoreFlex Pet Bed 41,Pets,CoreFlex,378,94652.90,41311.62,53341.28
+165,UrbanEdge Face Serum 165,Health,UrbanEdge,328,94487.61,70132.96,24354.65
+219,NovaCraft Car Charger 219,Office,NovaCraft,377,94401.01,39814.97,54586.04
+471,Purely Headphones 471,Garden,Purely,327,94372.59,44763.03,49609.56
+438,Apex Face Serum 438,Toys,Apex,331,94319.13,37393.07,56926.06
+218,SwiftPro Desk Lamp 218,Automotive,SwiftPro,385,94219.82,49495.60,44724.22
+424,NovaCraft Bluetooth Speaker 424,Pets,NovaCraft,371,94201.45,37567.46,56633.99
+292,UrbanEdge Face Serum 292,Sports,UrbanEdge,360,94047.02,60872.40,33174.62
+311,NovaCraft Board Game 311,Fashion,NovaCraft,374,93865.71,42894.06,50971.65
+252,CoreFlex Headphones 252,Automotive,CoreFlex,317,93117.57,69565.65,23551.92
+11,BlueNest Desk Lamp 11,Beauty,BlueNest,351,92399.23,52955.37,39443.86
+269,Apex Board Game 269,Garden,Apex,382,92330.88,50007.62,42323.26
+316,CoreFlex Pet Bed 316,Toys,CoreFlex,349,92282.31,65078.03,27204.28
+468,ZenHaus Garden Hose 468,Pets,ZenHaus,338,91959.62,64710.10,27249.52
+17,BrightPath Desk Lamp 17,Pets,BrightPath,315,91722.90,67375.35,24347.55
+72,UrbanEdge Smart Watch 72,Home & Kitchen,UrbanEdge,359,91515.49,34593.24,56922.25
+493,Apex Travel Mug 493,Electronics,Apex,372,91434.36,40395.48,51038.88
+491,Purely Smart Watch 491,Automotive,Purely,414,91295.68,37106.82,54188.86
+138,ZenHaus Pet Bed 138,Office,ZenHaus,314,91195.79,44399.60,46796.19
+256,Vividly Backpack 256,Toys,Vividly,312,90526.64,34578.96,55947.68
+367,BlueNest Board Game 367,Office,BlueNest,374,90422.94,34565.08,55857.86
+278,Northstar Backpack 278,Garden,Northstar,327,90417.02,51388.05,39028.97
+82,Apex Running Shoes 82,Automotive,Apex,407,90282.51,41033.74,49248.77
+444,BrightPath Mixer 444,Garden,BrightPath,405,90054.98,38880.00,51174.98
+236,BrightPath Mixer 236,Pets,BrightPath,358,89787.40,49819.28,39968.12
+442,BlueNest Car Charger 442,Office,BlueNest,321,89350.83,67210.98,22139.85
+318,Vividly Travel Mug 318,Books,Vividly,310,88608.08,57396.50,31211.58
+351,BlueNest Travel Mug 351,Automotive,BlueNest,351,88553.78,51403.95,37149.83
+393,SwiftPro Running Shoes 393,Health,SwiftPro,322,88480.14,35915.88,52564.26
+114,UrbanEdge Smart Watch 114,Beauty,UrbanEdge,321,88078.26,65968.71,22109.55
+31,EcoSphere Pet Bed 31,Beauty,EcoSphere,363,87796.32,48954.18,38842.14
+223,ZenHaus Coffee Maker 223,Pets,ZenHaus,354,87737.79,38929.38,48808.41
+495,BlueNest Coffee Maker 495,Books,BlueNest,355,87704.93,65263.20,22441.73
+144,EcoSphere Travel Mug 144,Health,EcoSphere,387,87505.50,64938.60,22566.90
+465,Northstar Notebook 465,Office,Northstar,368,87135.04,48874.08,38260.96
+55,UrbanEdge Pet Bed 55,Fashion,UrbanEdge,329,86837.77,51152.92,35684.85
+357,ZenHaus Yoga Mat 357,Sports,ZenHaus,359,86338.64,32399.75,53938.89
+64,NovaCraft Cookware Set 64,Automotive,NovaCraft,350,86310.07,51163.00,35147.07
+206,EcoSphere Office Chair 206,Health,EcoSphere,341,85555.19,37683.91,47871.28
+321,Apex Desk Lamp 321,Electronics,Apex,346,85554.98,51256.44,34298.54
+239,Northstar Desk Lamp 239,Garden,Northstar,366,85176.06,48103.38,37072.68
+350,CoreFlex Smart Watch 350,Fashion,CoreFlex,330,85152.76,56499.30,28653.46
+67,Northstar Desk Lamp 67,Pets,Northstar,357,84837.89,57095.01,27742.88
+240,CoreFlex Cookware Set 240,Beauty,CoreFlex,336,84618.64,40645.92,43972.72
+56,BrightPath Face Serum 56,Pets,BrightPath,354,84321.46,57146.22,27175.24
+124,TerraWorks Backpack 124,Home & Kitchen,TerraWorks,357,84218.97,39241.44,44977.53
+425,Vividly Car Charger 425,Pets,Vividly,320,83935.80,45411.20,38524.60
+343,SwiftPro Headphones 343,Beauty,SwiftPro,376,83284.02,49361.28,33922.74
+457,BrightPath Desk Lamp 457,Toys,BrightPath,370,83094.65,34665.30,48429.35
+118,BlueNest Car Charger 118,Automotive,BlueNest,322,82827.01,55374.34,27452.67
+125,Northstar Yoga Mat 125,Fashion,Northstar,334,82801.44,46753.32,36048.12
+291,Purely Backpack 291,Sports,Purely,340,82655.76,64338.20,18317.56
+47,SwiftPro Running Shoes 47,Books,SwiftPro,292,82382.59,38062.20,44320.39
+232,EverPeak Backpack 232,Health,EverPeak,390,82335.23,59467.20,22868.03
+204,Apex Bluetooth Speaker 204,Sports,Apex,401,82293.22,47125.52,35167.70
+91,BrightPath Headphones 91,Home & Kitchen,BrightPath,369,82287.35,53877.69,28409.66
+259,Lumina Desk Lamp 259,Garden,Lumina,339,82119.13,38747.70,43371.43
+324,ZenHaus Car Charger 324,Sports,ZenHaus,368,81570.81,52885.28,28685.53
+207,UrbanEdge Smart Watch 207,Toys,UrbanEdge,340,81074.43,32487.00,48587.43
+416,TerraWorks Garden Hose 416,Garden,TerraWorks,316,81016.71,40391.12,40625.59
+410,Lumina Sunglasses 410,Garden,Lumina,335,81011.98,37332.40,43679.58
+96,SwiftPro Desk Lamp 96,Sports,SwiftPro,389,80767.01,40315.96,40451.05
+201,EcoSphere Backpack 201,Garden,EcoSphere,297,80703.66,59459.40,21244.26
+25,UrbanEdge Mixer 25,Home & Kitchen,UrbanEdge,321,80514.74,33201.03,47313.71
+234,Northstar Mixer 234,Automotive,Northstar,319,80480.21,45786.07,34694.14
+401,Vividly Cookware Set 401,Fashion,Vividly,362,79991.64,59447.64,20544.00
+458,ZenHaus Bluetooth Speaker 458,Books,ZenHaus,376,79061.94,48827.36,30234.58
+229,BlueNest Bluetooth Speaker 229,Electronics,BlueNest,364,78616.61,52932.88,25683.73
+225,BlueNest Running Shoes 225,Books,BlueNest,362,78198.89,53221.24,24977.65
+400,Lumina Desk Lamp 400,Books,Lumina,319,77989.92,40410.92,37579.00
+146,Purely Coffee Maker 146,Books,Purely,374,77304.58,56200.98,21103.60
+447,Apex Backpack 447,Fashion,Apex,349,76538.25,37199.91,39338.34
+306,ZenHaus Mixer 306,Automotive,ZenHaus,378,75908.67,35104.86,40803.81
+368,EcoSphere Bluetooth Speaker 368,Office,EcoSphere,382,75528.54,56444.32,19084.22
+340,NovaCraft Backpack 340,Beauty,NovaCraft,316,74953.44,30181.16,44772.28
+168,NovaCraft Smart Watch 168,Health,NovaCraft,317,74518.22,31614.41,42903.81
+186,Purely Coffee Maker 186,Home & Kitchen,Purely,364,74427.28,47068.84,27358.44
+475,BrightPath Water Bottle 475,Toys,BrightPath,318,74412.86,55761.30,18651.56
+60,Purely Garden Hose 60,Fashion,Purely,327,74011.75,41424.36,32587.39
+456,SwiftPro Smart Watch 456,Automotive,SwiftPro,347,73945.11,55637.98,18307.13
+48,Vividly Smart Watch 48,Automotive,Vividly,335,73680.63,37051.00,36629.63
+16,EverPeak Garden Hose 16,Office,EverPeak,351,73576.36,34443.63,39132.73
+222,UrbanEdge Backpack 222,Beauty,UrbanEdge,309,73551.06,35346.51,38204.55
+142,Northstar Backpack 142,Home & Kitchen,Northstar,339,73367.38,53029.77,20337.61
+460,Apex Cookware Set 460,Pets,Apex,280,73246.51,30301.60,42944.91
+363,BlueNest Coffee Maker 363,Health,BlueNest,333,73042.64,43523.10,29519.54
+470,SwiftPro Mixer 470,Pets,SwiftPro,347,72910.38,27791.23,45119.15
+406,BrightPath Desk Lamp 406,Office,BrightPath,350,72560.47,28318.50,44241.97
+24,EcoSphere Bluetooth Speaker 24,Office,EcoSphere,354,72491.71,31413.96,41077.75
+271,TerraWorks Office Chair 271,Fashion,TerraWorks,364,72367.60,56696.64,15670.96
+97,BrightPath Water Bottle 97,Sports,BrightPath,340,71178.29,45478.40,25699.89
+483,TerraWorks Travel Mug 483,Garden,TerraWorks,325,71019.98,29984.50,41035.48
+104,UrbanEdge Notebook 104,Office,UrbanEdge,336,70934.48,59599.68,11334.80
+29,BlueNest Smart Watch 29,Garden,BlueNest,357,70749.03,55042.26,15706.77
+322,Apex Notebook 322,Pets,Apex,327,70460.89,30646.44,39814.45
+445,NovaCraft Cookware Set 445,Garden,NovaCraft,346,70330.48,40274.40,30056.08
+345,Vividly Board Game 345,Electronics,Vividly,366,70307.30,40172.16,30135.14
+27,BlueNest Headphones 27,Automotive,BlueNest,322,70214.60,39567.36,30647.24
+408,Apex Notebook 408,Garden,Apex,350,69952.40,36869.00,33083.40
+374,Apex Headphones 374,Garden,Apex,306,69626.63,40554.18,29072.45
+264,Vividly Bluetooth Speaker 264,Fashion,Vividly,386,69512.61,49133.94,20378.67
+107,Northstar Smart Watch 107,Health,Northstar,314,68922.17,44239.46,24682.71
+87,BrightPath Bluetooth Speaker 87,Fashion,BrightPath,372,68122.68,35827.32,32295.36
+213,Apex Smart Watch 213,Fashion,Apex,333,67994.07,54565.38,13428.69
+272,EcoSphere Car Charger 272,Office,EcoSphere,363,67914.17,35279.97,32634.20
+320,BrightPath Car Charger 320,Beauty,BrightPath,367,67676.60,46484.22,21192.38
+135,Lumina Desk Lamp 135,Toys,Lumina,313,67614.18,25953.96,41660.22
+191,NovaCraft Yoga Mat 191,Toys,NovaCraft,334,67603.30,33089.38,34513.92
+78,TerraWorks Face Serum 78,Fashion,TerraWorks,356,67516.13,40139.00,27377.13
+255,CoreFlex Yoga Mat 255,Garden,CoreFlex,339,67223.35,34967.85,32255.50
+358,CoreFlex Bluetooth Speaker 358,Automotive,CoreFlex,348,66750.07,39195.24,27554.83
+333,TerraWorks Sunglasses 333,Garden,TerraWorks,339,66429.30,43419.12,23010.18
+34,BrightPath Headphones 34,Pets,BrightPath,318,66064.59,34954.56,31110.03
+258,UrbanEdge Cookware Set 258,Health,UrbanEdge,350,65652.69,25434.50,40218.19
+23,Lumina Office Chair 23,Garden,Lumina,378,65020.75,29151.36,35869.39
+448,EcoSphere Mixer 448,Health,EcoSphere,369,65013.35,28294.92,36718.43
+352,NovaCraft Running Shoes 352,Home & Kitchen,NovaCraft,339,64609.32,26465.73,38143.59
+58,Vividly Backpack 58,Books,Vividly,335,63488.78,33778.05,29710.73
+396,Purely Travel Mug 396,Health,Purely,321,63473.32,45732.87,17740.45
+443,BlueNest Sunglasses 443,Office,BlueNest,340,62962.93,26312.60,36650.33
+172,Vividly Headphones 172,Health,Vividly,302,62909.46,39057.66,23851.80
+176,NovaCraft Running Shoes 176,Sports,NovaCraft,341,62527.32,26366.12,36161.20
+208,EcoSphere Sunglasses 208,Pets,EcoSphere,401,62503.94,32268.47,30235.47
+313,UrbanEdge Coffee Maker 313,Books,UrbanEdge,325,62395.51,30342.00,32053.51
+59,Vividly Coffee Maker 59,Beauty,Vividly,296,61949.75,32414.96,29534.79
+158,NovaCraft Travel Mug 158,Books,NovaCraft,383,61814.07,25128.63,36685.44
+487,CoreFlex Notebook 487,Home & Kitchen,CoreFlex,363,61609.86,23783.76,37826.10
+348,CoreFlex Mixer 348,Home & Kitchen,CoreFlex,324,61126.50,27779.76,33346.74
+205,Northstar Headphones 205,Fashion,Northstar,340,61003.45,31718.60,29284.85
+270,BlueNest Headphones 270,Home & Kitchen,BlueNest,365,60618.90,48439.15,12179.75
+265,EcoSphere Coffee Maker 265,Books,EcoSphere,396,60406.34,44969.76,15436.58
+44,BrightPath Garden Hose 44,Home & Kitchen,BrightPath,419,60148.57,28119.09,32029.48
+435,BlueNest Notebook 435,Beauty,BlueNest,368,60112.49,22996.32,37116.17
+211,EverPeak Travel Mug 211,Books,EverPeak,413,59686.29,25622.52,34063.77
+39,BlueNest Pet Bed 39,Pets,BlueNest,413,59598.73,25705.12,33893.61
+360,Northstar Board Game 360,Fashion,Northstar,351,59261.55,24152.31,35109.24
+403,EcoSphere Running Shoes 403,Beauty,EcoSphere,360,59167.28,23979.60,35187.68
+53,NovaCraft Office Chair 53,Beauty,NovaCraft,331,58676.67,30620.81,28055.86
+280,BlueNest Smart Watch 280,Home & Kitchen,BlueNest,357,58242.91,23172.87,35070.04
+479,Purely Office Chair 479,Books,Purely,381,57393.69,30205.68,27188.01
+52,UrbanEdge Face Serum 52,Pets,UrbanEdge,406,57315.13,31627.40,25687.73
+407,EcoSphere Notebook 407,Office,EcoSphere,371,57008.94,26155.50,30853.44
+412,EverPeak Face Serum 412,Health,EverPeak,366,56908.09,23742.42,33165.67
+337,UrbanEdge Office Chair 337,Books,UrbanEdge,360,56712.69,34333.20,22379.49
+263,ZenHaus Garden Hose 263,Office,ZenHaus,331,56506.57,21210.48,35296.09
+347,BlueNest Sunglasses 347,Fashion,BlueNest,354,56412.23,33038.82,23373.41
+281,BrightPath Sunglasses 281,Office,BrightPath,356,56198.54,35923.96,20274.58
+113,EcoSphere Car Charger 113,Pets,EcoSphere,397,55920.61,32180.82,23739.79
+338,Purely Pet Bed 338,Fashion,Purely,399,55548.73,33320.49,22228.24
+69,Northstar Board Game 69,Books,Northstar,386,54854.64,30505.58,24349.06
+235,TerraWorks Running Shoes 235,Books,TerraWorks,347,54431.86,41768.39,12663.47
+496,CoreFlex Running Shoes 496,Health,CoreFlex,377,53891.70,24621.87,29269.83
+429,ZenHaus Water Bottle 429,Beauty,ZenHaus,319,53844.94,23845.25,29999.69
+288,Northstar Face Serum 288,Health,Northstar,381,53560.22,32979.36,20580.86
+450,ZenHaus Yoga Mat 450,Electronics,ZenHaus,338,53311.29,30460.56,22850.73
+414,Northstar Desk Lamp 414,Books,Northstar,382,52787.47,39724.18,13063.29
+462,TerraWorks Headphones 462,Automotive,TerraWorks,301,52712.24,44358.37,8353.87
+353,BrightPath Car Charger 353,Home & Kitchen,BrightPath,378,52705.62,42438.06,10267.56
+195,BlueNest Board Game 195,Electronics,BlueNest,386,52217.42,26151.50,26065.92
+332,Apex Notebook 332,Electronics,Apex,370,51675.39,29988.50,21686.89
+22,NovaCraft Garden Hose 22,Books,NovaCraft,353,51140.68,24830.02,26310.66
+331,NovaCraft Yoga Mat 331,Books,NovaCraft,357,51139.04,23908.29,27230.75
+267,Vividly Yoga Mat 267,Sports,Vividly,328,50780.60,25682.40,25098.20
+266,BlueNest Running Shoes 266,Automotive,BlueNest,358,50517.19,28969.36,21547.83
+354,Vividly Yoga Mat 354,Health,Vividly,370,49494.57,36322.90,13171.67
+432,UrbanEdge Cookware Set 432,Toys,UrbanEdge,326,49467.66,40098.00,9369.66
+436,Northstar Mixer 436,Health,Northstar,337,49375.04,28146.24,21228.80
+399,UrbanEdge Yoga Mat 399,Electronics,UrbanEdge,333,49355.87,21102.21,28253.66
+362,EcoSphere Desk Lamp 362,Fashion,EcoSphere,357,48814.38,38531.01,10283.37
+492,CoreFlex Face Serum 492,Health,CoreFlex,326,48367.52,31387.28,16980.24
+390,Northstar Backpack 390,Garden,Northstar,323,48166.15,25975.66,22190.49
+21,Lumina Car Charger 21,Electronics,Lumina,389,47741.44,19002.65,28738.79
+451,NovaCraft Yoga Mat 451,Electronics,NovaCraft,320,47577.49,27360.00,20217.49
+30,Purely Bluetooth Speaker 30,Garden,Purely,315,47504.86,39787.65,7717.21
+36,Northstar Headphones 36,Pets,Northstar,368,47217.64,32008.64,15209.00
+297,EverPeak Coffee Maker 297,Toys,EverPeak,287,46959.84,32881.59,14078.25
+380,EverPeak Running Shoes 380,Pets,EverPeak,367,46821.33,34776.92,12044.41
+328,CoreFlex Board Game 328,Home & Kitchen,CoreFlex,358,46596.05,31847.68,14748.37
+260,CoreFlex Car Charger 260,Garden,CoreFlex,345,46404.49,18733.50,27670.99
+298,NovaCraft Board Game 298,Health,NovaCraft,349,46363.28,36735.74,9627.54
+187,Northstar Notebook 187,Fashion,Northstar,349,46088.67,36041.23,10047.44
+411,ZenHaus Mixer 411,Garden,ZenHaus,389,45782.26,20581.99,25200.27
+194,ZenHaus Garden Hose 194,Fashion,ZenHaus,323,45548.97,31702.45,13846.52
+121,Purely Face Serum 121,Books,Purely,354,44515.91,29300.58,15215.33
+209,TerraWorks Face Serum 209,Automotive,TerraWorks,355,44423.70,35063.35,9360.35
+85,BrightPath Desk Lamp 85,Pets,BrightPath,368,44376.94,21112.16,23264.78
+32,BlueNest Smart Watch 32,Electronics,BlueNest,349,43909.83,20440.93,23468.90
+409,ZenHaus Backpack 409,Beauty,ZenHaus,358,42925.34,19117.20,23808.14
+327,Northstar Cookware Set 327,Beauty,Northstar,399,42585.63,27574.89,15010.74
+12,BrightPath Face Serum 12,Home & Kitchen,BrightPath,324,42427.25,20259.72,22167.53
+14,BlueNest Sunglasses 14,Beauty,BlueNest,336,41987.71,16309.44,25678.27
+466,BrightPath Face Serum 466,Automotive,BrightPath,356,41961.37,26967.00,14994.37
+420,TerraWorks Mixer 420,Sports,TerraWorks,344,41808.62,21682.32,20126.30
+455,TerraWorks Car Charger 455,Automotive,TerraWorks,373,41565.49,20093.51,21471.98
+174,EcoSphere Desk Lamp 174,Office,EcoSphere,344,41130.56,20722.56,20408.00
+463,ZenHaus Smart Watch 463,Toys,ZenHaus,341,40814.78,17523.99,23290.79
+9,EcoSphere Sunglasses 9,Automotive,EcoSphere,270,40407.94,17595.90,22812.04
+385,Lumina Board Game 385,Office,Lumina,342,40113.75,27035.10,13078.65
+148,Lumina Desk Lamp 148,Sports,Lumina,331,39513.88,17814.42,21699.46
+341,ZenHaus Backpack 341,Fashion,ZenHaus,396,39451.37,19063.44,20387.93
+369,BlueNest Face Serum 369,Fashion,BlueNest,323,39100.39,33110.73,5989.66
+154,EcoSphere Car Charger 154,Fashion,EcoSphere,348,38685.80,19568.04,19117.76
+120,NovaCraft Board Game 120,Beauty,NovaCraft,340,37870.26,29699.00,8171.26
+108,TerraWorks Backpack 108,Garden,TerraWorks,363,37702.94,15623.52,22079.42
+131,BrightPath Yoga Mat 131,Home & Kitchen,BrightPath,353,37198.99,16509.81,20689.18
+7,Purely Face Serum 7,Fashion,Purely,370,36882.38,23550.50,13331.88
+227,Apex Running Shoes 227,Sports,Apex,365,36793.51,19093.15,17700.36
+273,EcoSphere Desk Lamp 273,Home & Kitchen,EcoSphere,413,36767.28,26506.34,10260.94
+49,UrbanEdge Board Game 49,Automotive,UrbanEdge,368,36549.92,28067.36,8482.56
+339,EcoSphere Notebook 339,Sports,EcoSphere,290,36466.36,27039.60,9426.76
+128,Purely Pet Bed 128,Health,Purely,340,36133.62,17017.00,19116.62
+217,EcoSphere Car Charger 217,Beauty,EcoSphere,363,36093.66,23892.66,12201.00
+134,UrbanEdge Notebook 134,Pets,UrbanEdge,361,35230.53,20988.54,14241.99
+490,Vividly Backpack 490,Garden,Vividly,357,34857.72,20545.35,14312.37
+482,Vividly Running Shoes 482,Toys,Vividly,399,34479.18,17667.72,16811.46
+431,ZenHaus Garden Hose 431,Office,ZenHaus,294,34355.65,13221.18,21134.47
+248,Purely Desk Lamp 248,Beauty,Purely,315,33178.23,12974.85,20203.38
+477,TerraWorks Coffee Maker 477,Garden,TerraWorks,343,32735.46,14773.01,17962.45
+151,ZenHaus Cookware Set 151,Health,ZenHaus,352,32706.63,20401.92,12304.71
+422,EcoSphere Mixer 422,Home & Kitchen,EcoSphere,384,32564.93,25271.04,7293.89
+294,NovaCraft Water Bottle 294,Beauty,NovaCraft,319,32128.60,13050.29,19078.31
+40,Apex Mixer 40,Pets,Apex,364,32072.93,18538.52,13534.41
+226,EverPeak Sunglasses 226,Pets,EverPeak,312,32018.02,13752.96,18265.06
+106,BrightPath Water Bottle 106,Toys,BrightPath,350,31754.57,19586.00,12168.57
+308,Northstar Sunglasses 308,Toys,Northstar,334,31604.10,24298.50,7305.60
+183,TerraWorks Headphones 183,Electronics,TerraWorks,327,31017.41,22706.88,8310.53
+196,UrbanEdge Office Chair 196,Beauty,UrbanEdge,290,30504.40,18252.60,12251.80
+315,Vividly Smart Watch 315,Garden,Vividly,389,30416.90,15840.08,14576.82
+498,EverPeak Headphones 498,Books,EverPeak,367,29846.06,12239.45,17606.61
+193,SwiftPro Coffee Maker 193,Electronics,SwiftPro,319,29695.10,11713.68,17981.42
+140,Northstar Backpack 140,Fashion,Northstar,390,28580.74,17202.90,11377.84
+243,UrbanEdge Face Serum 243,Books,UrbanEdge,360,28489.75,14281.20,14208.55
+356,Lumina Desk Lamp 356,Electronics,Lumina,345,28273.40,16760.10,11513.30
+10,EcoSphere Board Game 10,Toys,EcoSphere,387,28067.79,19458.36,8609.43
+188,ZenHaus Pet Bed 188,Health,ZenHaus,309,26757.33,16404.81,10352.52
+92,EcoSphere Smart Watch 92,Automotive,EcoSphere,339,26146.61,18980.61,7166.00
+290,ZenHaus Cookware Set 290,Books,ZenHaus,362,25796.28,13086.30,12709.98
+452,CoreFlex Sunglasses 452,Pets,CoreFlex,352,25535.19,20785.60,4749.59
+476,BlueNest Smart Watch 476,Fashion,BlueNest,314,25505.94,13442.34,12063.60
+76,EcoSphere Mixer 76,Home & Kitchen,EcoSphere,324,24852.21,11757.96,13094.25
+251,UrbanEdge Backpack 251,Beauty,UrbanEdge,420,24433.57,12066.60,12366.97
+71,Vividly Pet Bed 71,Garden,Vividly,313,24389.17,9937.75,14451.42
+344,Northstar Smart Watch 344,Office,Northstar,363,23443.44,15648.93,7794.51
+198,Vividly Travel Mug 198,Electronics,Vividly,403,22797.23,13927.68,8869.55
+277,BrightPath Office Chair 277,Fashion,BrightPath,337,22664.06,8553.06,14111.00
+143,NovaCraft Travel Mug 143,Pets,NovaCraft,322,22385.70,13578.74,8806.96
+231,UrbanEdge Notebook 231,Fashion,UrbanEdge,339,22337.25,18306.00,4031.25
+86,Lumina Desk Lamp 86,Beauty,Lumina,394,21339.65,10835.00,10504.65
+119,BrightPath Travel Mug 119,Office,BrightPath,353,21241.79,8171.95,13069.84
+88,Northstar Garden Hose 88,Garden,Northstar,283,21165.61,8419.25,12746.36
+62,Lumina Car Charger 62,Pets,Lumina,364,20682.88,12161.24,8521.64
+136,Apex Board Game 136,Garden,Apex,337,20183.64,9392.19,10791.45
+402,ZenHaus Backpack 402,Office,ZenHaus,329,19523.70,15581.44,3942.26
+285,Purely Office Chair 285,Books,Purely,370,19029.50,13331.10,5698.40
+237,BrightPath Cookware Set 237,Pets,BrightPath,341,19019.76,14199.24,4820.52
+382,Purely Headphones 382,Beauty,Purely,342,18180.09,9172.44,9007.65
+159,Apex Pet Bed 159,Books,Apex,357,17998.83,14333.55,3665.28
+190,Purely Yoga Mat 190,Pets,Purely,360,17979.16,7790.40,10188.76
+440,EverPeak Backpack 440,Automotive,EverPeak,356,17940.56,14827.40,3113.16
+166,SwiftPro Water Bottle 166,Toys,SwiftPro,362,17136.69,10689.86,6446.83
+212,Lumina Sunglasses 212,Books,Lumina,348,16737.95,11539.68,5198.27
+173,SwiftPro Backpack 173,Home & Kitchen,SwiftPro,360,16248.72,6724.80,9523.92
+427,Vividly Coffee Maker 427,Garden,Vividly,378,15841.97,7261.38,8580.59
+246,SwiftPro Car Charger 246,Home & Kitchen,SwiftPro,350,15487.82,9478.00,6009.82
+293,EcoSphere Bluetooth Speaker 293,Fashion,EcoSphere,324,15176.48,8112.96,7063.52
+426,Northstar Face Serum 426,Garden,Northstar,343,15138.56,8458.38,6680.18
+330,Vividly Car Charger 330,Office,Vividly,318,14937.88,11114.10,3823.78
+122,Northstar Running Shoes 122,Toys,Northstar,364,14888.88,10177.44,4711.44
+102,SwiftPro Mixer 102,Health,SwiftPro,326,14682.08,6063.60,8618.48
+103,EverPeak Car Charger 103,Beauty,EverPeak,386,14426.47,6542.70,7883.77
+244,UrbanEdge Mixer 244,Toys,UrbanEdge,345,14341.91,9083.85,5258.06
+250,Lumina Face Serum 250,Pets,Lumina,335,13953.62,10843.95,3109.67
+387,Lumina Travel Mug 387,Garden,Lumina,340,13934.33,5514.80,8419.53
+139,EcoSphere Cookware Set 139,Sports,EcoSphere,375,13396.28,5572.50,7823.78
+83,Northstar Smart Watch 83,Health,Northstar,380,13317.00,8546.20,4770.80
+441,Vividly Backpack 441,Electronics,Vividly,279,13192.60,7739.46,5453.14
+488,CoreFlex Notebook 488,Toys,CoreFlex,342,13022.20,8231.94,4790.26
+228,UrbanEdge Garden Hose 228,Automotive,UrbanEdge,351,12414.78,10336.95,2077.83
+381,Vividly Coffee Maker 381,Electronics,Vividly,365,12122.58,4606.30,7516.28
+233,EcoSphere Office Chair 233,Toys,EcoSphere,339,11826.14,5763.00,6063.14
+150,Apex Yoga Mat 150,Fashion,Apex,372,11677.26,9140.04,2537.22
+370,EcoSphere Running Shoes 370,Automotive,EcoSphere,341,11515.54,5902.71,5612.83
+268,ZenHaus Pet Bed 268,Books,ZenHaus,313,11389.34,8097.31,3292.03
+253,Apex Mixer 253,Electronics,Apex,370,10021.11,4872.90,5148.21
+181,CoreFlex Running Shoes 181,Books,CoreFlex,366,9992.20,4183.38,5808.82
+99,Purely Smart Watch 99,Sports,Purely,375,9968.67,5471.25,4497.42
+355,NovaCraft Smart Watch 355,Books,NovaCraft,372,9134.98,7659.48,1475.50
+75,Apex Mixer 75,Sports,Apex,345,8562.28,3550.05,5012.23
+242,BlueNest Yoga Mat 242,Garden,BlueNest,331,8539.86,3356.34,5183.52
+45,Purely Face Serum 45,Sports,Purely,351,8506.70,3453.84,5052.86
+301,NovaCraft Office Chair 301,Office,NovaCraft,389,8066.18,5208.71,2857.47
+325,TerraWorks Board Game 325,Books,TerraWorks,388,7302.22,4970.28,2331.94
+79,EcoSphere Car Charger 79,Health,EcoSphere,375,7164.51,5535.00,1629.51
+478,SwiftPro Smart Watch 478,Office,SwiftPro,414,7115.79,4247.64,2868.15
+94,Apex Notebook 94,Home & Kitchen,Apex,355,6378.97,4160.60,2218.37
+394,BrightPath Backpack 394,Garden,BrightPath,347,6346.61,3980.09,2366.52
+74,CoreFlex Notebook 74,Toys,CoreFlex,345,6093.10,2383.95,3709.15
+42,NovaCraft Running Shoes 42,Sports,NovaCraft,315,5904.81,2822.40,3082.41
+126,UrbanEdge Sunglasses 126,Fashion,UrbanEdge,341,5879.94,3658.93,2221.01
+376,Apex Water Bottle 376,Electronics,Apex,372,5784.17,3251.28,2532.89
+428,BrightPath Water Bottle 428,Automotive,BrightPath,336,5681.14,2415.84,3265.30
+388,Northstar Travel Mug 388,Toys,Northstar,351,4989.12,3646.89,1342.23
+8,SwiftPro Running Shoes 8,Electronics,SwiftPro,307,4842.44,3134.47,1707.97
+185,BlueNest Garden Hose 185,Health,BlueNest,349,4517.88,2118.43,2399.45
+81,ZenHaus Pet Bed 81,Automotive,ZenHaus,342,3774.31,1696.32,2077.99
+379,BlueNest Coffee Maker 379,Beauty,BlueNest,344,3763.23,1902.32,1860.91
+100,NovaCraft Car Charger 100,Beauty,NovaCraft,339,3525.56,1942.47,1583.09
+20,EverPeak Coffee Maker 20,Toys,EverPeak,369,3231.82,2630.97,600.85
+262,NovaCraft Mixer 262,Electronics,NovaCraft,403,3208.38,2494.57,713.81
+474,EcoSphere Garden Hose 474,Beauty,EcoSphere,297,3172.54,1939.41,1233.13
+433,ZenHaus Running Shoes 433,Home & Kitchen,ZenHaus,346,3142.48,2089.84,1052.64
+221,BlueNest Garden Hose 221,Pets,BlueNest,345,2663.25,1752.60,910.65
+378,EcoSphere Pet Bed 378,Sports,EcoSphere,307,2602.49,1783.67,818.82
+192,BlueNest Headphones 192,Office,BlueNest,308,2474.56,1604.68,869.88
+289,EcoSphere Running Shoes 289,Beauty,EcoSphere,333,2414.29,1192.14,1222.15

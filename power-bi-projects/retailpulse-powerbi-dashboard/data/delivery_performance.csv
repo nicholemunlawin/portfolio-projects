@@ -1,0 +1,129 @@
+warehouse_name,carrier,shipping_method,delivered_shipments,avg_delivery_days,pct_over_5_days
+Warehouse 1 - Jacksonville,DHL,expedited,303,5.38,47.19
+Warehouse 1 - Jacksonville,DHL,overnight,307,5.37,50.49
+Warehouse 1 - Jacksonville,DHL,pickup,317,5.46,48.26
+Warehouse 1 - Jacksonville,DHL,standard,307,5.65,52.77
+Warehouse 1 - Jacksonville,FedEx,expedited,267,5.57,48.69
+Warehouse 1 - Jacksonville,FedEx,overnight,296,5.42,48.99
+Warehouse 1 - Jacksonville,FedEx,pickup,301,5.36,47.51
+Warehouse 1 - Jacksonville,FedEx,standard,295,5.48,52.20
+Warehouse 1 - Jacksonville,UPS,expedited,276,5.36,49.28
+Warehouse 1 - Jacksonville,UPS,overnight,304,5.51,50.33
+Warehouse 1 - Jacksonville,UPS,pickup,294,5.51,49.32
+Warehouse 1 - Jacksonville,UPS,standard,269,5.36,45.72
+Warehouse 1 - Jacksonville,USPS,expedited,283,5.31,48.06
+Warehouse 1 - Jacksonville,USPS,overnight,292,5.37,50.00
+Warehouse 1 - Jacksonville,USPS,pickup,267,5.27,48.69
+Warehouse 1 - Jacksonville,USPS,standard,287,5.63,50.52
+Warehouse 2 - New York,DHL,expedited,310,5.62,50.97
+Warehouse 2 - New York,DHL,overnight,272,5.50,51.47
+Warehouse 2 - New York,DHL,pickup,294,5.57,49.66
+Warehouse 2 - New York,DHL,standard,287,5.71,52.61
+Warehouse 2 - New York,FedEx,expedited,330,5.35,47.88
+Warehouse 2 - New York,FedEx,overnight,296,5.75,55.07
+Warehouse 2 - New York,FedEx,pickup,301,5.63,51.83
+Warehouse 2 - New York,FedEx,standard,315,5.81,56.51
+Warehouse 2 - New York,UPS,expedited,284,5.31,45.42
+Warehouse 2 - New York,UPS,overnight,280,5.28,46.07
+Warehouse 2 - New York,UPS,pickup,296,5.26,46.96
+Warehouse 2 - New York,UPS,standard,262,5.60,50.76
+Warehouse 2 - New York,USPS,expedited,295,5.70,53.56
+Warehouse 2 - New York,USPS,overnight,291,5.47,50.86
+Warehouse 2 - New York,USPS,pickup,288,5.46,49.65
+Warehouse 2 - New York,USPS,standard,271,5.29,46.49
+Warehouse 3 - Los Angeles,DHL,expedited,275,5.68,51.27
+Warehouse 3 - Los Angeles,DHL,overnight,315,5.38,49.21
+Warehouse 3 - Los Angeles,DHL,pickup,299,5.61,54.52
+Warehouse 3 - Los Angeles,DHL,standard,246,5.45,51.63
+Warehouse 3 - Los Angeles,FedEx,expedited,303,5.28,44.88
+Warehouse 3 - Los Angeles,FedEx,overnight,318,5.32,44.34
+Warehouse 3 - Los Angeles,FedEx,pickup,307,5.40,48.86
+Warehouse 3 - Los Angeles,FedEx,standard,282,5.29,46.45
+Warehouse 3 - Los Angeles,UPS,expedited,271,5.52,49.08
+Warehouse 3 - Los Angeles,UPS,overnight,287,5.52,49.48
+Warehouse 3 - Los Angeles,UPS,pickup,304,5.72,55.59
+Warehouse 3 - Los Angeles,UPS,standard,300,5.30,46.67
+Warehouse 3 - Los Angeles,USPS,expedited,282,5.58,51.06
+Warehouse 3 - Los Angeles,USPS,overnight,294,5.45,46.60
+Warehouse 3 - Los Angeles,USPS,pickup,290,5.37,47.24
+Warehouse 3 - Los Angeles,USPS,standard,292,5.16,43.84
+Warehouse 4 - Miami,DHL,expedited,292,5.61,51.03
+Warehouse 4 - Miami,DHL,overnight,295,5.63,50.17
+Warehouse 4 - Miami,DHL,pickup,291,5.53,51.20
+Warehouse 4 - Miami,DHL,standard,308,5.19,47.40
+Warehouse 4 - Miami,FedEx,expedited,298,5.50,49.33
+Warehouse 4 - Miami,FedEx,overnight,275,5.44,52.36
+Warehouse 4 - Miami,FedEx,pickup,314,5.58,52.23
+Warehouse 4 - Miami,FedEx,standard,283,5.60,50.53
+Warehouse 4 - Miami,UPS,expedited,302,5.43,50.00
+Warehouse 4 - Miami,UPS,overnight,320,5.32,44.38
+Warehouse 4 - Miami,UPS,pickup,292,5.40,48.63
+Warehouse 4 - Miami,UPS,standard,305,5.61,52.79
+Warehouse 4 - Miami,USPS,expedited,306,5.59,51.96
+Warehouse 4 - Miami,USPS,overnight,309,5.51,48.87
+Warehouse 4 - Miami,USPS,pickup,288,5.58,51.74
+Warehouse 4 - Miami,USPS,standard,294,5.48,49.66
+Warehouse 5 - Seattle,DHL,expedited,324,5.45,49.69
+Warehouse 5 - Seattle,DHL,overnight,302,5.67,53.64
+Warehouse 5 - Seattle,DHL,pickup,234,5.62,52.56
+Warehouse 5 - Seattle,DHL,standard,302,5.66,52.98
+Warehouse 5 - Seattle,FedEx,expedited,331,5.52,52.27
+Warehouse 5 - Seattle,FedEx,overnight,296,5.36,48.65
+Warehouse 5 - Seattle,FedEx,pickup,299,5.52,46.82
+Warehouse 5 - Seattle,FedEx,standard,306,5.41,49.67
+Warehouse 5 - Seattle,UPS,expedited,270,5.35,48.15
+Warehouse 5 - Seattle,UPS,overnight,301,5.58,52.82
+Warehouse 5 - Seattle,UPS,pickup,304,5.37,47.04
+Warehouse 5 - Seattle,UPS,standard,303,5.59,50.17
+Warehouse 5 - Seattle,USPS,expedited,292,5.77,54.11
+Warehouse 5 - Seattle,USPS,overnight,274,5.44,49.27
+Warehouse 5 - Seattle,USPS,pickup,306,5.56,50.00
+Warehouse 5 - Seattle,USPS,standard,276,5.70,51.81
+Warehouse 6 - Houston,DHL,expedited,280,5.71,50.71
+Warehouse 6 - Houston,DHL,overnight,308,5.70,52.27
+Warehouse 6 - Houston,DHL,pickup,275,5.27,47.27
+Warehouse 6 - Houston,DHL,standard,269,5.54,52.79
+Warehouse 6 - Houston,FedEx,expedited,314,5.52,49.68
+Warehouse 6 - Houston,FedEx,overnight,312,5.47,49.68
+Warehouse 6 - Houston,FedEx,pickup,317,5.42,48.90
+Warehouse 6 - Houston,FedEx,standard,315,5.24,45.71
+Warehouse 6 - Houston,UPS,expedited,337,5.12,45.40
+Warehouse 6 - Houston,UPS,overnight,294,5.60,51.02
+Warehouse 6 - Houston,UPS,pickup,265,5.42,49.43
+Warehouse 6 - Houston,UPS,standard,286,5.20,44.41
+Warehouse 6 - Houston,USPS,expedited,311,5.63,50.48
+Warehouse 6 - Houston,USPS,overnight,304,5.12,44.08
+Warehouse 6 - Houston,USPS,pickup,289,5.32,48.79
+Warehouse 6 - Houston,USPS,standard,277,5.48,48.74
+Warehouse 7 - Dallas,DHL,expedited,311,5.56,51.13
+Warehouse 7 - Dallas,DHL,overnight,295,5.60,52.20
+Warehouse 7 - Dallas,DHL,pickup,326,5.47,48.77
+Warehouse 7 - Dallas,DHL,standard,305,5.66,54.10
+Warehouse 7 - Dallas,FedEx,expedited,292,5.60,52.40
+Warehouse 7 - Dallas,FedEx,overnight,316,5.40,47.15
+Warehouse 7 - Dallas,FedEx,pickup,291,5.51,50.17
+Warehouse 7 - Dallas,FedEx,standard,294,5.66,52.04
+Warehouse 7 - Dallas,UPS,expedited,281,5.63,55.16
+Warehouse 7 - Dallas,UPS,overnight,298,5.47,51.01
+Warehouse 7 - Dallas,UPS,pickup,264,5.14,43.18
+Warehouse 7 - Dallas,UPS,standard,300,5.71,51.00
+Warehouse 7 - Dallas,USPS,expedited,282,5.43,51.77
+Warehouse 7 - Dallas,USPS,overnight,318,5.57,52.20
+Warehouse 7 - Dallas,USPS,pickup,263,5.71,53.23
+Warehouse 7 - Dallas,USPS,standard,276,5.86,53.99
+Warehouse 8 - San Diego,DHL,expedited,303,5.38,49.17
+Warehouse 8 - San Diego,DHL,overnight,313,5.27,48.88
+Warehouse 8 - San Diego,DHL,pickup,281,5.27,49.47
+Warehouse 8 - San Diego,DHL,standard,279,5.62,50.18
+Warehouse 8 - San Diego,FedEx,expedited,296,5.36,46.28
+Warehouse 8 - San Diego,FedEx,overnight,309,5.53,51.46
+Warehouse 8 - San Diego,FedEx,pickup,297,5.47,51.18
+Warehouse 8 - San Diego,FedEx,standard,300,5.37,47.67
+Warehouse 8 - San Diego,UPS,expedited,280,5.59,51.79
+Warehouse 8 - San Diego,UPS,overnight,289,5.27,44.98
+Warehouse 8 - San Diego,UPS,pickup,261,5.76,53.64
+Warehouse 8 - San Diego,UPS,standard,298,5.51,48.99
+Warehouse 8 - San Diego,USPS,expedited,290,5.45,49.66
+Warehouse 8 - San Diego,USPS,overnight,318,5.81,54.40
+Warehouse 8 - San Diego,USPS,pickup,276,5.61,54.35
+Warehouse 8 - San Diego,USPS,standard,295,5.43,49.83
