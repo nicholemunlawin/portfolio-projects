@@ -1,0 +1,15 @@
+# Power BI temporary files
+*.tmp
+*.temp
+*.bak
+*.pbitmp
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Power BI local cache folders
+.pbi/
+AnalysisServicesWorkspaces/

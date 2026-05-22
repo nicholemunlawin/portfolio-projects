@@ -9,6 +9,7 @@ Each project is kept in its own folder, and the original Git history is preserve
 - [Python Projects](#python-projects)
 - [SQL Projects](#sql-projects)
 - [Excel Projects](#excel-projects)
+- [Power BI Projects](#power-bi-projects)
 - [Web Projects](#web-projects)
 - [Misc Projects](#misc-projects)
 
@@ -39,6 +40,12 @@ Each project is kept in its own folder, and the original Git history is preserve
 | [HR Analytics Dashboard](excel-projects/hr-analytics-dashboard) | Synthetic HR analytics dashboard covering attrition, workforce metrics, salary, tenure, engagement, and employee demographics. | Excel, Dashboard, Pivot Tables, Charts |
 | [Retail Sales Analytics Dashboard](excel-projects/retail-sales-analytics-dashboard) | Synthetic retail sales and customer experience dashboard covering sales, profit, returns, regions, categories, channels, and ratings. | Excel, Dashboard, Pivot Tables, Charts |
 | [Small Dummy Data Analytics Dashboard](excel-projects/small-dummy-data-analytics-dashboard) | Synthetic retail-style sample dashboard with transactions, customers, products, satisfaction, returns, and profitability analysis. | Excel, Dashboard, Pivot Tables, Charts |
+
+## Power BI Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [Data Professional Survey Dashboard](power-bi-projects/data-professional-survey) | Power BI dashboard exploring survey responses from data professionals, including roles, salary bands, programming languages, career switching, job priorities, and satisfaction scores. | Power BI, Power Query, DAX, Excel, CSV |
 
 ## Web Projects
 
