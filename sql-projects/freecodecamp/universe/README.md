@@ -15,7 +15,7 @@ This project was created using PostgreSQL and exported as a `.sql` database dump
 # 📁 Project Structure
 
 ```bash
-.
+sql-projects\freecodecamp\universe
 ├── universe.sql
 └── README.md
 ```
