@@ -33,6 +33,7 @@ Each project is kept in its own folder, and the original Git history is preserve
 |---|---|---|
 | [RetailPulse Ecommerce SQL Portfolio](sql-projects/retailpulse-ecommerce-sql-portfolio) | Ecommerce analytics project with a normalized MySQL schema, CSV data, ERD, quality checks, and analysis queries. | MySQL, SQL, CSV, Mermaid |
 | [Universe Database](sql-projects/freecodecamp/universe) | A PostgreSQL database project that models a simplified universe system containing galaxies, stars, planets, moons, and black holes. | PostgreSQL 12, SQL, pg_dump |
+| [Students Database Project](sql-projects/freecodecamp/students) | PostgreSQL database storing student information, majors, courses, and their relationships with primary/foreign keys and many-to-many design. | PostgreSQL, SQL, pg_dump |
 
 ## Excel Projects
 
