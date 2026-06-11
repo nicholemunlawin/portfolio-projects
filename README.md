@@ -8,6 +8,7 @@ Each project is kept in its own folder, and the original Git history is preserve
 
 - [Python Projects](#python-projects)
 - [SQL Projects](#sql-projects)
+- [Bash Scripting Projects](#bash-scripting-projects)
 - [Excel Projects](#excel-projects)
 - [Power BI Projects](#power-bi-projects)
 - [Web Projects](#web-projects)
@@ -33,7 +34,14 @@ Each project is kept in its own folder, and the original Git history is preserve
 |---|---|---|
 | [RetailPulse Ecommerce SQL Portfolio](sql-projects/retailpulse-ecommerce-sql-portfolio) | Ecommerce analytics project with a normalized MySQL schema, CSV data, ERD, quality checks, and analysis queries. | MySQL, SQL, CSV, Mermaid |
 | [Universe Database](sql-projects/freecodecamp/universe) | A PostgreSQL database project that models a simplified universe system containing galaxies, stars, planets, moons, and black holes. | PostgreSQL 12, SQL, pg_dump |
-| [Students Database Project](sql-projects/freecodecamp/students) | PostgreSQL database storing student information, majors, courses, and their relationships with primary/foreign keys and many-to-many design. | PostgreSQL, SQL, pg_dump |
+
+## Bash Scripting Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [Bike Shop](sql-projects/freecodecamp/bash%20scripting/bike-shop) | Interactive CLI bike rental shop with rent/return functionality, customer management, and PostgreSQL backend. | Bash, PostgreSQL |
+| [Students Database](sql-projects/freecodecamp/bash%20scripting/students) | PostgreSQL student information system with analytical SQL queries for GPA, majors, courses, and enrollments. | Bash, PostgreSQL, SQL |
+| [World Cup Database](sql-projects/freecodecamp/bash%20scripting/worldcup) | FIFA World Cup data import and analysis using bash scripts to parse CSV and run analytical queries against PostgreSQL. | Bash, PostgreSQL, CSV |
 
 ## Excel Projects
 
