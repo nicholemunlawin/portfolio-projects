@@ -34,15 +34,16 @@ Each project is kept in its own folder, and the original Git history is preserve
 |---|---|---|
 | [RetailPulse Ecommerce SQL Portfolio](sql-projects/retailpulse-ecommerce-sql-portfolio) | Ecommerce analytics project with a normalized MySQL schema, CSV data, ERD, quality checks, and analysis queries. | MySQL, SQL, CSV, Mermaid |
 | [Universe Database](sql-projects/freecodecamp/universe) | A PostgreSQL database project that models a simplified universe system containing galaxies, stars, planets, moons, and black holes. | PostgreSQL 12, SQL, pg_dump |
+| [Periodic Table Database](sql-projects/freecodecamp/periodic-table-database/periodic_table) | PostgreSQL database storing element information with a bash script to query elements by atomic number, symbol, or name. | PostgreSQL, Bash |
 
 ## Bash Scripting Projects
 
 | Project | Description | Technologies |
 |---|---|---|
-| [Bike Shop](sql-projects/freecodecamp/bash%20scripting/bike-shop) | Interactive CLI bike rental shop with rent/return functionality, customer management, and PostgreSQL backend. | Bash, PostgreSQL |
-| [Salon Appointment Scheduler](sql-projects/freecodecamp/bash%20scripting/salon) | Interactive salon booking system where customers select services, provide phone numbers, and book appointments. | Bash, PostgreSQL |
-| [Students Database](sql-projects/freecodecamp/bash%20scripting/students) | PostgreSQL student information system with analytical SQL queries for GPA, majors, courses, and enrollments. | Bash, PostgreSQL, SQL |
-| [World Cup Database](sql-projects/freecodecamp/bash%20scripting/worldcup) | FIFA World Cup data import and analysis using bash scripts to parse CSV and run analytical queries against PostgreSQL. | Bash, PostgreSQL, CSV |
+| [Bike Shop](sql-projects/freecodecamp/bash-scripting/bike-shop) | Interactive CLI bike rental shop with rent/return functionality, customer management, and PostgreSQL backend. | Bash, PostgreSQL |
+| [Salon Appointment Scheduler](sql-projects/freecodecamp/bash-scripting/salon) | Interactive salon booking system where customers select services, provide phone numbers, and book appointments. | Bash, PostgreSQL |
+| [Students Database](sql-projects/freecodecamp/bash-scripting/students) | PostgreSQL student information system with analytical SQL queries for GPA, majors, courses, and enrollments. | Bash, PostgreSQL, SQL |
+| [World Cup Database](sql-projects/freecodecamp/bash-scripting/worldcup) | FIFA World Cup data import and analysis using bash scripts to parse CSV and run analytical queries against PostgreSQL. | Bash, PostgreSQL, CSV |
 
 ## Excel Projects
 
