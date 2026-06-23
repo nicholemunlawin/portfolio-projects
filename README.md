@@ -42,6 +42,7 @@ Each project is kept in its own folder, and the original Git history is preserve
 |---|---|---|
 | [Bike Shop](sql-projects/freecodecamp/bash-scripting/bike-shop) | Interactive CLI bike rental shop with rent/return functionality, customer management, and PostgreSQL backend. | Bash, PostgreSQL |
 | [Salon Appointment Scheduler](sql-projects/freecodecamp/bash-scripting/salon) | Interactive salon booking system where customers select services, provide phone numbers, and book appointments. | Bash, PostgreSQL |
+| [Number Guessing Game](sql-projects/freecodecamp/bash-scripting/number-guessing-game) | CLI number guessing game with random number generation, input validation, and PostgreSQL-backed user stats tracking. | Bash, PostgreSQL |
 | [Students Database](sql-projects/freecodecamp/bash-scripting/students) | PostgreSQL student information system with analytical SQL queries for GPA, majors, courses, and enrollments. | Bash, PostgreSQL, SQL |
 | [World Cup Database](sql-projects/freecodecamp/bash-scripting/worldcup) | FIFA World Cup data import and analysis using bash scripts to parse CSV and run analytical queries against PostgreSQL. | Bash, PostgreSQL, CSV |
 
